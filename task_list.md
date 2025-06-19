@@ -4,9 +4,9 @@
 
 ## Data
 
-- [] - Organize each data set
-- [] - Org
-- []
+- [ ] - Organize each data set
+- [ ] - Org
+- [ ]
 
 ## Writing
 
