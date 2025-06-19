@@ -1,5 +1,6 @@
 # Local.Politics
-## A set of case studies using a mixture model to analyze the clustering structure of US local politics
+
+## Six case studies to analyze the local structure of US politics
 
 This projects explores a simple question :  how are local political cultures constituted in the US against the backdrop of US national politics? We investigate this question by applying a mixture model on local-level referendum data and then comparing the results to those for national elections. The mixture model allows us to take aggregated vote totals for a set of communities (either counties, municipalities or voting districts) across a set of referendum questions and uncover a set of consistent voting blocs, patterns of  This permits two types of analysis: How are the clusters distributed against each other? And, how do they relate to national-level politics? 
 
