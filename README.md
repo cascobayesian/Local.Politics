@@ -1,4 +1,4 @@
-# The structure of conflict in American local politics
+# The structure of American local politics
 
 Data, documentation and a worked example for **"The Structure of Local Politics"** (Aaron R. Kaufman and John D. O'Brien, working paper).
 
