@@ -1,0 +1,55 @@
+question_id,year,type,scope,label,units,votes,yes_share
+CONSTITUTIONAL_AMENDMENT_10_2012,2012,ballot_measure,statewide,2012 Amdt 10: Tangible Personal Property Tax Exemption,1880,1910275,0.444
+CONSTITUTIONAL_AMENDMENT_11_2012,2012,ballot_measure,statewide,2012 Amdt 11: Additional Homestead Exemption; Low-Income Seniors Who Maintain Long-Term Residency on Property; Equal to Assessed Value,1884,1968850,0.5979
+CONSTITUTIONAL_AMENDMENT_12_2012,2012,ballot_measure,statewide,2012 Amdt 12: Appointment of Student Body President to Board of Governors of the State University System,1880,1866876,0.4085
+CONSTITUTIONAL_AMENDMENT_1_2012,2012,ballot_measure,statewide,2012 Amdt 1: Health Care Services,1878,1815616,0.4253
+CONSTITUTIONAL_AMENDMENT_2_2012,2012,ballot_measure,statewide,2012 Amdt 2: Veterans Disabled Due to Combat Injury; Homestead Property Tax Discount,1881,1945388,0.6033
+CONSTITUTIONAL_AMENDMENT_3_2012,2012,ballot_measure,statewide,2012 Amdt 3: State Government Revenue Limitation,1879,1929011,0.4215
+CONSTITUTIONAL_AMENDMENT_4_2012,2012,ballot_measure,statewide,2012 Amdt 4: Property Tax Limitations; Property Value Decline; Reduction for Nonhomestead Assessment Increases; Delay of Scheduled Repeal,1880,1883131,0.4547
+CONSTITUTIONAL_AMENDMENT_5_2012,2012,ballot_measure,statewide,2012 Amdt 5: State Courts,1881,1873084,0.3523
+CONSTITUTIONAL_AMENDMENT_6_2012,2012,ballot_measure,statewide,2012 Amdt 6: Prohibition on Public Funding of Abortions; Construction of Abortion Rights,1881,1969806,0.4024
+CONSTITUTIONAL_AMENDMENT_8_2012,2012,ballot_measure,statewide,2012 Amdt 8: Religious Freedom,1883,1932532,0.4514
+CONSTITUTIONAL_AMENDMENT_9_2012,2012,ballot_measure,statewide,2012 Amdt 9: Homestead Property Tax Exemption for Surviving Spouse of Military Veteran or First Responder,1883,1895454,0.583
+CONSTITUTIONAL_AMENDMENT_1_2014,2014,ballot_measure,statewide,2014 Amdt 1: Water and Land Conservation - Dedicates Funds to Acquire and Restore Florida Conservation and Recreation Lands,1874,1279993,0.8133
+CONSTITUTIONAL_AMENDMENT_2_2014,2014,ballot_measure,statewide,2014 Amdt 2: Use of Marijuana for Certain Medical Conditions,1871,1335045,0.6261
+CONSTITUTIONAL_AMENDMENT_3_2014,2014,ballot_measure,statewide,2014 Amdt 3: Prospective Appointment of Certain Judicial Vacancies,1871,1147742,0.4763
+CONSTITUTIONAL_AMENDMENT_1_2016,2016,ballot_measure,statewide,2016 Amdt 1: Rights of Electricity Consumers Regarding Solar Energy Choice,1889,2277771,0.5281
+CONSTITUTIONAL_AMENDMENT_2_2016,2016,ballot_measure,statewide,2016 Amdt 2: Use of Marijuana for Debilitating Medical Conditions,1892,2318703,0.7255
+CONSTITUTIONAL_AMENDMENT_3_2016,2016,ballot_measure,statewide,2016 Amdt 3: Tax Exemption for Totally and Permanently Disabled First Responders,1893,2293699,0.8544
+CONSTITUTIONAL_AMENDMENT_5_2016,2016,ballot_measure,statewide,"2016 Amdt 5: Homestead Tax Exemption for Certain Senior, Low-Income, Long-Term Residents; Determination of Just Value",1893,2259989,0.8099
+CONSTITUTIONAL_AMENDMENT_10_2018,2018,ballot_measure,statewide,2018 Amdt 10: State and Local Government Structure and Operation,1875,1948039,0.5845
+CONSTITUTIONAL_AMENDMENT_11_2018,2018,ballot_measure,statewide,2018 Amdt 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,1875,1915786,0.6511
+CONSTITUTIONAL_AMENDMENT_12_2018,2018,ballot_measure,statewide,2018 Amdt 12: Lobbying and Abuse of Office by Public Officers,1878,1943372,0.8135
+CONSTITUTIONAL_AMENDMENT_13_2018,2018,ballot_measure,statewide,2018 Amdt 13: Ends Dog Racing,1875,1913414,0.7671
+CONSTITUTIONAL_AMENDMENT_1_2018,2018,ballot_measure,statewide,2018 Amdt 1: Increased Homestead Property Tax Exemption,1874,1956384,0.5738
+CONSTITUTIONAL_AMENDMENT_2_2018,2018,ballot_measure,statewide,2018 Amdt 2: Limitations on Property Tax Assessments,1875,1934755,0.6777
+CONSTITUTIONAL_AMENDMENT_3_2018,2018,ballot_measure,statewide,2018 Amdt 3: Voter Control of Gambling in Florida,1875,1990204,0.7267
+CONSTITUTIONAL_AMENDMENT_4_2018,2018,ballot_measure,statewide,2018 Amdt 4: Voting Restoration Amendment,1875,2011915,0.6942
+CONSTITUTIONAL_AMENDMENT_5_2018,2018,ballot_measure,statewide,"2018 Amdt 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees",1875,1998719,0.6248
+CONSTITUTIONAL_AMENDMENT_6_2018,2018,ballot_measure,statewide,2018 Amdt 6: Rights of Crime Victims; Judges,1874,1974917,0.6136
+CONSTITUTIONAL_AMENDMENT_7_2018,2018,ballot_measure,statewide,2018 Amdt 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,1874,1966735,0.6551
+CONSTITUTIONAL_AMENDMENT_9_2018,2018,ballot_measure,statewide,2018 Amdt 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces,1875,1973436,0.7705
+CONSTITUTIONAL_AMENDMENT_1_2020,2020,ballot_measure,statewide,2020 Amdt 1: Citizenship Requirement to Vote in Florida Elections,1893,2686875,0.7588
+CONSTITUTIONAL_AMENDMENT_2_2020,2020,ballot_measure,statewide,2020 Amdt 2: Raising Florida's Minimum Wage,1893,2692315,0.7158
+CONSTITUTIONAL_AMENDMENT_3_2020,2020,ballot_measure,statewide,"2020 Amdt 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet",1892,2630905,0.5848
+CONSTITUTIONAL_AMENDMENT_4_2020,2020,ballot_measure,statewide,2020 Amdt 4: Voter Approval of Constitutional Amendments,1893,2614000,0.4521
+CONSTITUTIONAL_AMENDMENT_5_2020,2020,ballot_measure,statewide,2020 Amdt 5: Limitation on Homestead Assessments,1893,2584827,0.7493
+CONSTITUTIONAL_AMENDMENT_6_2020,2020,ballot_measure,statewide,"2020 Amdt 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities",1893,2657474,0.8982
+CONSTITUTIONAL_AMENDMENT_1_2022,2022,ballot_measure,statewide,2022 Amdt 1: Limitation on Assessment of Real Property Used for Residential Purposes,1856,1655234,0.5934
+CONSTITUTIONAL_AMENDMENT_2_2022,2022,ballot_measure,statewide,2022 Amdt 2: Abolishing the Constitution Revision Commission,1856,1630118,0.5113
+CONSTITUTIONAL_AMENDMENT_3_2022,2022,ballot_measure,statewide,2022 Amdt 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce,1856,1679339,0.6129
+CONSTITUTIONAL_AMENDMENT_1_2024,2024,ballot_measure,statewide,2024 Amdt 1: Partisan Election of Members of District School Boards,1854,2461920,0.5401
+CONSTITUTIONAL_AMENDMENT_2_2024,2024,ballot_measure,statewide,2024 Amdt 2: Right to Fish and Hunt,1854,2529529,0.6331
+CONSTITUTIONAL_AMENDMENT_3_2024,2024,ballot_measure,statewide,2024 Amdt 3: Adult Personal Use of Marijuana,1853,2605706,0.5569
+CONSTITUTIONAL_AMENDMENT_4_2024,2024,ballot_measure,statewide,2024 Amdt 4: Amendment to Limit Government Interference with Abortion,1853,2617935,0.6393
+CONSTITUTIONAL_AMENDMENT_5_2024,2024,ballot_measure,statewide,2024 Amdt 5: Annual Adjustments to the Value of Certain Homestead Exemptions,1853,2505320,0.6667
+CONSTITUTIONAL_AMENDMENT_6_2024,2024,ballot_measure,statewide,2024 Amdt 6: Repeal of Public Campaign Financing Requirement,1851,2468911,0.5037
+PRESIDENT_2012,2012,federal,federal,,1883,2222894,0.6292
+US_SENATE_2012,2012,federal,federal,,1881,2099878,0.665
+PRESIDENT_2016,2016,federal,federal,,1890,2427257,0.6412
+US_SENATE_2016,2016,federal,federal,,1892,2397416,0.5868
+US_SENATE_2018,2018,federal,federal,,1874,2073419,0.6276
+PRESIDENT_2020,2020,federal,federal,,1894,2867685,0.5815
+US_SENATE_2022,2022,federal,federal,,1857,1834412,0.5133
+PRESIDENT_2024,2024,federal,federal,,1854,2689160,0.5051
+US_SENATE_2024,2024,federal,federal,,1854,2637099,0.5145

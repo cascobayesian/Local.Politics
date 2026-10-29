@@ -1,0 +1,87 @@
+question_id,year,type,scope,label,units,votes,yes_share
+2011_proposition_103,2011,ballot_measure,statewide,2011 Prop 103: Temporary Tax Increase for Public Education,1725,553503,0.4055
+2012_amendment_64,2012,ballot_measure,statewide,2012 Amdt 64: Use and Regulation of Marijuana,1696,1408658,0.5738
+2012_amendment_65,2012,ballot_measure,statewide,2012 Amdt 65: Colorado Congressional Delegation to Support Campaign Finance Limits,1696,1339791,0.745
+2012_amendment_s,2012,ballot_measure,statewide,2012 Amdt S: State Personnel System,1696,1273289,0.5899
+2013_amendment_66,2013,ballot_measure,statewide,2013 Amdt 66: Funding for Public Schools,1726,766630,0.3976
+2013_proposition_aa,2013,ballot_measure,statewide,2013 Prop AA: Retail Marijuana Taxes,1726,757576,0.6721
+2014_amendment_67,2014,ballot_measure,statewide,2014 Amdt 67: Definition of Person and Child,1685,1124857,0.3031
+2014_amendment_68,2014,ballot_measure,statewide,2014 Amdt 68: Horse Racetrack Casino Gambling,1685,1135186,0.3059
+2014_proposition_104,2014,ballot_measure,statewide,2014 Prop 104: School Board Meeting Requirements,1685,1094332,0.6968
+2014_proposition_105,2014,ballot_measure,statewide,2014 Prop 105: Labeling Genetically Modified Food,1685,1129837,0.3596
+2015_proposition_bb,2015,ballot_measure,statewide,2015 Prop BB: Retain Revenue in Excess of Blue Book Estimate,1725,680576,0.7062
+2016_amendment_69,2016,ballot_measure,statewide,2016 Amdt 69: Statewide Health Care System,1717,1509232,0.2376
+2016_amendment_70,2016,ballot_measure,statewide,2016 Amdt 70: State Minimum Wage,1717,1548796,0.5988
+2016_amendment_71,2016,ballot_measure,statewide,2016 Amdt 71: Requirements for Constitutional Amendments,1717,1495832,0.5076
+2016_amendment_72,2016,ballot_measure,statewide,2016 Amdt 72: Increase Cigarette and Tobacco Taxes,1717,1545796,0.5125
+2016_amendment_t,2016,ballot_measure,statewide,2016 Amdt T: No Exceptions to Involuntary Servitude Prohibition,1717,1441365,0.5463
+2016_amendment_u,2016,ballot_measure,statewide,2016 Amdt U: Exempt Certain Possessory Interests from Property Taxes,1717,1413528,0.4504
+2016_proposition_106,2016,ballot_measure,statewide,2016 Prop 106: Access to Medical Aid-in-Dying Medication,1717,1537649,0.6825
+2016_proposition_107,2016,ballot_measure,statewide,2016 Prop 107: Presidential Primary Elections,1717,1497392,0.6468
+2016_proposition_108,2016,ballot_measure,statewide,2016 Prop 108: Unaffiliated Voter Participation in Primary Elections,1717,1481044,0.5413
+2018_amendment_73,2018,ballot_measure,statewide,2018 Amdt 73: Funding for Public Schools,1719,1397707,0.5118
+2018_amendment_74,2018,ballot_measure,statewide,2018 Amdt 74: Compensation for Reduction in Fair Market Value,1719,1399601,0.4399
+2018_amendment_75,2018,ballot_measure,statewide,2018 Amdt 75: Campaign Contributions,1719,1362191,0.3416
+2018_amendment_a,2018,ballot_measure,statewide,2018 Amdt A: Prohibit Slavery and Involuntary Servitude in All Circumstances,1719,1379558,0.717
+2018_amendment_v,2018,ballot_measure,statewide,2018 Amdt V: Lower Age Requirement for Members of the State Legislature,1719,1401801,0.3953
+2018_amendment_w,2018,ballot_measure,statewide,2018 Amdt W: Election Ballot Format for Judicial Retention Elections,1719,1340475,0.5728
+2018_amendment_x,2018,ballot_measure,statewide,2018 Amdt X: Industrial Hemp Definition,1719,1334793,0.6224
+2018_amendment_y,2018,ballot_measure,statewide,2018 Amdt Y: Congressional Redistricting,1719,1366926,0.7325
+2018_amendment_z,2018,ballot_measure,statewide,2018 Amdt Z: Legislative Redistricting,1719,1352252,0.7313
+2018_proposition_109,2018,ballot_measure,statewide,2018 Prop 109: Authorize Bonds for Highway Projects,1719,1386860,0.3986
+2018_proposition_110,2018,ballot_measure,statewide,2018 Prop 110: Authorize Sales Tax and Bonds for Transportation Projects,1719,1396279,0.4607
+2018_proposition_111,2018,ballot_measure,statewide,2018 Prop 111: Limitations on Payday Loans,1719,1382177,0.7884
+2018_proposition_112,2018,ballot_measure,statewide,2018 Prop 112: Increased Setback Requirement for Oil and Natural Gas Development,1719,1420591,0.4919
+2019_proposition_cc,2019,ballot_measure,statewide,2019 Prop CC: Retain State Government Revenue,1726,860829,0.5126
+2019_proposition_dd,2019,ballot_measure,statewide,2019 Prop DD: Legalization and Taxation of Sports Betting to Fund Water Projects and Obligations,1726,858059,0.5531
+2020_amendment_76,2020,ballot_measure,statewide,2020 Amdt 76: Citizenship Qualification of Electors,1722,1778758,0.5692
+2020_amendment_77,2020,ballot_measure,statewide,2020 Amdt 77: Local Voter Approval of Gaming Limits,1722,1728550,0.6247
+2020_amendment_b,2020,ballot_measure,statewide,2020 Amdt B: Repeal Gallagher Amendment,1722,1694326,0.5916
+2020_amendment_c,2020,ballot_measure,statewide,2020 Amdt C: Conduct of Charitable Gaming,1722,1707791,0.5506
+2020_proposition_113,2020,ballot_measure,statewide,2020 Prop 113: Adopt Agreement to Elect U.S. President By National Popular Vote,1722,1774831,0.59
+2020_proposition_114,2020,ballot_measure,statewide,2020 Prop 114: Reintroduction and Management of Gray Wolves,1722,1760577,0.5614
+2020_proposition_115,2020,ballot_measure,statewide,2020 Prop 115: Prohibit Abortions After 22 Weeks,1722,1782208,0.3478
+2020_proposition_116,2020,ballot_measure,statewide,2020 Prop 116: State Income Tax Rate Reduction,1722,1777853,0.534
+2020_proposition_117,2020,ballot_measure,statewide,2020 Prop 117: Voter Approval for Certain New State Enterprises,1722,1690463,0.4914
+2020_proposition_118,2020,ballot_measure,statewide,2020 Prop 118: Paid Family and Medical Leave Insurance Program,1722,1768171,0.6257
+2020_proposition_ee,2020,ballot_measure,statewide,2020 Prop EE: Cigarette Tobacco and Nicotine Products Tax,1722,1784278,0.716
+2021_amendment_78,2021,ballot_measure,statewide,2021 Amdt 78: Legislative Authority for Spending State Money,1726,831658,0.4054
+2021_proposition_119,2021,ballot_measure,statewide,2021 Prop 119: Learning Enrichment and Academic Progress Program,1725,848842,0.4668
+2021_proposition_120,2021,ballot_measure,statewide,2021 Prop 120: Property Tax Assessment Rate Reduction,1725,842077,0.4139
+2022_amendment_d,2022,ballot_measure,statewide,2022 Amdt D: New 23rd Judicial District Judges,1720,1236853,0.7047
+2022_amendment_e,2022,ballot_measure,statewide,2022 Amdt E: Extend Homestead Exemption to Gold Star Spouses,1720,1333408,0.8827
+2022_amendment_f,2022,ballot_measure,statewide,2022 Amdt F: Changes to Charitable Gaming Operations,1720,1271167,0.4372
+2022_proposition_121,2022,ballot_measure,statewide,2022 Prop 121: State Income Tax Rate Reduction,1720,1354208,0.6117
+2022_proposition_122,2022,ballot_measure,statewide,2022 Prop 122: Access to Natural Psychedelic Substances,1720,1351057,0.5777
+2022_proposition_123,2022,ballot_measure,statewide,2022 Prop 123: Dedicate Revenue for Affordable Housing Programs,1720,1350879,0.5708
+2022_proposition_124,2022,ballot_measure,statewide,2022 Prop 124: Increase Allowable Liquor Store Locations,1720,1342654,0.4046
+2022_proposition_125,2022,ballot_measure,statewide,2022 Prop 125: Allow Grocery and Convenience Stores to Sell Wine,1720,1356733,0.5236
+2022_proposition_126,2022,ballot_measure,statewide,2022 Prop 126: Third-Party Delivery of Alcohol Beverages,1720,1353358,0.5185
+2022_proposition_ff,2022,ballot_measure,statewide,2022 Prop FF: Healthy School Meals for All,1720,1361621,0.6046
+2022_proposition_gg,2022,ballot_measure,statewide,2022 Prop GG: Add Tax Information Table to Petitions and Ballots,1720,1324537,0.732
+2023_proposition_hh,2023,ballot_measure,statewide,2023 Prop HH (STATUTORY) -- Reduce Property Taxes and Retain State Revenue,1726,921885,0.4519
+2023_proposition_ii,2023,ballot_measure,statewide,2023 Prop II (STATUTORY) - Retain Nicotine Tax Revenue in Excess of Blue Book Estimate,1727,919413,0.7255
+2024_amendment_79,2024,ballot_measure,statewide,2024 Amdt 79 (CONSTITUTIONAL) - Constitutional Right to Abortion,1719,1717855,0.6835
+2024_amendment_80,2024,ballot_measure,statewide,2024 Amdt 80 (CONSTITUTIONAL) - Constitutional Right to School Choice,1719,1690609,0.455
+2024_amendment_g,2024,ballot_measure,statewide,2024 Amdt G (CONSTITUTIONAL) - Modify Property Tax Exemption for Veterans with Disabilities,1719,1672301,0.748
+2024_amendment_h,2024,ballot_measure,statewide,2024 Amdt H (CONSTITUTIONAL) - Judicial Discipline Procedures and Confidentiality,1719,1627548,0.7551
+2024_amendment_i,2024,ballot_measure,statewide,2024 Amdt I (CONSTITUTIONAL) - Constitutional Bail Exception for First Degree Murder,1719,1665085,0.6965
+2024_amendment_j,2024,ballot_measure,statewide,2024 Amdt J (CONSTITUTIONAL) - Repealing the Definition of Marriage in the Constitution,1719,1706879,0.709
+2024_amendment_k,2024,ballot_measure,statewide,2024 Amdt K (CONSTITUTIONAL) - Modify Constitutional Election Deadlines,1719,1593698,0.4894
+2024_proposition_127,2024,ballot_measure,statewide,"2024 Prop 127 (STATUTORY) - Prohibit Bobcat, Lynx, and Mountain Lion Hunting",1719,1683605,0.5021
+2024_proposition_128,2024,ballot_measure,statewide,2024 Prop 128 (STATUTORY) - Parole Eligibility for Crimes of Violence,1719,1661978,0.5889
+2024_proposition_129,2024,ballot_measure,statewide,2024 Prop 129 (STATUTORY) - Establishing Veterinary Professional Associates,1719,1644048,0.5357
+2024_proposition_130,2024,ballot_measure,statewide,2024 Prop 130 (STATUTORY) - Funding for Law Enforcement,1719,1654961,0.5061
+2024_proposition_131,2024,ballot_measure,statewide,2024 Prop 131 (STATUTORY) - Establishing All‑Candidate Primary and Ranked Choice Voting General Elections,1719,1646935,0.4825
+2024_proposition_jj,2024,ballot_measure,statewide,2024 Prop JJ (STATUTORY) - Retain Additional Sports Betting Tax Revenue,1719,1697589,0.7973
+2024_proposition_kk,2024,ballot_measure,statewide,2024 Prop KK (STATUTORY) - Firearms and Ammunition Excise Tax,1719,1705396,0.6154
+2025_proposition_ll,2025,ballot_measure,statewide,2025 Retain revenue from high-income tax deduction limits to fund free school meals.,1727,936185,0.7057
+2025_proposition_mm,2025,ballot_measure,statewide,2025 Further limit high-income tax deductions to fund school meals and food assistance.,1726,940210,0.6423
+2012_president,2012,federal,federal,,1696,1422348,0.5899
+2014_united_states_senator,2014,federal,federal,,1685,1088636,0.5609
+2016_president,2016,federal,federal,,1717,1438912,0.6133
+2016_united_states_senator,2016,federal,federal,,1717,1456801,0.6026
+2020_president,2020,federal,federal,,1722,1795486,0.6529
+2020_united_states_senator,2020,federal,federal,,1722,1799038,0.6283
+2022_united_states_senator,2022,federal,federal,,1720,1362033,0.6512
+2024_president,2024,federal,federal,,1719,1722237,0.6354

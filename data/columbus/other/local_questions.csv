@@ -1,0 +1,58 @@
+question_id,year,scope,title,units,votes,yes_share
+FRANKLIN_COUNTY_TAX_LEVY_2012_11,2012,Franklin County,#56 Franklin County Tax Levy,159,531546,0.6247
+COLUMBUS_BOND_PARKS_AND_RECREATION_2013_11,2013,City of Columbus,#2 Columbus Bond Parks and Recreation,92,86849,0.6966
+COLUMBUS_BOND_PUBLIC_SAFETY_2013_11,2013,City of Columbus,#1 Columbus Bond Public Safety,92,85771,0.6447
+COLUMBUS_BOND_PUBLIC_SERVICE_2013_11,2013,City of Columbus,#3 Columbus Bond Public Service,92,86473,0.6794
+COLUMBUS_BOND_PUBLIC_UTILITIES_2013_11,2013,City of Columbus,#4 Columbus Bond Public Utilities,92,86316,0.6735
+COLUMBUS_CITY_SCHOOLS_BOND_AND_LEVY_2013_11,2013,Columbus City School District,#50 Columbus City Schools Bond and Levy,91,65693,0.3081
+COLUMBUS_CITY_SCHOOLS_INDEPENDENT_AUDITOR_2013_11,2013,Columbus City School District,#51 Columbus City Schools Independent Auditor,91,65599,0.3963
+COLUMBUS_CHARTER_AMENDMENT_1_2014_11,2014,City of Columbus,#6 Columbus Charter Amendment 1,91,151652,0.7435
+COLUMBUS_CHARTER_AMENDMENT_2_2014_11,2014,City of Columbus,#7 Columbus Charter Amendment 2,91,147451,0.7119
+COLUMBUS_CHARTER_AMENDMENT_3_2014_11,2014,City of Columbus,#8 Columbus Charter Amendment 3,91,149692,0.817
+FRANKLIN_COUNTY_CHILDREN_SERVICES_TAX_LEVY_2014_11,2014,Franklin County,#4 Franklin County Children Services - Tax Levy,159,291469,0.7009
+FRANKLIN_COUNTY_TAX_LEVY_2014_05,2014,Franklin County,#6 Franklin County Tax Levy,159,132324,0.2976
+FRANKLIN_COUNTY_ADAMH_TAX_LEVY_2015_11,2015,Franklin County,#14 Franklin County ADAMH Tax Levy,159,293446,0.7461
+FRANKLIN_COUNTY_ZOO_TAX_LEVY_2015_11,2015,Franklin County,#15 Franklin County Zoo Tax Levy,159,299516,0.7582
+CHARTER_AMENDMENT_CITY_OF_COLUMBUS_2016_08,2016,City of Columbus,#1 Proposed Charter Amendment CITY OF COLUMBUS,91,49293,0.2849
+COLUMBUS_BOND_ISSUE_SAFETY_2016_11,2016,City of Columbus,#1 Columbus Bond Issue - Safety,91,320750,0.6353
+COLUMBUS_BOND_PUBLIC_UTILITIES_2016_11,2016,City of Columbus,#4 Columbus Bond - Public Utilities,91,320053,0.6601
+COLUMBUS_BOND_REC_AND_PARKS_2016_11,2016,City of Columbus,#2 Columbus Bond - Rec and Parks,91,324434,0.7008
+COLUMBUS_BOND_STREETS_2016_11,2016,City of Columbus,#3 Columbus Bond - Streets,91,321169,0.6804
+COLUMBUS_CSD_BOND_ISSUE_TAX_LEVIES_2016_11,2016,Columbus City School District,#57 Columbus CSD Bond Issue/Tax Levies,94,212926,0.6202
+COTA_2016_11,2016,Franklin County,#60 COTA,159,541474,0.7226
+FRANKLIN_COUNTY_BOARD_OF_DEVELOPMENTAL_DISABILITIES_2017_11,2017,Franklin County,#4 Franklin County Board of Developmental Disabilities,159,197638,0.8101
+FRANKLIN_COUNTY_SENIOR_SERVICES_2017_05,2017,Franklin County,#1 Franklin County Senior Services,159,57940,0.8389
+CITY_OF_COLUMBUS_CHARTER_2018_05,2018,City of Columbus,#3 City of Columbus Charter,90,85643,0.7506
+FRANKLIN_COUNTY_METRO_PARKS_2018_11,2018,Franklin County,#3 Franklin County Metro Parks,159,477647,0.6726
+BOND_ISSUE_CITY_OF_COLUMBUS_HEALTH_AND_SAFETY_2019_05,2019,City of Columbus,#7 Proposed Bond Issue City of Columbus - Health and Safety,89,32820,0.7302
+BOND_ISSUE_CITY_OF_COLUMBUS_NEIGHBORHOOD_DEVELOPMENT_2019_05,2019,City of Columbus,#11 Proposed Bond Issue City of Columbus - Neighborhood Development,89,32750,0.7358
+BOND_ISSUE_CITY_OF_COLUMBUS_PARKS_AND_REC_2019_05,2019,City of Columbus,#8 Proposed Bond Issue City of Columbus - Parks and Rec,89,32652,0.7684
+BOND_ISSUE_CITY_OF_COLUMBUS_PUBLIC_SERVICES_2019_05,2019,City of Columbus,#9 Proposed Bond Issue City of Columbus - Public Services,89,32746,0.7673
+BOND_ISSUE_CITY_OF_COLUMBUS_PUBLIC_UTILITIES_2019_05,2019,City of Columbus,#10 Proposed Bond Issue City of Columbus - Public Utilities,89,32709,0.7704
+FRANKLIN_COUNTY_CHILDREN_SERVICES_2019_11,2019,Franklin County,#10 Franklin County Children Services,159,183641,0.7958
+CITY_OF_COLUMBUS_CHARTER_AMENDMENT_2020_11,2020,City of Columbus,#2 City of Columbus Charter Amendment,90,356145,0.7451
+CITY_OF_COLUMBUS_ELECTRIC_AGGREGATION_2020_11,2020,City of Columbus,#1 City of Columbus Electric Aggregation,90,359599,0.7573
+COLUMBUS_STATE_COMMUNITY_COLLEGE_2020_03,2020,Franklin County,#21 Columbus State Community College,159,159131,0.5975
+FRANKLIN_COUNTY_ADAMH_2020_11,2020,Franklin County,#24 Franklin County ADAMH,159,605079,0.7046
+CITY_OF_COLUMBUS_CLEAN_ENERGY_ORDINANCE_2021_11,2021,City of Columbus,#7 City of Columbus Clean Energy Ordinance,90,97315,0.1326
+CITY_OF_COLUMBUS_BOND_ISSUE_HEALTH_AND_SAFETY_2022_11,2022,City of Columbus,#14 City of Columbus Bond Issue - Health and Safety,91,231320,0.6226
+CITY_OF_COLUMBUS_BOND_ISSUE_NEIGHBORHOOD_DEVELOPMENT_2022_11,2022,City of Columbus,#16 City of Columbus Bond Issue - Neighborhood Development,91,227720,0.6824
+CITY_OF_COLUMBUS_BOND_ISSUE_PUBLIC_SERVICE_2022_11,2022,City of Columbus,#17 City of Columbus Bond Issue - Public Service,91,230779,0.6989
+CITY_OF_COLUMBUS_BOND_ISSUE_PUBLIC_UTILITIES_2022_11,2022,City of Columbus,#18 City of Columbus Bond Issue - Public Utilities,91,229799,0.7076
+CITY_OF_COLUMBUS_BOND_ISSUE_RECREATION_AND_PARKS_2022_11,2022,City of Columbus,#15 City of Columbus Bond Issue - Recreation and Parks,91,231672,0.7164
+CITY_OF_COLUMBUS_CHARTER_AMENDMENT_1_INITIATIVE_PROCESS_2022_11,2022,City of Columbus,#19 City of Columbus Charter Amendment 1 - Initiative Process,91,220108,0.7601
+CITY_OF_COLUMBUS_CHARTER_AMENDMENT_2_CIVIL_SERVICE_2022_11,2022,City of Columbus,#20 City of Columbus Charter Amendment 2 - Civil Service,91,219114,0.7385
+CITY_OF_COLUMBUS_CHARTER_AMENDMENT_3_CITY_MODERNIZATION_2022_11,2022,City of Columbus,#21 City of Columbus Charter Amendment 3 - City Modernization,91,220647,0.7641
+FRANKLIN_COUNTY_TAX_LEVY_SENIOR_CITIZEN_SERVICES_2022_11,2022,Franklin County,#10 Franklin County Tax Levy - Senior Citizen Services,159,418695,0.7844
+TAX_LEVY_ADDITIONAL_COLUMBUS_CITY_SCHOOL_DISTRICT_2023_11,2023,Columbus City School District,#11 Proposed Tax Levy (Additional) Columbus City School District,90,149604,0.5486
+TAX_LEVY_ADDITIONAL_COLUMBUS_METROPOLITAN_LIBRARY_DISTRICT_2023_11,2023,Columbus Metropolitan Library District,#16 Proposed Tax Levy (Additional) Columbus Metropolitan Library District,127,283633,0.6308
+SALES_AND_USE_TAX_EXISTING_INCREASE_AND_CONTINUING_CENTRAL_O_2024_11,2024,Franklin County,"#47 Proposed Sales and Use Tax (Existing, Increase and Continuing) - Central Ohio Transit Authority",159,567496,0.5695
+TAX_LEVY_RENEWAL_AND_INCREASE_CHILDREN_SERVICES_2024_11,2024,Franklin County,#46 Proposed Tax Levy (Renewal and Increase) - Children Services -,159,564940,0.6248
+BOND_ISSUE_NEIGHBORHOOD_DEVELOPMENT_CITY_OF_COLUMBUS_2025_11,2025,City of Columbus,#8 Proposed Bond Issue - Neighborhood Development City of Columbus,87,119401,0.6714
+BOND_ISSUE_PUBLIC_SERVICE_CITY_OF_COLUMBUS_2025_11,2025,City of Columbus,#7 Proposed Bond Issue - Public Service City of Columbus,87,119471,0.6916
+BOND_ISSUE_PUBLIC_UTILITIES_CITY_OF_COLUMBUS_2025_11,2025,City of Columbus,#9 Proposed Bond Issue - Public Utilities City of Columbus,87,119489,0.7158
+BOND_ISSUE_RECREATION_AND_PARKS_CITY_OF_COLUMBUS_2025_11,2025,City of Columbus,#6 Proposed Bond Issue - Recreation and Parks City of Columbus,87,119925,0.7156
+BOND_ISSUE_SAFETY_HEALTH_INFRUSTRUCTURE_CITY_OF_COLUMBUS_2025_11,2025,City of Columbus,"#5 Proposed Bond Issue - Safety, Health, Infrustructure City of Columbus",87,119331,0.6419
+TAX_LEVY_RENEWAL_AND_INCREASE_ADAMH_2025_11,2025,Franklin County,#1 Proposed Tax Levy (Renewal and Increase) - ADAMH,159,226549,0.6573
+TAX_LEVY_RENEWAL_ZOO_2025_11,2025,Franklin County,#2 Proposed Tax Levy (Renewal) - Zoo,159,227044,0.6196
+CHARTER_AMENDMENT_CITY_OF_COLUMBUS_2026_05,2026,City of Columbus,#5 Proposed Charter Amendment City of Columbus,87,101730,0.7705

@@ -1,0 +1,77 @@
+question_id,year,type,scope,label,units,votes,yes_share
+REFERENDUM_2008_1,2008,ballot_measure,statewide,2008 Q1: Dirigo Health funding repeal,462,714602,0.6465
+REFERENDUM_2008_2,2008,ballot_measure,statewide,2008 Q2: Oxford County casino,462,721679,0.4618
+REFERENDUM_2008_3,2008,ballot_measure,statewide,2008 Q3: Water infrastructure bond,462,701959,0.5027
+REFERENDUM_2009_1,2009,ballot_measure,statewide,2009 Q1: Same-sex marriage repeal,462,567846,0.529
+REFERENDUM_2009_2,2009,ballot_measure,statewide,2009 Q2: Vehicle tax reductions,462,561502,0.2589
+REFERENDUM_2009_3,2009,ballot_measure,statewide,2009 Q3: School district consolidation repeal,462,548478,0.4167
+REFERENDUM_2009_4,2009,ballot_measure,statewide,2009 Q4: Tax and spending limits,462,558393,0.3989
+REFERENDUM_2009_5,2009,ballot_measure,statewide,2009 Q5: Medical marijuana,462,563237,0.5886
+REFERENDUM_2009_6,2009,ballot_measure,statewide,2009 Q6: Transportation bond,462,555513,0.6535
+REFERENDUM_2009_7,2009,ballot_measure,statewide,2009 Q7: Petition signature certification,462,545476,0.4776
+REFERENDUM_2010_1,2010,ballot_measure,statewide,2010 Q1: Oxford County casino,461,563935,0.5044
+REFERENDUM_2010_2,2010,ballot_measure,statewide,2010 Q2: Dental care bond,461,556166,0.5141
+REFERENDUM_2010_3,2010,ballot_measure,statewide,2010 Q3: Land conservation bond,461,557910,0.5934
+REFERENDUM_2011_1,2011,ballot_measure,statewide,2011 Q1: Election Day voter registration,461,391041,0.6044
+REFERENDUM_2011_2,2011,ballot_measure,statewide,2011 Q2: Racetrack slot machines,461,390663,0.4503
+REFERENDUM_2011_3,2011,ballot_measure,statewide,2011 Q3: Lewiston casino,461,390458,0.3654
+REFERENDUM_2011_4,2011,ballot_measure,statewide,2011 Q4: Redistricting schedule,461,371049,0.5297
+REFERENDUM_2012_1,2012,ballot_measure,statewide,2012 Q1: Same-sex marriage,462,703860,0.526
+REFERENDUM_2012_2,2012,ballot_measure,statewide,2012 Q2: Higher education bond,462,681645,0.4874
+REFERENDUM_2012_3,2012,ballot_measure,statewide,2012 Q3: Land conservation bond,462,685272,0.6067
+REFERENDUM_2012_4,2012,ballot_measure,statewide,2012 Q4: Transportation bond,462,687272,0.7223
+REFERENDUM_2012_5,2012,ballot_measure,statewide,2012 Q5: Water infrastructure bond,462,682836,0.6298
+REFERENDUM_2013_1,2013,ballot_measure,statewide,2013 Q1: National Guard facilities bond,462,216000,0.5839
+REFERENDUM_2013_2,2013,ballot_measure,statewide,2013 Q2: University facilities bond,462,216880,0.6105
+REFERENDUM_2013_3,2013,ballot_measure,statewide,2013 Q3: Transportation bond,462,216561,0.724
+REFERENDUM_2013_4,2013,ballot_measure,statewide,2013 Q4: Maritime Academy science facility bond,462,216058,0.5279
+REFERENDUM_2013_5,2013,ballot_measure,statewide,2013 Q5: Community college facilities bond,462,217575,0.6556
+REFERENDUM_2014_1,2014,ballot_measure,statewide,2014 Q1: Bear hunting restrictions,462,602909,0.4658
+REFERENDUM_2014_2,2014,ballot_measure,statewide,2014 Q2: Animal and plant laboratory bond,462,585469,0.6028
+REFERENDUM_2014_3,2014,ballot_measure,statewide,2014 Q3: Small business financing bond,462,583048,0.6193
+REFERENDUM_2014_4,2014,ballot_measure,statewide,2014 Q4: Genomic research bond,462,583561,0.6271
+REFERENDUM_2014_5,2014,ballot_measure,statewide,2014 Q5: Biomedical laboratory bond,462,578885,0.5112
+REFERENDUM_2014_6,2014,ballot_measure,statewide,2014 Q6: Clean water bond,462,585924,0.6457
+REFERENDUM_2014_7,2014,ballot_measure,statewide,2014 Q7: Marine economy bond,462,581822,0.5906
+REFERENDUM_2015_1,2015,ballot_measure,statewide,2015 Q1: Campaign finance reform,461,217870,0.5493
+REFERENDUM_2015_2,2015,ballot_measure,statewide,2015 Q2: Senior housing bond,461,218390,0.693
+REFERENDUM_2015_3,2015,ballot_measure,statewide,2015 Q3: Transportation bond,461,218180,0.7273
+REFERENDUM_2016_1,2016,ballot_measure,statewide,2016 Q1: Recreational marijuana,462,754722,0.5013
+REFERENDUM_2016_2,2016,ballot_measure,statewide,2016 Q2: Income surtax for education,462,752496,0.505
+REFERENDUM_2016_3,2016,ballot_measure,statewide,2016 Q3: Firearm background checks,462,756074,0.4804
+REFERENDUM_2016_4,2016,ballot_measure,statewide,2016 Q4: Minimum wage,462,753567,0.5537
+REFERENDUM_2016_5,2016,ballot_measure,statewide,2016 Q5: Ranked-choice voting,462,740243,0.5204
+REFERENDUM_2016_6,2016,ballot_measure,statewide,2016 Q6: Transportation bond,462,743304,0.6111
+REFERENDUM_2017_1,2017,ballot_measure,statewide,2017 Q1: York County casino,461,343591,0.1671
+REFERENDUM_2017_2,2017,ballot_measure,statewide,2017 Q2: Medicaid expansion,461,343715,0.589
+REFERENDUM_2017_3,2017,ballot_measure,statewide,2017 Q3: Transportation and culverts bond,461,342064,0.7198
+REFERENDUM_2017_4,2017,ballot_measure,statewide,2017 Q4: Public pension funding,461,330711,0.6302
+REFERENDUM_2018_1,2018,ballot_measure,statewide,2018 Q1: Universal home care,461,631512,0.37
+REFERENDUM_2018_2,2018,ballot_measure,statewide,2018 Q2: Wastewater infrastructure bond,461,627781,0.5451
+REFERENDUM_2018_3,2018,ballot_measure,statewide,2018 Q3: Transportation and culverts bond,461,628154,0.6764
+REFERENDUM_2018_4,2018,ballot_measure,statewide,2018 Q4: University facilities bond,461,626221,0.5405
+REFERENDUM_2018_5,2018,ballot_measure,statewide,2018 Q5: Community college facilities bond,461,629240,0.648
+REFERENDUM_2019_1,2019,ballot_measure,statewide,2019 Q1: Transportation bond,461,187307,0.7624
+REFERENDUM_2019_2,2019,ballot_measure,statewide,2019 Q2: Accessible petition signing,461,186361,0.7547
+REFERENDUM_2021_1,2021,ballot_measure,statewide,2021 Q1: Electric transmission restrictions,461,411061,0.5918
+REFERENDUM_2021_2,2021,ballot_measure,statewide,2021 Q2: Transportation bond,461,410926,0.7195
+REFERENDUM_2021_3,2021,ballot_measure,statewide,2021 Q3: Constitutional right to food,461,408684,0.6082
+REFERENDUM_2023_1,2023,ballot_measure,statewide,2023 Q1: Voter approval of public debt,461,397147,0.6549
+REFERENDUM_2023_2,2023,ballot_measure,statewide,2023 Q2: Foreign government campaign spending,461,402996,0.8632
+REFERENDUM_2023_3,2023,ballot_measure,statewide,2023 Q3: Public electric utility,461,405346,0.3021
+REFERENDUM_2023_4,2023,ballot_measure,statewide,2023 Q4: Motor vehicle right to repair,461,403783,0.8439
+REFERENDUM_2023_5,2023,ballot_measure,statewide,2023 Q5: Petition review deadlines,461,393487,0.5768
+REFERENDUM_2023_6,2023,ballot_measure,statewide,2023 Q6: Full constitutional printing,461,396265,0.7293
+REFERENDUM_2023_7,2023,ballot_measure,statewide,2023 Q7: Petition circulator qualifications,461,391361,0.3123
+REFERENDUM_2023_8,2023,ballot_measure,statewide,2023 Q8: Voting rights under guardianship,461,394190,0.4654
+REFERENDUM_2024_1,2024,ballot_measure,statewide,2024 Q1: Political action committee contribution limits,462,794256,0.7483
+REFERENDUM_2024_2,2024,ballot_measure,statewide,2024 Q2: Research and development bond,462,791664,0.5407
+REFERENDUM_2024_3,2024,ballot_measure,statewide,2024 Q3: Historic preservation bond,462,795308,0.5103
+REFERENDUM_2024_4,2024,ballot_measure,statewide,2024 Q4: Recreational trails bond,462,788375,0.5523
+REFERENDUM_2024_5,2024,ballot_measure,statewide,2024 Q5: State flag replacement,462,803397,0.4412
+REFERENDUM_2025_1,2025,ballot_measure,statewide,2025 Q1: Voter identification and absentee voting,462,487985,0.3594
+REFERENDUM_2025_2,2025,ballot_measure,statewide,2025 Q2: Extreme risk protection orders,462,486744,0.6277
+2008_President,2008,federal,federal,,462,714485,0.5883
+2012_President,2012,federal,federal,,462,687739,0.578
+2016_President,2016,federal,federal,,462,687278,0.5145
+2024_President,2024,federal,federal,,462,806267,0.533

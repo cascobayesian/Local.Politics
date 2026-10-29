@@ -1,0 +1,50 @@
+question_id,year,type,scope,label,units,votes,yes_share
+STATE_MEASURE_77_2012,2012,ballot_measure,statewide,2012 Measure 77: Governor's catastrophic-disaster powers,107,328456,0.7063
+STATE_MEASURE_78_2012,2012,ballot_measure,statewide,2012 Measure 78: Constitutional wording (branches of government),107,327318,0.7963
+STATE_MEASURE_79_2012,2012,ballot_measure,statewide,2012 Measure 79: Ban real estate transfer taxes,107,329620,0.4431
+STATE_MEASURE_80_2012,2012,ballot_measure,statewide,2012 Measure 80: Marijuana legalisation,107,351421,0.6077
+STATE_MEASURE_81_2012,2012,ballot_measure,statewide,2012 Measure 81: Ban commercial gillnet fishing,107,329569,0.361
+STATE_MEASURE_82_2012,2012,ballot_measure,statewide,2012 Measure 82: Allow private casinos,107,347732,0.2516
+STATE_MEASURE_83_2012,2012,ballot_measure,statewide,2012 Measure 83: Wood Village casino,107,347918,0.261
+STATE_MEASURE_84_2012,2012,ballot_measure,statewide,2012 Measure 84: Phase out estate taxes,107,339623,0.3065
+STATE_MEASURE_85_2012,2012,ballot_measure,statewide,2012 Measure 85: Corporate kicker to K-12 schools,107,340889,0.7283
+STATE_MEASURE_86_2014,2014,ballot_measure,statewide,2014 Measure 86: Fund for post-secondary education,107,281832,0.5885
+STATE_MEASURE_87_2014,2014,ballot_measure,statewide,2014 Measure 87: Judges' outside employment,107,275269,0.6785
+STATE_MEASURE_88_2014,2014,ballot_measure,statewide,2014 Measure 88: Driver cards without proof of residence,107,293388,0.5541
+STATE_MEASURE_89_2014,2014,ballot_measure,statewide,2014 Measure 89: Equal rights for women,107,285664,0.7858
+STATE_MEASURE_90_2014,2014,ballot_measure,statewide,2014 Measure 90: Top-two open primary,107,283579,0.3459
+STATE_MEASURE_91_2014,2014,ballot_measure,statewide,2014 Measure 91: Marijuana legalisation,107,298611,0.7138
+STATE_MEASURE_92_2014,2014,ballot_measure,statewide,2014 Measure 92: GMO food labelling,107,297505,0.6256
+STATE_MEASURE_100_2016,2016,ballot_measure,statewide,2016 Measure 100: Wildlife trafficking ban,107,369996,0.8224
+STATE_MEASURE_94_2016,2016,ballot_measure,statewide,2016 Measure 94: Remove judicial retirement age,107,370636,0.4701
+STATE_MEASURE_95_2016,2016,ballot_measure,statewide,2016 Measure 95: University equity investments,107,362083,0.7814
+STATE_MEASURE_96_2016,2016,ballot_measure,statewide,2016 Measure 96: Lottery funds for veterans,107,376960,0.849
+STATE_MEASURE_97_2016,2016,ballot_measure,statewide,2016 Measure 97: Corporate gross receipts tax,107,389998,0.5707
+STATE_MEASURE_98_2016,2016,ballot_measure,statewide,"2016 Measure 98: Dropout prevention, career-technical funding",107,374985,0.7222
+STATE_MEASURE_99_2016,2016,ballot_measure,statewide,2016 Measure 99: Outdoor school lottery funding,107,379799,0.7884
+STATE_MEASURE_102_2018,2018,ballot_measure,statewide,2018 Measure 102: Local affordable-housing bonds,107,371596,0.7172
+STATE_MEASURE_103_2018,2018,ballot_measure,statewide,2018 Measure 103: Ban grocery taxes,107,375828,0.2682
+STATE_MEASURE_104_2018,2018,ballot_measure,statewide,2018 Measure 104: Supermajority for revenue measures,107,368239,0.2074
+STATE_MEASURE_105_2018,2018,ballot_measure,statewide,2018 Measure 105: Repeal sanctuary law,107,375419,0.1825
+STATE_MEASURE_106_2018,2018,ballot_measure,statewide,2018 Measure 106: Ban public funding of abortion,107,376364,0.1698
+STATE_MEASURE_107_2020,2020,ballot_measure,statewide,2020 Measure 107: Campaign finance limits,107,443987,0.8667
+STATE_MEASURE_108_2020,2020,ballot_measure,statewide,2020 Measure 108: Tobacco and vaping tax,107,453411,0.7557
+STATE_MEASURE_109_2020,2020,ballot_measure,statewide,2020 Measure 109: Psilocybin therapy,107,447296,0.7119
+STATE_MEASURE_110_2020,2020,ballot_measure,statewide,2020 Measure 110: Drug decriminalisation,107,448076,0.7433
+STATE_MEASURE_111_2022,2022,ballot_measure,statewide,2022 Measure 111: Right to health care,107,351396,0.6936
+STATE_MEASURE_112_2022,2022,ballot_measure,statewide,2022 Measure 112: Remove slavery exception,107,354442,0.7831
+STATE_MEASURE_113_2022,2022,ballot_measure,statewide,2022 Measure 113: Bar legislators with absences,107,353152,0.7679
+STATE_MEASURE_114_2022,2022,ballot_measure,statewide,"2022 Measure 114: Firearm permits, magazine limits",107,360254,0.7408
+STATE_MEASURE_115_2024,2024,ballot_measure,statewide,2024 Measure 115: Impeachment of statewide officials,107,377660,0.8028
+STATE_MEASURE_116_2024,2024,ballot_measure,statewide,2024 Measure 116: Independent salary commission,107,376957,0.5273
+STATE_MEASURE_117_2024,2024,ballot_measure,statewide,2024 Measure 117: Ranked-choice voting,107,386955,0.5695
+STATE_MEASURE_118_2024,2024,ballot_measure,statewide,2024 Measure 118: Corporate tax rebate to residents,107,387439,0.273
+STATE_MEASURE_119_2024,2024,ballot_measure,statewide,2024 Measure 119: Cannabis retailer labour neutrality,107,377130,0.7444
+2012_president,2012,federal,federal,,107,350189,0.785
+2014_senate,2014,federal,federal,,107,269648,0.8033
+2016_president,2016,federal,federal,,107,360515,0.8115
+2016_senate,2016,federal,federal,,107,341453,0.8348
+2020_president,2020,federal,federal,,107,450244,0.8157
+2020_senate,2020,federal,federal,,107,435543,0.8194
+2022_senate,2022,federal,federal,,107,348491,0.8212
+2024_president,2024,federal,federal,,107,396686,0.8216

@@ -1,0 +1,60 @@
+question_id,year,type,scope,label,units,votes,yes_share
+loc_2011_s_salt_lake_bond,2011,ballot_measure,city,,12,2003,0.4978
+loc_2012_county_proposition_1,2012,ballot_measure,county,,790,351821,0.5614
+loc_2012_incorporation_of_millcreek,2012,ballot_measure,school or special district,,48,28757,0.4156
+loc_2012_millcreek_council_s,2012,ballot_measure,school or special district,,48,26106,0.8981
+st_2012_constitutional_amendment_a,2012,ballot_measure,statewide,,790,342977,0.4926
+st_2012_constitutional_amendment_b,2012,ballot_measure,statewide,,790,358949,0.6703
+loc_2013_jordan_school_bond,2013,ballot_measure,school or special district,,221,34344,0.3213
+loc_2013_unified_fire_service_area_annex,2013,ballot_measure,school or special district,,36,6067,0.5253
+loc_2014_county_proposal_no_1,2014,ballot_measure,county,,787,221166,0.7697
+loc_2014_murray_cty_school_tax_levy,2014,ballot_measure,school or special district,,31,9171,0.4858
+st_2014_constitutional_amendment_a,2014,ballot_measure,statewide,,786,205372,0.3953
+st_2014_constitutional_amendment_b,2014,ballot_measure,statewide,,786,207398,0.5468
+st_2014_constitutional_amendment_c,2014,ballot_measure,statewide,,787,207267,0.3301
+loc_2015_herriman_hills_initiative_prp_7,2015,ballot_measure,city,,31,5620,0.4569
+loc_2015_kearns_msd,2015,ballot_measure,school or special district,,14,3271,0.7606
+loc_2015_magna_msd,2015,ballot_measure,school or special district,,16,3008,0.7902
+loc_2015_millcreek_msd,2015,ballot_measure,school or special district,,41,15471,0.3446
+loc_2015_salt_lake_county_proposition_1,2015,ballot_measure,county,,771,171943,0.488
+loc_2015_south_salt_lake_special_bond,2015,ballot_measure,city,,12,2311,0.4859
+loc_2016_county_proposition_a,2016,ballot_measure,county,,793,364772,0.5656
+loc_2016_jordan_school_bond_elect,2016,ballot_measure,school or special district,,222,91166,0.6
+loc_2016_magna_water_special_bond_elect,2016,ballot_measure,school or special district,,20,7187,0.5815
+st_2016_amendment_a,2016,ballot_measure,statewide,,791,349737,0.6612
+st_2016_amendment_b,2016,ballot_measure,statewide,,793,348198,0.6441
+st_2016_amendment_c,2016,ballot_measure,statewide,,791,355526,0.3797
+loc_2017_canyons_school_bond,2017,ballot_measure,school or special district,,191,46995,0.5783
+loc_2017_granite_school_bond,2017,ballot_measure,school or special district,,223,56366,0.5621
+loc_2017_west_jordan_city_bond,2017,ballot_measure,city,,72,13646,0.2433
+loc_2017_west_jordan_city_proposition_10,2017,ballot_measure,city,,72,13619,0.5023
+loc_2018_holladay_proposition_14,2018,ballot_measure,city,,22,16671,0.4215
+loc_2018_slc_streets_reconstruction_bond,2018,ballot_measure,city,,129,71378,0.6751
+st_2018_amendment_a,2018,ballot_measure,statewide,,789,391341,0.7904
+st_2018_amendment_b,2018,ballot_measure,statewide,,789,391869,0.2599
+st_2018_amendment_c,2018,ballot_measure,statewide,,789,386396,0.6158
+st_2018_proposition_2,2018,ballot_measure,statewide,,789,417472,0.6465
+st_2018_proposition_3,2018,ballot_measure,statewide,,789,409621,0.6145
+st_2018_proposition_4,2018,ballot_measure,statewide,,789,398398,0.5835
+st_2018_question_1,2018,ballot_measure,statewide,,789,410656,0.4071
+st_2020_amendment_a,2020,ballot_measure,statewide,,790,520314,0.6729
+st_2020_amendment_b,2020,ballot_measure,statewide,,792,501997,0.8183
+st_2020_amendment_c,2020,ballot_measure,statewide,,792,514385,0.8508
+st_2020_amendment_d,2020,ballot_measure,statewide,,789,487266,0.6444
+st_2020_amendment_e,2020,ballot_measure,statewide,,789,511000,0.6823
+st_2020_amendment_f,2020,ballot_measure,statewide,,789,484136,0.6704
+st_2020_amendment_g,2020,ballot_measure,statewide,,789,513074,0.5556
+loc_2022_bluffdale_city_council_referendum,2022,ballot_measure,city,,13,5881,0.3115
+loc_2022_slc_bond_proposition,2022,ballot_measure,city,,129,62412,0.7132
+st_2022_amendment_a,2022,ballot_measure,statewide,,793,345251,0.3614
+loc_2024_cottonwood_heights_city_bond,2024,ballot_measure,city,,26,17049,0.5243
+loc_2024_murray_city_school_bond,2024,ballot_measure,school or special district,,27,16027,0.6259
+loc_2024_salt_lake_county_jail_bond,2024,ballot_measure,county,,779,458616,0.4838
+loc_2024_slc_school_bond,2024,ballot_measure,school or special district,,128,75268,0.6106
+loc_2024_zap_proposition_8,2024,ballot_measure,county,,779,484070,0.7896
+st_2024_constitutional_amendment_b,2024,ballot_measure,statewide,,779,479959,0.741
+st_2024_constitutional_amendment_c,2024,ballot_measure,statewide,,779,479983,0.8102
+2016_President,2016,federal,federal,,792,313906,0.5602
+2016_US_Senate,2016,federal,federal,,794,389055,0.4329
+2018_US_Senate,2018,federal,federal,,788,394575,0.4736
+2020_President,2020,federal,federal,,788,520080,0.5574

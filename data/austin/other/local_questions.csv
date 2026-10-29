@@ -1,0 +1,23 @@
+question_id,year,scope,title,units,votes,yes_share
+2022_11_acc_district_prop_a,2022,ACC District,ACC District Proposition A,249,351506,0.7113
+2022_11_austin_isd_prop_a,2022,Austin ISD,Austin ISD Proposition A,178,260896,0.7258
+2022_11_austin_isd_prop_b,2022,Austin ISD,Austin ISD Proposition B,178,258645,0.7212
+2022_11_austin_isd_prop_c,2022,Austin ISD,Austin ISD Proposition C,178,257107,0.5812
+2022_11_city_of_austin_prop_a,2022,City of Austin,City of Austin Proposition A,220,298915,0.7135
+2022_11_pflugerville_isd_prop_a,2022,Pflugerville ISD,Pflugerville ISD Proposition A,44,44117,0.6181
+2022_11_pflugerville_isd_prop_b,2022,Pflugerville ISD,Pflugerville ISD Proposition B,44,44527,0.5189
+2022_11_pflugerville_isd_prop_c,2022,Pflugerville ISD,Pflugerville ISD Proposition C,44,44822,0.5987
+2022_11_pflugerville_isd_prop_d,2022,Pflugerville ISD,Pflugerville ISD Proposition D,44,44442,0.5995
+2022_11_pflugerville_isd_prop_e,2022,Pflugerville ISD,Pflugerville ISD Proposition E,44,44370,0.5668
+2022_11_pflugerville_isd_prop_f,2022,Pflugerville ISD,Pflugerville ISD Proposition F,44,44194,0.4655
+2022_11_pflugerville_isd_prop_g,2022,Pflugerville ISD,Pflugerville ISD Proposition G,44,44231,0.5705
+2022_11_pflugerville_isd_prop_h,2022,Pflugerville ISD,Pflugerville ISD Proposition H,44,44348,0.5223
+2023_05_city_of_austin_prop_a,2023,City of Austin,City of Austin Proposition A,217,65016,0.7986
+2023_05_city_of_austin_prop_b,2023,City of Austin,City of Austin Proposition B,217,64206,0.189
+2023_11_pflugerville_isd_prop_a,2023,Pflugerville ISD,Pflugerville ISD Proposition A,43,12305,0.6284
+2023_11_travis_county_prop_a,2023,Travis County,"Travis County, Texas Proposition A",286,141093,0.7578
+2023_11_travis_county_prop_b,2023,Travis County,"Travis County, Texas Proposition B",286,141353,0.7711
+2024_11_austin_isd_prop_a,2024,Austin ISD,Austin ISD Proposition A,178,306166,0.5802
+2024_11_travis_county_prop_a,2024,Travis County,Travis County Proposition A,286,540748,0.5944
+2024_11_travis_county_esd_no_2_prop_a,2024,Travis County ESD No. 2,Travis County ESD No. 2 Proposition A,38,52684,0.3168
+2025_11_city_of_austin_prop_q,2025,City of Austin,City of Austin Proposition Q,220,164675,0.3669

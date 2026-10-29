@@ -1,0 +1,14 @@
+question_id,year,type,scope,label,units,votes,yes_share
+Y2010_C302,2010,ballot_measure,district (DC),2010 Charter Amendment IV: Elected attorney general,144,119184,0.7578
+Y2012_C014,2012,ballot_measure,district (DC),2012 Charter Amendment V,144,262335,0.8594
+Y2012_C015,2012,ballot_measure,district (DC),2012 Charter Amendment VI,144,264130,0.7761
+Y2012_C016,2012,ballot_measure,district (DC),2012 Charter Amendment VII,144,263945,0.7835
+Y2014_C017,2014,ballot_measure,district (DC),2014 Initiative 71: Marijuana legalization,144,164218,0.7006
+Y2016_C014,2016,ballot_measure,district (DC),2016 Advisory Referendum B: Statehood,144,284913,0.8569
+Y2020_C014,2020,ballot_measure,district (DC),2020 Initiative 81: Entheogenic plants,144,281825,0.7618
+Y2022_C021,2022,ballot_measure,district (DC),2022 Initiative 82: Tipped minimum wage,144,179786,0.7394
+Y2024_C019,2024,ballot_measure,district (DC),"2024 Initiative 83: Ranked-choice voting, open primaries",144,291293,0.7289
+Y2012_C003,2012,federal,federal,,144,288451,0.9259
+Y2016_C004,2016,federal,federal,,144,295553,0.957
+Y2020_C003,2020,federal,federal,,144,335909,0.9447
+Y2024_C003,2024,federal,federal,,144,315261,0.9331

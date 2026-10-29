@@ -1,0 +1,40 @@
+question_id,year,type,scope,label,units,votes,yes_share
+2014_ballot_02,2014,ballot_measure,statewide,2014 Prop 2: Permitting Electronic Distribution of State Legislative B...,4104,641550,0.8183
+2014_ballot_03,2014,ballot_measure,statewide,2014 Prop 3: The SMART SCHOOLS BOND ACT OF 2014,4106,677906,0.795
+2017_ballot_01,2017,ballot_measure,statewide,2017 Prop 1: Constitutional Convention,4113,1040053,0.2163
+2017_ballot_02,2017,ballot_measure,statewide,2017 Prop 2: Allowing the complete or partial forfeiture of a public o...,4111,1011996,0.6433
+2017_ballot_03,2017,ballot_measure,statewide,2017 Prop 3: Authorizing the Use of Forest Preserve Land for Specified...,4111,977817,0.4538
+2018_ballot_01,2018,ballot_measure,city,2018 Prop 1: Campaign Finance,4118,1561160,0.8039
+2018_ballot_02,2018,ballot_measure,city,2018 Prop 2: Civic Engagement Commission,4118,1541314,0.6592
+2018_ballot_03,2018,ballot_measure,city,2018 Prop 3: Community Boards,4118,1545146,0.7259
+2019_ballot_01,2019,ballot_measure,city,2019 Prop 1: Elections,4103,693053,0.7361
+2019_ballot_02,2019,ballot_measure,city,2019 Prop 2: Civilian complaint review board,4104,684317,0.7467
+2019_ballot_03,2019,ballot_measure,city,2019 Prop 3: Ethics and governance,4103,671927,0.7749
+2019_ballot_04,2019,ballot_measure,city,2019 Prop 4: City budget,4102,670528,0.7119
+2019_ballot_05,2019,ballot_measure,city,2019 Prop 5: Land use,4104,661584,0.7647
+2021_ballot_01,2021,ballot_measure,statewide,2021 Prop 1: Amending the Apportionment and Redistricting Process,4116,885791,0.622
+2021_ballot_02,2021,ballot_measure,statewide,"2021 Prop 2: Right to Clean Air, Clean Water, and a Healthful Environment",4118,911797,0.8271
+2021_ballot_03,2021,ballot_measure,statewide,2021 Prop 3: Eliminating Ten-Day-Advance Voter Registration Requirement,4116,906747,0.6125
+2021_ballot_04,2021,ballot_measure,statewide,2021 Prop 4: Authorizing No-Excuse Absentee Ballot Voting,4114,902763,0.6001
+2021_ballot_05,2021,ballot_measure,statewide,2021 Prop 5: Increasing the Jurisdiction of the New York City Civil Court,4117,884811,0.7848
+2022_ballot_01,2022,ballot_measure,statewide,"2022 Prop 1: CLEAN WATER, CLEAN AIR, AND GREEN JOBS Environmental Bond...",4125,1543233,0.8117
+2022_ballot_02,2022,ballot_measure,city,2022 Prop 2: Add a Statement of Values to Guide Government,4125,1504984,0.7243
+2022_ballot_03,2022,ballot_measure,city,"2022 Prop 3: Establish a Racial Equity Office, Plan, and Commission",4125,1498043,0.6994
+2022_ballot_04,2022,ballot_measure,city,2022 Prop 4: Measure the True Cost of Living,4126,1510524,0.8115
+2023_ballot_01,2023,ballot_measure,statewide,2023 Prop 1: Removal of Small City School Districts From Special Const...,4103,512735,0.7287
+2023_ballot_02,2023,ballot_measure,statewide,2023 Prop 2: Extending Sewage Project Debt Exclusion From Debt Limit,4103,509432,0.7611
+2024_ballot_01,2024,ballot_measure,statewide,2024 Prop 1: Amendment to Protect Against Unequal Treatment,4131,2446948,0.7812
+2024_ballot_02,2024,ballot_measure,city,2024 Prop 2: Cleaning Public Property,4131,2397488,0.6207
+2024_ballot_03,2024,ballot_measure,city,2024 Prop 3: Additional Estimates of the Cost of Proposed Laws and Upd...,4131,2340519,0.5593
+2024_ballot_04,2024,ballot_measure,city,2024 Prop 4: More Notice and Time Before Votes on Public Safety Legisl...,4131,2340767,0.5722
+2024_ballot_05,2024,ballot_measure,city,2024 Prop 5: Capital Planning,4131,2324077,0.5798
+2024_ballot_06,2024,ballot_measure,city,"2024 Prop 6: Minority and Women-Owned Business Enterprises (MWBEs), Fi...",4131,2322616,0.476
+2012_president,2012,federal,federal,,4129,2432179,0.8204
+2012_senate,2012,federal,federal,,4127,2271655,0.8676
+2016_president,2016,federal,federal,,4124,2659124,0.814
+2016_senate,2016,federal,federal,,4124,2548500,0.866
+2018_senate,2018,federal,federal,,4123,2069831,0.8464
+2020_president,2020,federal,federal,,4130,3013440,0.7705
+2022_senate,2022,federal,federal,,4132,1766716,0.7408
+2024_president,2024,federal,federal,,4133,2742182,0.6941
+2024_senate,2024,federal,federal,,4132,2654560,0.7233

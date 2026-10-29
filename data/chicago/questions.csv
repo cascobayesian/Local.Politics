@@ -1,0 +1,15 @@
+question_id,year,type,scope,label,units,votes,yes_share
+2014_Crime_Victim_Rights,2014,ballot_measure,statewide,2014 IL Amdt: Crime victims' rights,1291,590157,0.8739
+2014_Protect_Right_to_Vote,2014,ballot_measure,statewide,2014 IL Amdt: Right to vote,1291,574690,0.8531
+2015_Campaign_finance_reform,2015,ballot_measure,city,2015 Chicago advisory: Campaign finance reform,1291,448063,0.7899
+2015_Domestic_abuse_treatment,2015,ballot_measure,city,2015 Chicago advisory: Domestic abuse treatment,1291,455700,0.8732
+2015_Paid_leave_for_workers,2015,ballot_measure,city,2015 Chicago advisory: Paid sick leave,1291,450575,0.8178
+2016_Transportation_Amendment,2016,ballot_measure,statewide,2016 IL Amdt: Transportation funds lockbox,1291,865876,0.7757
+2020_Proposed_Amendment_to_the_Illinois_Constitution,2020,ballot_measure,statewide,2020 IL Amdt: Graduated income tax,1291,1052240,0.714
+2022_Proposed_Amendment_to_the_Illinois_Constitution,2022,ballot_measure,statewide,2022 IL Amdt 1: Workers' rights,1291,605804,0.7984
+2014_US_Senate,2014,federal,federal,,1291,628428,0.8414
+2016_US_President,2016,federal,federal,,1291,1048246,0.8709
+2016_US_Senate,2016,federal,federal,,1291,1024859,0.8286
+2020_US_President,2020,federal,federal,,1291,1125963,0.839
+2020_US_Senate,2020,federal,federal,,1291,1000120,0.8482
+2022_US_Senate,2022,federal,federal,,1291,694379,0.8456

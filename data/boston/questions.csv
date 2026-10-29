@@ -1,0 +1,36 @@
+question_id,year,type,scope,label,units,votes,yes_share
+2012_Q1,2012,ballot_measure,statewide,2012 Q1: Right to repair,1130,1338009,0.8632
+2012_Q2,2012,ballot_measure,statewide,2012 Q2: Death with Dignity,1130,1461728,0.5054
+2012_Q3,2012,ballot_measure,statewide,2012 Q3: Medical marijuana,1130,1475964,0.6442
+2014_Q1,2014,ballot_measure,statewide,2014 Q1: Repeal gas-tax indexing,1130,1022007,0.5033
+2014_Q2,2014,ballot_measure,statewide,2014 Q2: Expand the bottle bill,1130,1051841,0.3022
+2014_Q3,2014,ballot_measure,statewide,2014 Q3: Repeal the casino law,1130,1047068,0.4306
+2014_Q4,2014,ballot_measure,statewide,2014 Q4: Paid sick days,1130,1049427,0.6183
+2016_Q1,2016,ballot_measure,statewide,2016 Q1: Additional slots parlour,1130,1556268,0.3595
+2016_Q2,2016,ballot_measure,statewide,2016 Q2: Charter school expansion,1130,1611231,0.3826
+2016_Q3,2016,ballot_measure,statewide,2016 Q3: Farm animal confinement,1130,1604983,0.7964
+2016_Q4,2016,ballot_measure,statewide,2016 Q4: Legalize marijuana,1130,1624868,0.5399
+2018_Q1,2018,ballot_measure,statewide,2018 Q1: Nurse staffing ratios,1130,1330798,0.2954
+2018_Q2,2018,ballot_measure,statewide,2018 Q2: Corporate personhood,1130,1321883,0.7401
+2018_Q3,2018,ballot_measure,statewide,2018 Q3: Gender-identity nondiscrimination,1130,1346564,0.7206
+2020_Q1,2020,ballot_measure,statewide,2020 Q1: Right to repair,1130,1697737,0.7595
+2020_Q2,2020,ballot_measure,statewide,2020 Q2: Ranked-choice voting,1130,1681088,0.5092
+2022_Q1,2022,ballot_measure,statewide,2022 Q1: Millionaires tax,1186,1198293,0.544
+2022_Q2,2022,ballot_measure,statewide,2022 Q2: Dental insurance loss ratio,1186,1184755,0.7489
+2022_Q3,2022,ballot_measure,statewide,2022 Q3: Liquor licences,1186,1173905,0.4843
+2022_Q4,2022,ballot_measure,statewide,2022 Q4: Licences for undocumented immigrants,1186,1188461,0.6002
+2024_Q1,2024,ballot_measure,statewide,2024 Q1: Audit the Legislature,1187,1562764,0.7251
+2024_Q2,2024,ballot_measure,statewide,2024 Q2: Drop the MCAS requirement,1187,1633819,0.5572
+2024_Q3,2024,ballot_measure,statewide,2024 Q3: Rideshare unionisation,1187,1578985,0.5609
+2024_Q4,2024,ballot_measure,statewide,2024 Q4: Legalize psychedelics,1187,1612131,0.4447
+2024_Q5,2024,ballot_measure,statewide,2024 Q5: Eliminate the tipped wage,1187,1610757,0.3887
+2012_President,2012,federal,federal,,1130,1525175,0.6468
+2012_US_Senate,2012,federal,federal,,1130,1546275,0.5685
+2013_US_Senate_Special,2013,federal,federal,,1129,603940,0.6093
+2014_US_Senate,2014,federal,federal,,1130,1031862,0.6615
+2016_President,2016,federal,federal,,1130,1529993,0.7098
+2018_US_Senate,2018,federal,federal,,1130,1320060,0.6801
+2020_President,2020,federal,federal,,1130,1747472,0.7332
+2020_US_Senate,2020,federal,federal,,1130,1744860,0.7222
+2024_President,2024,federal,federal,,1187,1623286,0.6952
+2024_US_Senate,2024,federal,federal,,1187,1641249,0.6565

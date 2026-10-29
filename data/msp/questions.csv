@@ -1,0 +1,36 @@
+question_id,year,type,scope,label,units,votes,yes_share
+2012_11_mn_amend_q1,2012,ballot_measure,statewide,,223,351273,0.2574
+2012_11_mn_amend_q2,2012,ballot_measure,statewide,,223,349473,0.2424
+2012_11_stpschools_levy_q1,2012,ballot_measure,school district,,86,127995,0.6148
+2013_11_mpls_charter_q1,2013,ballot_measure,city,,137,65563,0.7966
+2013_11_mpls_charter_q2,2013,ballot_measure,city,,137,67536,0.8585
+2014_11_mpls_charter_q1,2014,ballot_measure,city,,137,122720,0.654
+2014_11_mpls_charter_q2,2014,ballot_measure,city,,137,128157,0.8354
+2016_11_mn_amend_q1,2016,ballot_measure,statewide,,223,326424,0.7831
+2016_11_mplsschools_levy_q1,2016,ballot_measure,school district,,137,198860,0.8343
+2018_11_mpls_charter_q1,2018,ballot_measure,city,,137,179930,0.7203
+2018_11_mplsschools_levy_q1,2018,ballot_measure,school district,,137,190887,0.7778
+2018_11_mplsschools_levy_q2,2018,ballot_measure,school district,,137,188102,0.7197
+2018_11_stpschools_levy_q1,2018,ballot_measure,school district,,86,116097,0.6552
+2019_11_stp_referendum_q1,2019,ballot_measure,city,,86,54643,0.6254
+2020_11_mpls_charter_q1,2020,ballot_measure,city,,137,189441,0.7537
+2020_11_mpls_charter_q2,2020,ballot_measure,city,,137,189621,0.8695
+2021_11_mpls_charter_q1,2021,ballot_measure,city,,137,141265,0.5241
+2021_11_mpls_charter_q2,2021,ballot_measure,city,,137,143319,0.4383
+2021_11_mpls_charter_q3,2021,ballot_measure,city,,137,142066,0.5321
+2021_11_stp_ordinance_q1,2021,ballot_measure,city,,86,58546,0.5289
+2023_11_stp_tax_q1,2023,ballot_measure,city,,86,48037,0.6019
+2024_11_mn_amend_q1,2024,ballot_measure,statewide,,223,335822,0.9453
+2024_11_mplsschools_levy_q1,2024,ballot_measure,school district,,137,191290,0.6635
+2024_11_stp_charter_q2,2024,ballot_measure,city,,86,123416,0.6072
+2024_11_stp_levy_q1,2024,ballot_measure,city,,86,128565,0.4006
+2012_president,2012,federal,federal,,223,347058,0.811
+2012_senate,2012,federal,federal,,223,326077,0.8591
+2014_senate,2014,federal,federal,,223,216800,0.8205
+2016_president,2016,federal,federal,,223,328034,0.8499
+2018_senate,2018,federal,federal,,223,317786,0.8829
+2018_senate_special,2018,federal,federal,,223,314364,0.8544
+2020_president,2020,federal,federal,,223,380084,0.8565
+2020_senate,2020,federal,federal,,223,345427,0.8463
+2024_president,2024,federal,federal,,223,347186,0.8468
+2024_senate,2024,federal,federal,,223,333907,0.8769

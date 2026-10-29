@@ -1,0 +1,74 @@
+question_id,year,type,scope,label,units,votes,yes_share
+PROPOSITION_2012_30,2012,ballot_measure,statewide,2012 Prop 30: Brown tax increase for schools,509,348254,0.7716
+PROPOSITION_2012_31,2012,ballot_measure,statewide,2012 Prop 31: State budget and local government,509,315362,0.3428
+PROPOSITION_2012_32,2012,ballot_measure,statewide,2012 Prop 32: Ban payroll deductions for political spending,509,338671,0.2795
+PROPOSITION_2012_33,2012,ballot_measure,statewide,2012 Prop 33: Auto insurance continuous-coverage discount,509,331190,0.2802
+PROPOSITION_2012_34,2012,ballot_measure,statewide,2012 Prop 34: Repeal the death penalty,509,341477,0.7011
+PROPOSITION_2012_35,2012,ballot_measure,statewide,2012 Prop 35: Human trafficking penalties,510,331340,0.7213
+PROPOSITION_2012_36,2012,ballot_measure,statewide,2012 Prop 36: Three-strikes reform,510,332943,0.8453
+PROPOSITION_2012_37,2012,ballot_measure,statewide,2012 Prop 37: GMO food labelling,509,338349,0.6817
+PROPOSITION_2012_38,2012,ballot_measure,statewide,2012 Prop 38: Income tax for schools (Munger),509,330010,0.357
+PROPOSITION_2012_39,2012,ballot_measure,statewide,2012 Prop 39: Multistate business tax,509,322996,0.7569
+PROPOSITION_2012_40,2012,ballot_measure,statewide,2012 Prop 40: State Senate redistricting referendum,510,308245,0.8113
+PROPOSITION_2014_1,2014,ballot_measure,statewide,2014 Prop 1: Water bond,509,220215,0.7679
+PROPOSITION_2014_2,2014,ballot_measure,statewide,2014 Prop 2: Rainy-day budget reserve,509,214166,0.756
+PROPOSITION_2014_45,2014,ballot_measure,statewide,2014 Prop 45: Health insurance rate approval,509,216976,0.6029
+PROPOSITION_2014_46,2014,ballot_measure,statewide,"2014 Prop 46: Doctor drug testing, malpractice cap",509,218078,0.3441
+PROPOSITION_2014_47,2014,ballot_measure,statewide,2014 Prop 47: Reduce drug and property sentences,509,221428,0.8009
+PROPOSITION_2014_48,2014,ballot_measure,statewide,2014 Prop 48: Indian gaming compacts referendum,509,199727,0.4517
+PROPOSITION_2016_51,2016,ballot_measure,statewide,2016 Prop 51: School construction bonds,509,379978,0.6675
+PROPOSITION_2016_52,2016,ballot_measure,statewide,2016 Prop 52: Medi-Cal hospital fee,510,375706,0.7924
+PROPOSITION_2016_53,2016,ballot_measure,statewide,2016 Prop 53: Voter approval of revenue bonds,509,368692,0.3079
+PROPOSITION_2016_54,2016,ballot_measure,statewide,2016 Prop 54: Legislative 72-hour publication rule,510,367633,0.6282
+PROPOSITION_2016_55,2016,ballot_measure,statewide,2016 Prop 55: Extend income tax on high earners,509,383795,0.7261
+PROPOSITION_2016_56,2016,ballot_measure,statewide,2016 Prop 56: Cigarette tax,510,396596,0.8149
+PROPOSITION_2016_57,2016,ballot_measure,statewide,2016 Prop 57: Parole and juvenile trials,510,380165,0.826
+PROPOSITION_2016_58,2016,ballot_measure,statewide,2016 Prop 58: Bilingual education,510,379723,0.8703
+PROPOSITION_2016_59,2016,ballot_measure,statewide,2016 Prop 59: Citizens United advisory,510,355506,0.7658
+PROPOSITION_2016_60,2016,ballot_measure,statewide,2016 Prop 60: Condoms in adult films,510,371775,0.3143
+PROPOSITION_2016_61,2016,ballot_measure,statewide,2016 Prop 61: State drug purchase prices,509,365025,0.5228
+PROPOSITION_2016_62,2016,ballot_measure,statewide,2016 Prop 62: Repeal the death penalty,510,380166,0.7098
+PROPOSITION_2016_63,2016,ballot_measure,statewide,2016 Prop 63: Ammunition background checks,510,394123,0.8547
+PROPOSITION_2016_64,2016,ballot_measure,statewide,2016 Prop 64: Marijuana legalisation,510,397627,0.7426
+PROPOSITION_2016_65,2016,ballot_measure,statewide,2016 Prop 65: Carryout bag fees to environment fund,509,384675,0.4062
+PROPOSITION_2016_66,2016,ballot_measure,statewide,2016 Prop 66: Speed up death penalty,509,362837,0.3172
+PROPOSITION_2016_67,2016,ballot_measure,statewide,2016 Prop 67: Plastic bag ban referendum,510,388625,0.7622
+PROPOSITION_2018_1,2018,ballot_measure,statewide,2018 Prop 1: Veterans and affordable housing bond,509,353148,0.7469
+PROPOSITION_2018_10,2018,ballot_measure,statewide,2018 Prop 10: Rent control,509,360435,0.5297
+PROPOSITION_2018_11,2018,ballot_measure,statewide,2018 Prop 11: Ambulance workers on call,509,350234,0.3879
+PROPOSITION_2018_12,2018,ballot_measure,statewide,2018 Prop 12: Farm animal confinement,509,353678,0.7243
+PROPOSITION_2018_2,2018,ballot_measure,statewide,2018 Prop 2: Mental health housing bonds,509,353549,0.7959
+PROPOSITION_2018_3,2018,ballot_measure,statewide,2018 Prop 3: Water bond,509,345207,0.6001
+PROPOSITION_2018_4,2018,ballot_measure,statewide,2018 Prop 4: Children's hospital bond,509,347636,0.7283
+PROPOSITION_2018_5,2018,ballot_measure,statewide,2018 Prop 5: Property tax transfers for 55+,509,346245,0.2488
+PROPOSITION_2018_6,2018,ballot_measure,statewide,2018 Prop 6: Repeal gas tax,509,351659,0.1706
+PROPOSITION_2018_7,2018,ballot_measure,statewide,2018 Prop 7: Daylight saving time,509,348123,0.6708
+PROPOSITION_2018_8,2018,ballot_measure,statewide,2018 Prop 8: Dialysis clinic revenue cap,509,352224,0.5756
+PROPOSITION_2020_14,2020,ballot_measure,statewide,2020 Prop 14: Stem cell research bond,509,424516,0.5556
+PROPOSITION_2020_15,2020,ballot_measure,statewide,2020 Prop 15: Split-roll commercial property tax,509,432781,0.709
+PROPOSITION_2020_16,2020,ballot_measure,statewide,2020 Prop 16: Repeal affirmative action ban,509,426227,0.6383
+PROPOSITION_2020_17,2020,ballot_measure,statewide,2020 Prop 17: Voting rights for parolees,509,432682,0.7808
+PROPOSITION_2020_18,2020,ballot_measure,statewide,2020 Prop 18: Primary voting at 17,509,432718,0.6426
+PROPOSITION_2020_19,2020,ballot_measure,statewide,2020 Prop 19: Property tax transfers and inheritance,509,420088,0.6019
+PROPOSITION_2020_20,2020,ballot_measure,statewide,2020 Prop 20: Tougher parole and theft penalties,509,419801,0.2822
+PROPOSITION_2020_21,2020,ballot_measure,statewide,2020 Prop 21: Rent control,509,423942,0.5178
+PROPOSITION_2020_22,2020,ballot_measure,statewide,2020 Prop 22: App-based drivers as contractors,509,426872,0.4049
+PROPOSITION_2020_23,2020,ballot_measure,statewide,2020 Prop 23: Dialysis clinic requirements,509,416753,0.4669
+PROPOSITION_2020_24,2020,ballot_measure,statewide,2020 Prop 24: Consumer privacy,509,416237,0.4907
+PROPOSITION_2020_25,2020,ballot_measure,statewide,2020 Prop 25: End cash bail referendum,509,415094,0.5626
+PROPOSITION_2022_1,2022,ballot_measure,statewide,2022 Prop 1: Reproductive freedom,510,302166,0.8952
+PROPOSITION_2022_26,2022,ballot_measure,statewide,2022 Prop 26: In-person sports betting,510,292510,0.3808
+PROPOSITION_2022_27,2022,ballot_measure,statewide,2022 Prop 27: Online sports betting,510,296527,0.1811
+PROPOSITION_2022_28,2022,ballot_measure,statewide,2022 Prop 28: Arts and music school funding,510,298807,0.792
+PROPOSITION_2022_29,2022,ballot_measure,statewide,2022 Prop 29: Dialysis clinic requirements,510,291577,0.3906
+PROPOSITION_2022_30,2022,ballot_measure,statewide,2022 Prop 30: Income tax for electric vehicles,510,299259,0.6553
+PROPOSITION_2022_31,2022,ballot_measure,statewide,2022 Prop 31: Flavoured tobacco ban referendum,510,296327,0.7896
+2012_president,2012,federal,federal,,510,348795,0.865
+2012_senate,2012,federal,federal,,510,344712,0.8852
+2016_president,2016,federal,federal,,510,382768,0.9015
+2020_president,2020,federal,federal,,509,434568,0.8702
+2022_senate,2022,federal,federal,,509,297455,0.8565
+2022_senate_special,2022,federal,federal,,509,296727,0.8555
+2024_president,2024,federal,federal,,509,386312,0.838
+2024_senate,2024,federal,federal,,509,377352,0.824
+2024_senate_special,2024,federal,federal,,509,373057,0.8243
