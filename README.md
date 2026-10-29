@@ -1,19 +1,18 @@
-# Local.Politics: the structure of local politics across the United States
+# The structure of conflict in American local politics
 
-Data, documentation and a worked example for **"The Structure of Local Politics"** (Aaron R. Kaufman and John D. O'Brien, working paper), and for the *Atlas of US Voting Blocs*.
+Data, documentation and a worked example for **"The Structure of Local Politics"** (Aaron R. Kaufman and John D. O'Brien, working paper).
 
 ## The paper in brief
 
-American politics is said to be nationalized: one partisan dimension, red against blue, everywhere. But most of what voters decide never carries a party label. They vote on ballot measures, and in primaries and nonpartisan local races where every candidate shares a party. What organizes those choices is largely unknown. Surveys ask about only a handful of local issues, and one-dimensional scaling assumes the answer in advance.
-
-We take a different route. We assembled an original compilation of **precinct-level election returns across 38 US places**:
+American politics is increasingly nationalized and polarized: red against blue, everywhere. But most of what voters consider doesn't carry a party label. They vote on ballot measures, and in primaries and nonpartisan local races where every candidate shares a party. What organizes those choices is largely unknown. To investigate the structure of local politics, we take a different approach, an unsupervised clustering algorithm. We assembled an original compilation of **precinct-level election returns across 38 US places**:
+- **54.5%** of US voters;
 - **16 states, and 14 cities, counties and metropolitan areas**, plus eight metropolitan areas carved out of the statewide data;
 - **about 88,000 precincts and other small voting units**, each with returns from every year moved onto a single recent map;
 - **about 1,100 distinct statewide and local ballot questions**, and nearly **8,800 more local referenda** for places where we have them;
 - **more than 2.5 billion votes** on ballot measures, from 2000 to 2025;
 - the **presidential and US Senate** results on the same units.
 
-To this we apply the **beta-binomial mixture model (BBMM)**, borrowed from population genetics. The model finds **voting blocs**: groups of precincts that vote alike across dozens of ballot questions, with no demographic information and no partisan information. Then we ask three questions.
+To this we apply the **beta-binomial mixture model (BBMM)**, inspired by similar approaches in population genetics. The model uncovers **voting blocs**: groups of precincts that vote alike across ballot questions. No demographic information and no partisan information is provided to the model. We then ask three questions:
 
 1. **How national is local politics?** Less than the conventional wisdom holds. In the ten places studied in depth:
    - National partisanship leaves more than a third of the variation in the median referendum unexplained in six of them.
@@ -125,11 +124,9 @@ Here μ<sub>*kq*</sub> is bloc *k*'s expected Yes share on question *q* and ν<s
 - each unit's probability of belonging to each bloc;
 - each bloc's profile across every question, which shows the questions that separate any two blocs.
 
-As in genetic models of population structure, the blocs are not points on an ideological axis. Two blocs can vote identically in partisan contests and differently on referenda. Demographics play no part in the estimation, so any relationship between demography and blocs is found, not assumed.
+As in genetic models of population structure, the blocs are not points on an ideological axis. Two blocs can vote identically in partisan contests and differently on referenda. Demographics play no part in the estimation, so any relationship between demography and blocs is discovered, not assumed.
 
-With hundreds of votes per unit, the ordinary likelihood treats every small, persistent difference as decisive. The model therefore uses a coarsened (tempered) posterior, which raises the likelihood to a power ζ = 0.3. The number of blocs comes from the posterior on *K*, computed by stepping-stone sequential Monte Carlo; tempered EM gives a fast approximation.
-
-**The full model, code and tutorial:** [**github.com/cascobayesian/Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). The model was developed for Maine's referendums in O'Brien (2026), *Political Science Research and Methods* ([doi:10.1017/psrm.2025.10050](https://doi.org/10.1017/psrm.2025.10050)).
+With hundreds of votes per unit, the ordinary likelihood treats every small, persistent difference as decisive. The model therefore uses a coarsened (tempered) posterior, which raises the likelihood to a power (e.g. ζ = 0.3). The number of blocs comes from the posterior on *K*, computed by stepping-stone sequential Monte Carlo; we also have a tempered EM algorithm that gives a fast approximation. **The full model, EM approximation, code and tutorial:** [**github.com/cascobayesian/Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). The model was developed for Maine's referendums in O'Brien (2026), *Political Science Research and Methods* ([doi:10.1017/psrm.2025.10050](https://doi.org/10.1017/psrm.2025.10050)).
 
 ## Example: San Francisco
 
