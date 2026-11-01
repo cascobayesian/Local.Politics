@@ -28,7 +28,7 @@ To this we apply the **beta-binomial mixture model (BBMM)**, inspired by similar
    - Education predicts it best elsewhere.
    - The urban–rural divide that organizes national politics is conspicuously absent.
 
-This repository makes the data behind that work public, in a form ready for the model, with a record of how each place's data were made. The model itself is in the R package [**Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM).
+This repository makes the data behind that work public, in a form ready for the model, with a record of how each place's data were made. The model itself is in the R package [**Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). [Worked examples](#worked-examples) reproduce parts of the analysis for San Francisco, Portland and Massachusetts.
 
 ## The places
 
@@ -42,7 +42,7 @@ This repository makes the data behind that work public, in a form ready for the 
 | [Florida](data/fl/) | 5,700 precincts | 2012–24 | 45 | 9 | 374.8 | 12 |  |
 | [Georgia](data/ga/) | 2,687 precincts | 2016–24 | 21 | 6 | 85.8 | 13 |  |
 | [Louisiana](data/la/) | 3,646 precincts | 2000–24 | 168 | 18 | 188.4 | 10 | 8,133 local propositions |
-| [Massachusetts](data/ma/) | 2,392 precincts | 2012–24 | 25 | 10 | 71.1 | 6 | 378 local questions; 13 primaries |
+| [Massachusetts](data/ma/) | 2,392 precincts | 2012–24 | 25 | 10 | 71.1 | 6 | 378 local questions; 13 primaries; [worked example](examples/massachusetts/) |
 | [Maryland](data/md/) | 1,969 precincts | 2012–24 | 20 | 9 | 44.9 | 9 |  |
 | [Maine](data/me/) | 462 towns | 2008–25 | 72 | 4 | 37.3 | 7 |  |
 | [Michigan](data/mi/) | 4,340 precincts | 2014–22 | 10 | 7 | 41.2 | 6 |  |
@@ -68,7 +68,7 @@ This repository makes the data behind that work public, in a form ready for the 
 | [Philadelphia](data/philadelphia/) | 1,703 divisions | 2014–24 | 56 | 11 | 14.0 | 8 | 48 of the 56 are city questions |
 | [Phoenix and Tucson (Maricopa and Pima)](data/phoenix_tucson/) | 1,177 precincts | 2012–24 | 44 | 10 | 82.3 | 11 |  |
 | [Portland (Multnomah County)](data/portland/) | 107 precincts | 2012–24 | 41 | 8 | 14.7 | 5 | 179 local measures |
-| [San Francisco](data/sf/) | 510 precincts | 2012–22 | 64 | 9 | 22.4 | 9 | Candidate contests, 2018–24 |
+| [San Francisco](data/sf/) | 510 precincts | 2012–22 | 64 | 9 | 22.4 | 9 | Candidate contests, 2018–24; [worked example](examples/san_francisco/) |
 | [Salt Lake County](data/slc/) | 803 precincts | 2011–24 | 55 | 4 | 12.7 | 8 | 30 of the 55 are county, city or district questions |
 | [South Florida](data/south_florida/) | 1,908 precincts | 2012–24 | 45 | 9 | 93.5 | 7 |  |
 
@@ -126,9 +126,19 @@ Here μ<sub>*kq*</sub> is bloc *k*'s expected Yes share on question *q* and ν<s
 
 As in genetic models of population structure, the blocs are not points on an ideological axis. Two blocs can vote identically in partisan contests and differently on referenda. Demographics play no part in the estimation, so any relationship between demography and blocs is discovered, not assumed.
 
-With hundreds of votes per unit, the ordinary likelihood treats every small, persistent difference as decisive. The model therefore uses a coarsened (tempered) posterior, which raises the likelihood to a power (e.g. ζ = 0.3). The number of blocs comes from the posterior on *K*, computed by stepping-stone sequential Monte Carlo; we also have a tempered EM algorithm that gives a fast approximation. **The full model, EM approximation, code and tutorial:** [**github.com/cascobayesian/Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). The model was developed for Maine's referendums in O'Brien (2026), *Political Science Research and Methods* ([doi:10.1017/psrm.2025.10050](https://doi.org/10.1017/psrm.2025.10050)).
+With hundreds of votes per unit, the ordinary likelihood treats every small, persistent difference as decisive. The model therefore uses a coarsened (tempered) posterior, which raises the likelihood to a power (e.g. ζ = 0.3). The number of blocs comes from the posterior on *K*, computed by stepping-stone sequential Monte Carlo ([Massachusetts example](examples/massachusetts/)); we also have a tempered EM algorithm that gives a fast approximation ([San Francisco example](examples/san_francisco/)). **The full model, EM approximation, code and tutorial:** [**github.com/cascobayesian/Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). The model was developed for Maine's referendums in O'Brien (2026), *Political Science Research and Methods* ([doi:10.1017/psrm.2025.10050](https://doi.org/10.1017/psrm.2025.10050)).
 
-## Example: San Francisco
+## Worked examples
+
+Each example is a self-contained walkthrough in [`examples/`](examples/), run from the repository root with a single script. They use only the public data in `data/` and [Elections.BBMM](https://github.com/cascobayesian/Elections.BBMM). More places will follow.
+
+| Example | Units | What it shows | Model route | Runtime |
+|---|---|---|---|---|
+| [San Francisco](examples/san_francisco/) | 510 precincts, 64 propositions | Blocs inside a uniformly Democratic city; class splits that partisanship cannot see; who lives in each bloc | Tempered EM from scratch | about 5 minutes |
+| [Portland](examples/portland/) | 107 precincts, 41 measures | The standard account: blocs ordered along one partisan axis | Stepping-stone posterior on *K* | see the example |
+| [Massachusetts](examples/massachusetts/) | 2,392 precincts, 25 questions | The alternative account: partisan-matched pairs, characteristic ballots, and out-of-sample tests on a primary and on local questions | Stepping-stone posterior on *K* (cluster runs supplied), one map from the particles by k-medoids | about 15 seconds |
+
+### San Francisco
 
 [`examples/san_francisco/`](examples/san_francisco/) fits the model to San Francisco's 64 California propositions of 2012–2022 in 510 precincts. Every precinct in the city is Democratic by national standards: the least Democratic bloc gives Democrats 77% of the two-party vote. Even so, the blocs find a structure that partisanship misses.
 
@@ -141,6 +151,10 @@ With hundreds of votes per unit, the ordinary likelihood treats every small, per
 
 The walkthrough runs in about five minutes: [`examples/san_francisco/README.md`](examples/san_francisco/README.md).
 
+<!-- portland: local-political-data-b9 -->
+
+<!-- massachusetts: local-political-data-b9 -->
+
 ## Repository layout
 
 ```
@@ -148,7 +162,7 @@ data/<place>/            model-ready data, boundaries and DATA.md for each of th
 data/<place>/other/      local referenda and candidate contests on the same units
 data/README.md           file formats; metro cut-outs; places that mix statewide and local questions
 R/read_place.R           load a place as an Elections.BBMM data set
-examples/san_francisco/  worked example
+examples/<place>/        worked examples: san_francisco/, portland/, massachusetts/
 scripts/                 how the files in data/ were written from the project's working files (a record; needs the full project)
 ```
 
@@ -165,4 +179,4 @@ For the model itself or the MCMC scheme: John D. O'Brien. 2026. "A Bayesian Mixt
 - BIC, or a project choice, for some;
 - a 1% rule for a few.
 
-We are now rerunning every place on a computing cluster with one consistent scheme: the stepping-stone sampler in Elections.BBMM, giving the posterior on the number of occupied blocs. The *K* values here, and any bloc assignments derived from them, will be replaced when those runs finish. The data in `data/` do not depend on the fits.
+We are now rerunning every place on a computing cluster with one consistent scheme: the stepping-stone sampler in Elections.BBMM, giving the posterior on the number of occupied blocs. Massachusetts and Portland already use it; their worked examples show how. The *K* values here, and any bloc assignments derived from them, will be replaced when those runs finish. The data in `data/` do not depend on the fits.

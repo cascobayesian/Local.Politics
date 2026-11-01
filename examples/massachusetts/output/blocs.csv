@@ -1,0 +1,2393 @@
+"unit_id","bloc","name","certainty","normal_vote"
+"ABINGTON||1",6,"New Englandtown",0.945,0.5064
+"ABINGTON||2",6,"New Englandtown",0.945,0.4793
+"ABINGTON||3",6,"New Englandtown",0.898,0.4707
+"ABINGTON||4",6,"New Englandtown",0.945,0.4821
+"ABINGTON||5",6,"New Englandtown",0.945,0.4944
+"ACTON||1",5,"Professional suburbs",0.772,0.7161
+"ACTON||2",5,"Professional suburbs",0.832,0.6957
+"ACTON||3",4,"Affluent inner ring",0.676,0.7316
+"ACTON||4",4,"Affluent inner ring",0.81,0.7489
+"ACTON||5",4,"Affluent inner ring",0.717,0.7551
+"ACTON||6",5,"Professional suburbs",0.508,0.7258
+"ACTON||6A",4,"Affluent inner ring",0.519,0.8183
+"ACTON||7",5,"Professional suburbs",0.776,0.7141
+"ACUSHNET||1",6,"New Englandtown",0.928,0.5137
+"ACUSHNET||2",6,"New Englandtown",0.935,0.4669
+"ACUSHNET||2A",6,"New Englandtown",0.913,0.3978
+"ACUSHNET||3",6,"New Englandtown",0.945,0.4684
+"ADAMS||1",5,"Professional suburbs",0.621,0.6836
+"ADAMS||2",5,"Professional suburbs",0.63,0.6766
+"ADAMS||3",5,"Professional suburbs",0.663,0.6749
+"ADAMS||4",5,"Professional suburbs",0.66,0.7062
+"ADAMS||5",5,"Professional suburbs",0.696,0.7016
+"AGAWAM||1",6,"New Englandtown",0.945,0.4652
+"AGAWAM||2",6,"New Englandtown",0.945,0.442
+"AGAWAM||3",6,"New Englandtown",0.945,0.4739
+"AGAWAM||4",6,"New Englandtown",0.945,0.4846
+"AGAWAM||5",6,"New Englandtown",0.945,0.4736
+"AGAWAM||6",6,"New Englandtown",0.945,0.445
+"AGAWAM||7",6,"New Englandtown",0.945,0.4383
+"AGAWAM||8",6,"New Englandtown",0.945,0.4725
+"ALFORD||1",4,"Affluent inner ring",0.871,0.7966
+"AMESBURY||1",6,"New Englandtown",0.7,0.5843
+"AMESBURY||2",5,"Professional suburbs",0.678,0.6362
+"AMESBURY||3",5,"Professional suburbs",0.793,0.6238
+"AMESBURY||4",5,"Professional suburbs",0.415,0.5944
+"AMESBURY||5",6,"New Englandtown",0.945,0.5252
+"AMESBURY||6",5,"Professional suburbs",0.566,0.6447
+"AMHERST||1A",2,"Collegevilles",0.937,0.8895
+"AMHERST||1B",2,"Collegevilles",0.937,0.8738
+"AMHERST||2A",2,"Collegevilles",0.937,0.8809
+"AMHERST||2B",2,"Collegevilles",0.937,0.8908
+"AMHERST||3A",2,"Collegevilles",0.855,0.8649
+"AMHERST||3B",2,"Collegevilles",0.937,0.8973
+"AMHERST||4A",2,"Collegevilles",0.937,0.9075
+"AMHERST||4B",2,"Collegevilles",0.937,0.8868
+"AMHERST||5A",2,"Collegevilles",0.937,0.9125
+"AMHERST||5B",2,"Collegevilles",0.937,0.9049
+"ANDOVER||1",5,"Professional suburbs",0.849,0.6489
+"ANDOVER||10",5,"Professional suburbs",0.797,0.5623
+"ANDOVER||2",5,"Professional suburbs",0.729,0.5762
+"ANDOVER||3",5,"Professional suburbs",0.85,0.6185
+"ANDOVER||4",5,"Professional suburbs",0.559,0.5478
+"ANDOVER||4A",5,"Professional suburbs",0.569,0.6234
+"ANDOVER||5",5,"Professional suburbs",0.762,0.5518
+"ANDOVER||6",5,"Professional suburbs",0.685,0.5398
+"ANDOVER||7",5,"Professional suburbs",0.82,0.5618
+"ANDOVER||8",5,"Professional suburbs",0.85,0.5824
+"ANDOVER||9",5,"Professional suburbs",0.842,0.5744
+"AQUINNAH||1",4,"Affluent inner ring",0.85,0.8679
+"ARLINGTON||1",4,"Affluent inner ring",0.871,0.8149
+"ARLINGTON||10",4,"Affluent inner ring",0.858,0.8399
+"ARLINGTON||11",5,"Professional suburbs",0.786,0.713
+"ARLINGTON||12",4,"Affluent inner ring",0.87,0.7959
+"ARLINGTON||13",5,"Professional suburbs",0.85,0.6965
+"ARLINGTON||14",4,"Affluent inner ring",0.871,0.8057
+"ARLINGTON||15",4,"Affluent inner ring",0.79,0.7606
+"ARLINGTON||16",4,"Affluent inner ring",0.869,0.7831
+"ARLINGTON||17",4,"Affluent inner ring",0.871,0.7969
+"ARLINGTON||18",5,"Professional suburbs",0.84,0.6954
+"ARLINGTON||19",4,"Affluent inner ring",0.835,0.7756
+"ARLINGTON||2",4,"Affluent inner ring",0.859,0.7911
+"ARLINGTON||20",4,"Affluent inner ring",0.869,0.7978
+"ARLINGTON||21",4,"Affluent inner ring",0.871,0.8212
+"ARLINGTON||3",2,"Collegevilles",0.762,0.8518
+"ARLINGTON||4",2,"Collegevilles",0.507,0.8298
+"ARLINGTON||5",4,"Affluent inner ring",0.871,0.7891
+"ARLINGTON||6",4,"Affluent inner ring",0.809,0.8275
+"ARLINGTON||7",4,"Affluent inner ring",0.867,0.8064
+"ARLINGTON||8",4,"Affluent inner ring",0.812,0.8388
+"ARLINGTON||9",4,"Affluent inner ring",0.869,0.7859
+"ASHBURNHAM||1",6,"New Englandtown",0.942,0.4937
+"ASHBURNHAM||2",6,"New Englandtown",0.945,0.5016
+"ASHBY||1",6,"New Englandtown",0.938,0.4488
+"ASHFIELD||1",4,"Affluent inner ring",0.864,0.8052
+"ASHLAND||1",5,"Professional suburbs",0.579,0.6226
+"ASHLAND||2",5,"Professional suburbs",0.808,0.6153
+"ASHLAND||3",5,"Professional suburbs",0.739,0.6203
+"ASHLAND||4",5,"Professional suburbs",0.71,0.64
+"ASHLAND||5",5,"Professional suburbs",0.716,0.6362
+"ASHLAND||6",5,"Professional suburbs",0.702,0.6245
+"ATHOL||1",6,"New Englandtown",0.945,0.4718
+"ATHOL||2",6,"New Englandtown",0.934,0.4619
+"ATHOL||3",6,"New Englandtown",0.94,0.519
+"ATTLEBORO|1|A",6,"New Englandtown",0.945,0.5203
+"ATTLEBORO|1|B",6,"New Englandtown",0.879,0.5128
+"ATTLEBORO|2|A",6,"New Englandtown",0.927,0.5316
+"ATTLEBORO|2|B",6,"New Englandtown",0.933,0.5174
+"ATTLEBORO|3|A",6,"New Englandtown",0.519,0.5696
+"ATTLEBORO|3|B",6,"New Englandtown",0.816,0.551
+"ATTLEBORO|4|A",3,"Post-industrial cities",0.597,0.5801
+"ATTLEBORO|4|B",6,"New Englandtown",0.945,0.5023
+"ATTLEBORO|5|A",3,"Post-industrial cities",0.834,0.6337
+"ATTLEBORO|5|B",6,"New Englandtown",0.673,0.5566
+"ATTLEBORO|6|A",6,"New Englandtown",0.713,0.5275
+"ATTLEBORO|6|B",6,"New Englandtown",0.94,0.5293
+"AUBURN||1",6,"New Englandtown",0.945,0.5089
+"AUBURN||2",6,"New Englandtown",0.945,0.5036
+"AUBURN||3",6,"New Englandtown",0.945,0.5049
+"AUBURN||4",6,"New Englandtown",0.936,0.53
+"AUBURN||5",6,"New Englandtown",0.945,0.4887
+"AVON||1",6,"New Englandtown",0.936,0.5403
+"AYER||1",3,"Post-industrial cities",0.514,0.575
+"AYER||2",6,"New Englandtown",0.512,0.57
+"AYER||3",3,"Post-industrial cities",0.719,0.5736
+"BARNSTABLE||1",5,"Professional suburbs",0.778,0.5413
+"BARNSTABLE||10",6,"New Englandtown",0.945,0.4786
+"BARNSTABLE||11",6,"New Englandtown",0.779,0.4856
+"BARNSTABLE||12",6,"New Englandtown",0.851,0.4869
+"BARNSTABLE||13",5,"Professional suburbs",0.528,0.5805
+"BARNSTABLE||2",6,"New Englandtown",0.877,0.5041
+"BARNSTABLE||3",6,"New Englandtown",0.706,0.5649
+"BARNSTABLE||4",5,"Professional suburbs",0.459,0.5239
+"BARNSTABLE||5",5,"Professional suburbs",0.497,0.4556
+"BARNSTABLE||6",6,"New Englandtown",0.926,0.5022
+"BARNSTABLE||7",6,"New Englandtown",0.596,0.5232
+"BARNSTABLE||8",6,"New Englandtown",0.659,0.5764
+"BARNSTABLE||9",3,"Post-industrial cities",0.755,0.6243
+"BARRE||1",6,"New Englandtown",0.944,0.4827
+"BARRE||2",6,"New Englandtown",0.945,0.4353
+"BECKET||1",5,"Professional suburbs",0.651,0.6605
+"BEDFORD||1",5,"Professional suburbs",0.85,0.6723
+"BEDFORD||2",5,"Professional suburbs",0.85,0.6092
+"BEDFORD||2A",5,"Professional suburbs",0.509,0.638
+"BEDFORD||3",5,"Professional suburbs",0.849,0.6751
+"BEDFORD||4",5,"Professional suburbs",0.85,0.6467
+"BELCHERTOWN||A",5,"Professional suburbs",0.846,0.6134
+"BELCHERTOWN||B",6,"New Englandtown",0.55,0.5292
+"BELCHERTOWN||C",6,"New Englandtown",0.93,0.534
+"BELCHERTOWN||D",5,"Professional suburbs",0.496,0.6795
+"BELLINGHAM||1",6,"New Englandtown",0.942,0.484
+"BELLINGHAM||2",6,"New Englandtown",0.995,0.4962
+"BELLINGHAM||3",6,"New Englandtown",0.995,0.5122
+"BELLINGHAM||4",6,"New Englandtown",0.995,0.4609
+"BELLINGHAM||5",6,"New Englandtown",0.944,0.466
+"BELMONT||1",4,"Affluent inner ring",0.63,0.748
+"BELMONT||2",5,"Professional suburbs",0.848,0.6605
+"BELMONT||3",4,"Affluent inner ring",0.572,0.745
+"BELMONT||4",4,"Affluent inner ring",0.765,0.7461
+"BELMONT||5",4,"Affluent inner ring",0.831,0.7397
+"BELMONT||6",4,"Affluent inner ring",0.849,0.7707
+"BELMONT||7",4,"Affluent inner ring",0.846,0.7631
+"BELMONT||8",5,"Professional suburbs",0.85,0.6637
+"BERKLEY||1",6,"New Englandtown",0.749,0.4304
+"BERKLEY||2",6,"New Englandtown",0.945,0.4152
+"BERLIN||1",5,"Professional suburbs",0.55,0.5458
+"BERNARDSTON||1",5,"Professional suburbs",0.85,0.6435
+"BEVERLY|1|1",6,"New Englandtown",0.673,0.5923
+"BEVERLY|1|2",6,"New Englandtown",0.709,0.595
+"BEVERLY|2|1",5,"Professional suburbs",0.645,0.6983
+"BEVERLY|2|2",5,"Professional suburbs",0.697,0.6985
+"BEVERLY|3|1",5,"Professional suburbs",0.671,0.6682
+"BEVERLY|3|2",3,"Post-industrial cities",0.625,0.6297
+"BEVERLY|4|1",5,"Professional suburbs",0.85,0.6255
+"BEVERLY|4|2",5,"Professional suburbs",0.806,0.6916
+"BEVERLY|5|1",6,"New Englandtown",0.902,0.5895
+"BEVERLY|5|2",6,"New Englandtown",0.836,0.5786
+"BEVERLY|6|1",5,"Professional suburbs",0.85,0.6202
+"BEVERLY|6|2",6,"New Englandtown",0.891,0.5359
+"BILLERICA||1",6,"New Englandtown",0.933,0.5252
+"BILLERICA||10",6,"New Englandtown",0.945,0.4578
+"BILLERICA||11",6,"New Englandtown",0.945,0.4725
+"BILLERICA||12",6,"New Englandtown",0.922,0.519
+"BILLERICA||2",6,"New Englandtown",0.944,0.5181
+"BILLERICA||3",6,"New Englandtown",0.945,0.4981
+"BILLERICA||4",6,"New Englandtown",0.945,0.4947
+"BILLERICA||5",6,"New Englandtown",0.945,0.4699
+"BILLERICA||6",6,"New Englandtown",0.945,0.4897
+"BILLERICA||7",6,"New Englandtown",0.923,0.5314
+"BILLERICA||8",6,"New Englandtown",0.945,0.4826
+"BILLERICA||9",6,"New Englandtown",0.945,0.4607
+"BLACKSTONE||1",6,"New Englandtown",0.945,0.4741
+"BLACKSTONE||2",6,"New Englandtown",0.945,0.4738
+"BLACKSTONE||3",6,"New Englandtown",0.945,0.4347
+"BLANDFORD||1",6,"New Englandtown",0.945,0.3949
+"BOLTON||1",5,"Professional suburbs",0.844,0.5844
+"BOSTON|1|1",4,"Affluent inner ring",0.86,0.7777
+"BOSTON|1|10",4,"Affluent inner ring",0.595,0.7714
+"BOSTON|1|11",5,"Professional suburbs",0.628,0.6695
+"BOSTON|1|12",5,"Professional suburbs",0.533,0.6218
+"BOSTON|1|13",3,"Post-industrial cities",0.457,0.6894
+"BOSTON|1|14",3,"Post-industrial cities",0.696,0.6409
+"BOSTON|1|15",4,"Affluent inner ring",0.281,0.9796
+"BOSTON|1|2",4,"Affluent inner ring",0.852,0.7808
+"BOSTON|1|3",4,"Affluent inner ring",0.871,0.8095
+"BOSTON|1|4",4,"Affluent inner ring",0.775,0.7783
+"BOSTON|1|5",4,"Affluent inner ring",0.843,0.762
+"BOSTON|1|6",4,"Affluent inner ring",0.546,0.7778
+"BOSTON|1|7",4,"Affluent inner ring",0.821,0.7876
+"BOSTON|1|8",1,"Immigrant urban cores",0.726,0.7875
+"BOSTON|1|9",4,"Affluent inner ring",0.497,0.787
+"BOSTON|10|1",1,"Immigrant urban cores",0.907,0.8989
+"BOSTON|10|2",4,"Affluent inner ring",0.864,0.8786
+"BOSTON|10|3",4,"Affluent inner ring",0.718,0.8711
+"BOSTON|10|4",4,"Affluent inner ring",0.707,0.8475
+"BOSTON|10|5",4,"Affluent inner ring",0.479,0.8697
+"BOSTON|10|6",4,"Affluent inner ring",0.838,0.9125
+"BOSTON|10|7",1,"Immigrant urban cores",0.857,0.9349
+"BOSTON|10|8",2,"Collegevilles",0.755,0.8982
+"BOSTON|10|9",2,"Collegevilles",0.937,0.9204
+"BOSTON|11|1",2,"Collegevilles",0.894,0.9462
+"BOSTON|11|10",2,"Collegevilles",0.937,0.9492
+"BOSTON|11|2",1,"Immigrant urban cores",0.842,0.9515
+"BOSTON|11|3",1,"Immigrant urban cores",0.9,0.9393
+"BOSTON|11|4",4,"Affluent inner ring",0.67,0.9384
+"BOSTON|11|5",4,"Affluent inner ring",0.685,0.9324
+"BOSTON|11|6",2,"Collegevilles",0.937,0.9333
+"BOSTON|11|7",2,"Collegevilles",0.937,0.9336
+"BOSTON|11|8",2,"Collegevilles",0.937,0.9292
+"BOSTON|11|9",2,"Collegevilles",0.937,0.9283
+"BOSTON|12|1",1,"Immigrant urban cores",0.91,0.9533
+"BOSTON|12|2",1,"Immigrant urban cores",0.91,0.9552
+"BOSTON|12|3",1,"Immigrant urban cores",0.91,0.942
+"BOSTON|12|4",1,"Immigrant urban cores",0.91,0.9481
+"BOSTON|12|5",1,"Immigrant urban cores",0.91,0.9599
+"BOSTON|12|6",1,"Immigrant urban cores",0.909,0.9507
+"BOSTON|12|7",1,"Immigrant urban cores",0.91,0.9395
+"BOSTON|12|8",1,"Immigrant urban cores",0.91,0.9524
+"BOSTON|12|9",1,"Immigrant urban cores",0.91,0.9467
+"BOSTON|13|1",1,"Immigrant urban cores",0.91,0.9384
+"BOSTON|13|10",4,"Affluent inner ring",0.565,0.7115
+"BOSTON|13|2",1,"Immigrant urban cores",0.91,0.9335
+"BOSTON|13|3",1,"Immigrant urban cores",0.725,0.8603
+"BOSTON|13|4",1,"Immigrant urban cores",0.91,0.9332
+"BOSTON|13|5",1,"Immigrant urban cores",0.852,0.9066
+"BOSTON|13|6",4,"Affluent inner ring",0.816,0.873
+"BOSTON|13|7",4,"Affluent inner ring",0.83,0.7486
+"BOSTON|13|8",4,"Affluent inner ring",0.841,0.7696
+"BOSTON|13|9",4,"Affluent inner ring",0.871,0.8198
+"BOSTON|14|1",1,"Immigrant urban cores",0.91,0.9372
+"BOSTON|14|10",1,"Immigrant urban cores",0.91,0.9409
+"BOSTON|14|11",1,"Immigrant urban cores",0.91,0.9534
+"BOSTON|14|12",1,"Immigrant urban cores",0.91,0.965
+"BOSTON|14|13",1,"Immigrant urban cores",0.91,0.962
+"BOSTON|14|14",1,"Immigrant urban cores",0.91,0.9634
+"BOSTON|14|2",1,"Immigrant urban cores",0.91,0.9483
+"BOSTON|14|3",1,"Immigrant urban cores",0.91,0.9602
+"BOSTON|14|4",1,"Immigrant urban cores",0.91,0.9446
+"BOSTON|14|5",1,"Immigrant urban cores",0.91,0.9707
+"BOSTON|14|6",1,"Immigrant urban cores",0.91,0.9428
+"BOSTON|14|7",1,"Immigrant urban cores",0.91,0.9481
+"BOSTON|14|8",1,"Immigrant urban cores",0.91,0.9601
+"BOSTON|14|9",1,"Immigrant urban cores",0.903,0.939
+"BOSTON|15|1",1,"Immigrant urban cores",0.91,0.9343
+"BOSTON|15|2",1,"Immigrant urban cores",0.91,0.9487
+"BOSTON|15|3",1,"Immigrant urban cores",0.907,0.9158
+"BOSTON|15|4",1,"Immigrant urban cores",0.905,0.8691
+"BOSTON|15|5",1,"Immigrant urban cores",0.91,0.9413
+"BOSTON|15|6",1,"Immigrant urban cores",0.683,0.7249
+"BOSTON|15|7",1,"Immigrant urban cores",0.892,0.9359
+"BOSTON|15|8",1,"Immigrant urban cores",0.91,0.7894
+"BOSTON|15|9",1,"Immigrant urban cores",0.691,0.8124
+"BOSTON|16|1",1,"Immigrant urban cores",0.735,0.7668
+"BOSTON|16|10",5,"Professional suburbs",0.397,0.6025
+"BOSTON|16|11",5,"Professional suburbs",0.522,0.6756
+"BOSTON|16|12",6,"New Englandtown",0.945,0.5094
+"BOSTON|16|2",5,"Professional suburbs",0.575,0.6872
+"BOSTON|16|3",1,"Immigrant urban cores",0.863,0.8284
+"BOSTON|16|4",1,"Immigrant urban cores",0.601,0.7915
+"BOSTON|16|5",5,"Professional suburbs",0.369,0.7467
+"BOSTON|16|6",1,"Immigrant urban cores",0.798,0.8025
+"BOSTON|16|7",3,"Post-industrial cities",0.692,0.6233
+"BOSTON|16|8",5,"Professional suburbs",0.73,0.7022
+"BOSTON|16|9",6,"New Englandtown",0.915,0.536
+"BOSTON|17|1",1,"Immigrant urban cores",0.91,0.938
+"BOSTON|17|10",1,"Immigrant urban cores",0.91,0.9509
+"BOSTON|17|11",1,"Immigrant urban cores",0.626,0.9314
+"BOSTON|17|12",1,"Immigrant urban cores",0.91,0.9221
+"BOSTON|17|13",4,"Affluent inner ring",0.626,0.804
+"BOSTON|17|14",1,"Immigrant urban cores",0.868,0.8794
+"BOSTON|17|2",1,"Immigrant urban cores",0.906,0.9018
+"BOSTON|17|3",1,"Immigrant urban cores",0.906,0.9274
+"BOSTON|17|4",1,"Immigrant urban cores",0.908,0.8765
+"BOSTON|17|5",1,"Immigrant urban cores",0.91,0.9504
+"BOSTON|17|6",1,"Immigrant urban cores",0.592,0.9203
+"BOSTON|17|7",1,"Immigrant urban cores",0.91,0.948
+"BOSTON|17|8",1,"Immigrant urban cores",0.91,0.9378
+"BOSTON|17|9",4,"Affluent inner ring",0.748,0.9258
+"BOSTON|18|1",1,"Immigrant urban cores",0.91,0.953
+"BOSTON|18|10",4,"Affluent inner ring",0.871,0.8396
+"BOSTON|18|11",1,"Immigrant urban cores",0.909,0.8775
+"BOSTON|18|12",1,"Immigrant urban cores",0.842,0.8027
+"BOSTON|18|13",1,"Immigrant urban cores",0.903,0.8781
+"BOSTON|18|14",1,"Immigrant urban cores",0.909,0.8841
+"BOSTON|18|15",1,"Immigrant urban cores",0.91,0.9282
+"BOSTON|18|16",3,"Post-industrial cities",0.634,0.6897
+"BOSTON|18|17",3,"Post-industrial cities",0.463,0.8087
+"BOSTON|18|18",1,"Immigrant urban cores",0.864,0.8173
+"BOSTON|18|19",1,"Immigrant urban cores",0.773,0.8199
+"BOSTON|18|2",1,"Immigrant urban cores",0.91,0.9679
+"BOSTON|18|20",3,"Post-industrial cities",0.833,0.6761
+"BOSTON|18|21",1,"Immigrant urban cores",0.91,0.9611
+"BOSTON|18|22",3,"Post-industrial cities",0.767,0.7276
+"BOSTON|18|23",1,"Immigrant urban cores",0.91,0.9114
+"BOSTON|18|3",1,"Immigrant urban cores",0.91,0.9661
+"BOSTON|18|4",1,"Immigrant urban cores",0.91,0.9549
+"BOSTON|18|5",1,"Immigrant urban cores",0.91,0.9577
+"BOSTON|18|6",1,"Immigrant urban cores",0.91,0.9483
+"BOSTON|18|7",1,"Immigrant urban cores",0.91,0.8621
+"BOSTON|18|8",1,"Immigrant urban cores",0.91,0.8948
+"BOSTON|18|9",4,"Affluent inner ring",0.807,0.8149
+"BOSTON|19|1",2,"Collegevilles",0.937,0.9463
+"BOSTON|19|10",4,"Affluent inner ring",0.871,0.8687
+"BOSTON|19|11",1,"Immigrant urban cores",0.806,0.9108
+"BOSTON|19|12",4,"Affluent inner ring",0.838,0.8727
+"BOSTON|19|13",4,"Affluent inner ring",0.794,0.8653
+"BOSTON|19|2",4,"Affluent inner ring",0.871,0.7726
+"BOSTON|19|3",2,"Collegevilles",0.923,0.8995
+"BOSTON|19|4",2,"Collegevilles",0.937,0.948
+"BOSTON|19|5",2,"Collegevilles",0.937,0.9172
+"BOSTON|19|6",2,"Collegevilles",0.937,0.9403
+"BOSTON|19|7",2,"Collegevilles",0.937,0.9162
+"BOSTON|19|8",2,"Collegevilles",0.937,0.9165
+"BOSTON|19|9",2,"Collegevilles",0.937,0.9195
+"BOSTON|2|1",5,"Professional suburbs",0.814,0.6782
+"BOSTON|2|2",5,"Professional suburbs",0.85,0.7215
+"BOSTON|2|3",5,"Professional suburbs",0.816,0.6934
+"BOSTON|2|4",5,"Professional suburbs",0.73,0.7151
+"BOSTON|2|5",5,"Professional suburbs",0.817,0.6889
+"BOSTON|2|6",5,"Professional suburbs",0.825,0.681
+"BOSTON|2|7",4,"Affluent inner ring",0.632,0.6903
+"BOSTON|2|8",4,"Affluent inner ring",0.659,0.7311
+"BOSTON|20|1",4,"Affluent inner ring",0.871,0.7768
+"BOSTON|20|10",5,"Professional suburbs",0.778,0.6259
+"BOSTON|20|11",5,"Professional suburbs",0.755,0.7118
+"BOSTON|20|12",5,"Professional suburbs",0.85,0.6381
+"BOSTON|20|13",5,"Professional suburbs",0.841,0.6324
+"BOSTON|20|14",5,"Professional suburbs",0.85,0.6147
+"BOSTON|20|15",3,"Post-industrial cities",0.518,0.6217
+"BOSTON|20|16",6,"New Englandtown",0.465,0.5867
+"BOSTON|20|17",5,"Professional suburbs",0.836,0.6243
+"BOSTON|20|18",5,"Professional suburbs",0.72,0.699
+"BOSTON|20|19",5,"Professional suburbs",0.85,0.6312
+"BOSTON|20|2",4,"Affluent inner ring",0.871,0.8197
+"BOSTON|20|20",5,"Professional suburbs",0.762,0.6898
+"BOSTON|20|21",1,"Immigrant urban cores",0.387,0.6632
+"BOSTON|20|3",3,"Post-industrial cities",0.803,0.6717
+"BOSTON|20|4",2,"Collegevilles",0.926,0.864
+"BOSTON|20|5",5,"Professional suburbs",0.576,0.6294
+"BOSTON|20|6",5,"Professional suburbs",0.849,0.6852
+"BOSTON|20|7",4,"Affluent inner ring",0.482,0.7116
+"BOSTON|20|8",4,"Affluent inner ring",0.86,0.7637
+"BOSTON|20|9",4,"Affluent inner ring",0.823,0.761
+"BOSTON|21|1",2,"Collegevilles",0.784,0.8615
+"BOSTON|21|10",4,"Affluent inner ring",0.721,0.8267
+"BOSTON|21|11",2,"Collegevilles",0.647,0.8313
+"BOSTON|21|12",4,"Affluent inner ring",0.782,0.7909
+"BOSTON|21|13",4,"Affluent inner ring",0.868,0.7246
+"BOSTON|21|14",2,"Collegevilles",0.937,0.8636
+"BOSTON|21|15",2,"Collegevilles",0.934,0.863
+"BOSTON|21|16",4,"Affluent inner ring",0.871,0.788
+"BOSTON|21|2",2,"Collegevilles",0.916,0.8902
+"BOSTON|21|3",2,"Collegevilles",0.935,0.879
+"BOSTON|21|4",2,"Collegevilles",0.937,0.8822
+"BOSTON|21|5",2,"Collegevilles",0.937,0.8914
+"BOSTON|21|6",2,"Collegevilles",0.758,0.8592
+"BOSTON|21|7",2,"Collegevilles",0.837,0.8641
+"BOSTON|21|8",2,"Collegevilles",0.937,0.8797
+"BOSTON|21|9",2,"Collegevilles",0.927,0.8638
+"BOSTON|22|1",4,"Affluent inner ring",0.639,0.8233
+"BOSTON|22|10",4,"Affluent inner ring",0.871,0.7886
+"BOSTON|22|11",4,"Affluent inner ring",0.868,0.7612
+"BOSTON|22|12",4,"Affluent inner ring",0.72,0.7574
+"BOSTON|22|13",4,"Affluent inner ring",0.853,0.7574
+"BOSTON|22|2",4,"Affluent inner ring",0.533,0.8382
+"BOSTON|22|3",4,"Affluent inner ring",0.86,0.7766
+"BOSTON|22|4",4,"Affluent inner ring",0.871,0.7943
+"BOSTON|22|5",4,"Affluent inner ring",0.869,0.8031
+"BOSTON|22|6",4,"Affluent inner ring",0.871,0.8026
+"BOSTON|22|7",4,"Affluent inner ring",0.871,0.81
+"BOSTON|22|8",4,"Affluent inner ring",0.721,0.7085
+"BOSTON|22|9",4,"Affluent inner ring",0.871,0.7367
+"BOSTON|3|1",5,"Professional suburbs",0.823,0.6577
+"BOSTON|3|10",4,"Affluent inner ring",0.653,0.7257
+"BOSTON|3|11",5,"Professional suburbs",0.673,0.6774
+"BOSTON|3|12",4,"Affluent inner ring",0.787,0.7622
+"BOSTON|3|13",5,"Professional suburbs",0.759,0.7129
+"BOSTON|3|14",4,"Affluent inner ring",0.87,0.7915
+"BOSTON|3|15",4,"Affluent inner ring",0.87,0.8072
+"BOSTON|3|16",4,"Affluent inner ring",0.871,0.8572
+"BOSTON|3|17",4,"Affluent inner ring",0.847,0.7264
+"BOSTON|3|2",5,"Professional suburbs",0.815,0.6613
+"BOSTON|3|3",5,"Professional suburbs",0.559,0.6806
+"BOSTON|3|4",5,"Professional suburbs",0.774,0.6772
+"BOSTON|3|5",4,"Affluent inner ring",0.737,0.752
+"BOSTON|3|6",4,"Affluent inner ring",0.645,0.7073
+"BOSTON|3|7",4,"Affluent inner ring",0.869,0.8535
+"BOSTON|3|8",4,"Affluent inner ring",0.871,0.8013
+"BOSTON|3|9",4,"Affluent inner ring",0.815,0.7513
+"BOSTON|4|1",4,"Affluent inner ring",0.871,0.8253
+"BOSTON|4|10",2,"Collegevilles",0.866,0.8765
+"BOSTON|4|11",4,"Affluent inner ring",0.475,0.8312
+"BOSTON|4|12",4,"Affluent inner ring",0.678,0.8687
+"BOSTON|4|2",4,"Affluent inner ring",0.504,0.7648
+"BOSTON|4|3",4,"Affluent inner ring",0.868,0.821
+"BOSTON|4|4",4,"Affluent inner ring",0.87,0.8468
+"BOSTON|4|5",4,"Affluent inner ring",0.869,0.8382
+"BOSTON|4|6",4,"Affluent inner ring",0.779,0.7896
+"BOSTON|4|7",4,"Affluent inner ring",0.855,0.8277
+"BOSTON|4|8",4,"Affluent inner ring",0.721,0.8277
+"BOSTON|4|9",4,"Affluent inner ring",0.865,0.9122
+"BOSTON|5|1",4,"Affluent inner ring",0.812,0.8227
+"BOSTON|5|10",4,"Affluent inner ring",0.871,0.7903
+"BOSTON|5|11",4,"Affluent inner ring",0.868,0.7777
+"BOSTON|5|12",4,"Affluent inner ring",0.718,0.8423
+"BOSTON|5|13",4,"Affluent inner ring",0.838,0.8148
+"BOSTON|5|14",4,"Affluent inner ring",0.864,0.8233
+"BOSTON|5|15",4,"Affluent inner ring",0.87,0.7749
+"BOSTON|5|2",2,"Collegevilles",0.664,0.8513
+"BOSTON|5|3",4,"Affluent inner ring",0.702,0.7466
+"BOSTON|5|4",4,"Affluent inner ring",0.861,0.7969
+"BOSTON|5|5",5,"Professional suburbs",0.709,0.7266
+"BOSTON|5|6",5,"Professional suburbs",0.778,0.691
+"BOSTON|5|7",5,"Professional suburbs",0.511,0.7221
+"BOSTON|5|8",4,"Affluent inner ring",0.733,0.7321
+"BOSTON|5|9",4,"Affluent inner ring",0.744,0.7538
+"BOSTON|6|1",4,"Affluent inner ring",0.791,0.7411
+"BOSTON|6|10",5,"Professional suburbs",0.823,0.6605
+"BOSTON|6|11",5,"Professional suburbs",0.472,0.7016
+"BOSTON|6|12",5,"Professional suburbs",0.766,0.7154
+"BOSTON|6|2",5,"Professional suburbs",0.795,0.667
+"BOSTON|6|3",5,"Professional suburbs",0.833,0.6729
+"BOSTON|6|4",5,"Professional suburbs",0.849,0.6203
+"BOSTON|6|5",5,"Professional suburbs",0.827,0.6232
+"BOSTON|6|6",5,"Professional suburbs",0.808,0.5792
+"BOSTON|6|7",5,"Professional suburbs",0.833,0.5775
+"BOSTON|6|8",5,"Professional suburbs",0.656,0.5677
+"BOSTON|6|9",6,"New Englandtown",0.848,0.5259
+"BOSTON|7|1",6,"New Englandtown",0.735,0.5485
+"BOSTON|7|10",1,"Immigrant urban cores",0.91,0.911
+"BOSTON|7|2",5,"Professional suburbs",0.673,0.5558
+"BOSTON|7|3",5,"Professional suburbs",0.712,0.5751
+"BOSTON|7|4",5,"Professional suburbs",0.849,0.6116
+"BOSTON|7|5",5,"Professional suburbs",0.77,0.6837
+"BOSTON|7|6",4,"Affluent inner ring",0.469,0.7288
+"BOSTON|7|7",1,"Immigrant urban cores",0.91,0.8103
+"BOSTON|7|8",4,"Affluent inner ring",0.658,0.7169
+"BOSTON|7|9",4,"Affluent inner ring",0.779,0.7472
+"BOSTON|8|1",4,"Affluent inner ring",0.869,0.8755
+"BOSTON|8|2",4,"Affluent inner ring",0.861,0.8704
+"BOSTON|8|3",1,"Immigrant urban cores",0.91,0.9353
+"BOSTON|8|4",1,"Immigrant urban cores",0.91,0.9231
+"BOSTON|8|5",1,"Immigrant urban cores",0.91,0.9203
+"BOSTON|8|6",4,"Affluent inner ring",0.832,0.8673
+"BOSTON|9|1",4,"Affluent inner ring",0.871,0.8788
+"BOSTON|9|2",4,"Affluent inner ring",0.87,0.8746
+"BOSTON|9|3",1,"Immigrant urban cores",0.716,0.9182
+"BOSTON|9|4",1,"Immigrant urban cores",0.852,0.9385
+"BOSTON|9|5",1,"Immigrant urban cores",0.829,0.957
+"BOSTON|9|6",4,"Affluent inner ring",0.864,0.9117
+"BOSTON|9|7",1,"Immigrant urban cores",0.897,0.9132
+"BOURNE||1",6,"New Englandtown",0.918,0.4415
+"BOURNE||2",6,"New Englandtown",0.945,0.4433
+"BOURNE||3",6,"New Englandtown",0.945,0.4534
+"BOURNE||4",6,"New Englandtown",0.901,0.4985
+"BOURNE||5",6,"New Englandtown",0.943,0.5097
+"BOURNE||5A",6,"New Englandtown",0.91,0.4789
+"BOURNE||6",5,"Professional suburbs",0.671,0.5261
+"BOURNE||7",6,"New Englandtown",0.945,0.4711
+"BOXBOROUGH||1",5,"Professional suburbs",0.832,0.6596
+"BOXFORD||1",6,"New Englandtown",0.703,0.4571
+"BOXFORD||2",6,"New Englandtown",0.466,0.4783
+"BOXFORD||3",6,"New Englandtown",0.758,0.4741
+"BOYLSTON||1",6,"New Englandtown",0.938,0.5065
+"BRAINTREE||1A",6,"New Englandtown",0.945,0.4976
+"BRAINTREE||1B",6,"New Englandtown",0.945,0.5001
+"BRAINTREE||2A",6,"New Englandtown",0.945,0.5229
+"BRAINTREE||2B",6,"New Englandtown",0.945,0.5027
+"BRAINTREE||3A",6,"New Englandtown",0.912,0.558
+"BRAINTREE||3B",6,"New Englandtown",0.911,0.5531
+"BRAINTREE||4A",6,"New Englandtown",0.945,0.5427
+"BRAINTREE||4B",6,"New Englandtown",0.628,0.5737
+"BRAINTREE||5A",6,"New Englandtown",0.945,0.5194
+"BRAINTREE||5B",6,"New Englandtown",0.945,0.5198
+"BRAINTREE||6A",6,"New Englandtown",0.945,0.4922
+"BRAINTREE||6B",6,"New Englandtown",0.945,0.5043
+"BREWSTER||1",5,"Professional suburbs",0.85,0.6
+"BREWSTER||2",5,"Professional suburbs",0.85,0.6145
+"BREWSTER||3",5,"Professional suburbs",0.843,0.5857
+"BRIDGEWATER||1",6,"New Englandtown",0.945,0.44
+"BRIDGEWATER||2",6,"New Englandtown",0.945,0.4591
+"BRIDGEWATER||3",6,"New Englandtown",0.945,0.4383
+"BRIDGEWATER||4",6,"New Englandtown",0.945,0.4551
+"BRIDGEWATER||5",5,"Professional suburbs",0.802,0.537
+"BRIDGEWATER||6",6,"New Englandtown",0.944,0.5112
+"BRIDGEWATER||7",6,"New Englandtown",0.945,0.4918
+"BRIDGEWATER||8",6,"New Englandtown",0.904,0.5331
+"BRIDGEWATER||9",6,"New Englandtown",0.945,0.4769
+"BRIMFIELD||1",6,"New Englandtown",0.945,0.4239
+"BROCKTON|1|A",1,"Immigrant urban cores",0.791,0.7998
+"BROCKTON|1|B",3,"Post-industrial cities",0.837,0.7082
+"BROCKTON|1|C",3,"Post-industrial cities",0.838,0.699
+"BROCKTON|1|D",6,"New Englandtown",0.461,0.6215
+"BROCKTON|2|A",1,"Immigrant urban cores",0.91,0.8952
+"BROCKTON|2|B",1,"Immigrant urban cores",0.905,0.8764
+"BROCKTON|2|C",1,"Immigrant urban cores",0.909,0.8714
+"BROCKTON|2|D",3,"Post-industrial cities",0.782,0.7539
+"BROCKTON|3|A",3,"Post-industrial cities",0.732,0.7681
+"BROCKTON|3|B",1,"Immigrant urban cores",0.874,0.8236
+"BROCKTON|3|C",3,"Post-industrial cities",0.821,0.6355
+"BROCKTON|3|D",6,"New Englandtown",0.487,0.6142
+"BROCKTON|4|A",1,"Immigrant urban cores",0.905,0.8419
+"BROCKTON|4|B",3,"Post-industrial cities",0.782,0.7584
+"BROCKTON|4|C",3,"Post-industrial cities",0.845,0.6843
+"BROCKTON|4|D",3,"Post-industrial cities",0.84,0.6901
+"BROCKTON|5|A",1,"Immigrant urban cores",0.871,0.8278
+"BROCKTON|5|B",3,"Post-industrial cities",0.845,0.7356
+"BROCKTON|5|C",3,"Post-industrial cities",0.473,0.7868
+"BROCKTON|5|D",3,"Post-industrial cities",0.844,0.6777
+"BROCKTON|6|A",3,"Post-industrial cities",0.845,0.7328
+"BROCKTON|6|B",3,"Post-industrial cities",0.757,0.6335
+"BROCKTON|6|C",3,"Post-industrial cities",0.826,0.7052
+"BROCKTON|6|D",6,"New Englandtown",0.542,0.6065
+"BROCKTON|7|A",1,"Immigrant urban cores",0.907,0.842
+"BROCKTON|7|B",3,"Post-industrial cities",0.585,0.8125
+"BROCKTON|7|C",3,"Post-industrial cities",0.503,0.7841
+"BROCKTON|7|D",3,"Post-industrial cities",0.842,0.7161
+"BROOKFIELD||1",6,"New Englandtown",0.945,0.445
+"BROOKLINE||1",4,"Affluent inner ring",0.868,0.8469
+"BROOKLINE||10",4,"Affluent inner ring",0.735,0.8491
+"BROOKLINE||11",4,"Affluent inner ring",0.554,0.8651
+"BROOKLINE||12",4,"Affluent inner ring",0.866,0.8414
+"BROOKLINE||13",4,"Affluent inner ring",0.871,0.822
+"BROOKLINE||13A",4,"Affluent inner ring",0.651,0.815
+"BROOKLINE||14",4,"Affluent inner ring",0.766,0.7756
+"BROOKLINE||14A",5,"Professional suburbs",0.827,0.7955
+"BROOKLINE||15",5,"Professional suburbs",0.833,0.7144
+"BROOKLINE||16",4,"Affluent inner ring",0.827,0.7785
+"BROOKLINE||17",4,"Affluent inner ring",0.867,0.8506
+"BROOKLINE||2",4,"Affluent inner ring",0.819,0.8638
+"BROOKLINE||3",4,"Affluent inner ring",0.63,0.8539
+"BROOKLINE||4",4,"Affluent inner ring",0.869,0.8417
+"BROOKLINE||5",4,"Affluent inner ring",0.847,0.8504
+"BROOKLINE||5A",4,"Affluent inner ring",0.657,0.8719
+"BROOKLINE||6",2,"Collegevilles",0.823,0.8765
+"BROOKLINE||7",4,"Affluent inner ring",0.529,0.8587
+"BROOKLINE||8",2,"Collegevilles",0.788,0.8865
+"BROOKLINE||9",2,"Collegevilles",0.529,0.8668
+"BUCKLAND||1",4,"Affluent inner ring",0.792,0.7387
+"BURLINGTON||1",6,"New Englandtown",0.945,0.5292
+"BURLINGTON||2",6,"New Englandtown",0.632,0.5942
+"BURLINGTON||3",6,"New Englandtown",0.943,0.5604
+"BURLINGTON||4",5,"Professional suburbs",0.014,0.5708
+"BURLINGTON||5",6,"New Englandtown",0.945,0.5368
+"BURLINGTON||6",6,"New Englandtown",0.943,0.5283
+"BURLINGTON||7",6,"New Englandtown",0.734,0.5883
+"CAMBRIDGE|1|1",4,"Affluent inner ring",0.868,0.8183
+"CAMBRIDGE|1|2",4,"Affluent inner ring",0.827,0.8592
+"CAMBRIDGE|1|2A",2,"Collegevilles",0.462,0.8794
+"CAMBRIDGE|1|3",4,"Affluent inner ring",0.871,0.8476
+"CAMBRIDGE|10|1",2,"Collegevilles",0.937,0.9058
+"CAMBRIDGE|10|1A",2,"Collegevilles",0.716,0.9008
+"CAMBRIDGE|10|2",2,"Collegevilles",0.937,0.9299
+"CAMBRIDGE|10|3",2,"Collegevilles",0.796,0.9149
+"CAMBRIDGE|11|1",4,"Affluent inner ring",0.83,0.911
+"CAMBRIDGE|11|1A",2,"Collegevilles",0.559,0.888
+"CAMBRIDGE|11|2",4,"Affluent inner ring",0.811,0.8994
+"CAMBRIDGE|11|3",2,"Collegevilles",0.921,0.8913
+"CAMBRIDGE|11|3A",2,"Collegevilles",0.915,0.9507
+"CAMBRIDGE|2|1",4,"Affluent inner ring",0.595,0.8657
+"CAMBRIDGE|2|2",4,"Affluent inner ring",0.865,0.8395
+"CAMBRIDGE|2|3",4,"Affluent inner ring",0.869,0.8402
+"CAMBRIDGE|2|3A",4,"Affluent inner ring",0.561,0.8356
+"CAMBRIDGE|3|1",4,"Affluent inner ring",0.831,0.9195
+"CAMBRIDGE|3|2",2,"Collegevilles",0.937,0.9184
+"CAMBRIDGE|3|3",2,"Collegevilles",0.937,0.9316
+"CAMBRIDGE|3|3A",2,"Collegevilles",0.867,0.9157
+"CAMBRIDGE|4|1",2,"Collegevilles",0.921,0.9137
+"CAMBRIDGE|4|2",2,"Collegevilles",0.937,0.9218
+"CAMBRIDGE|4|2A",2,"Collegevilles",0.902,0.9154
+"CAMBRIDGE|4|3",2,"Collegevilles",0.937,0.9435
+"CAMBRIDGE|5|1",2,"Collegevilles",0.931,0.9286
+"CAMBRIDGE|5|2",2,"Collegevilles",0.937,0.8964
+"CAMBRIDGE|5|3",2,"Collegevilles",0.936,0.929
+"CAMBRIDGE|6|1",2,"Collegevilles",0.937,0.9267
+"CAMBRIDGE|6|1A",2,"Collegevilles",0.846,0.9401
+"CAMBRIDGE|6|2",2,"Collegevilles",0.937,0.9192
+"CAMBRIDGE|6|3",2,"Collegevilles",0.936,0.9083
+"CAMBRIDGE|7|1",2,"Collegevilles",0.937,0.9399
+"CAMBRIDGE|7|2",2,"Collegevilles",0.937,0.921
+"CAMBRIDGE|7|2A",4,"Affluent inner ring",0.529,0.9625
+"CAMBRIDGE|7|3",2,"Collegevilles",0.937,0.9096
+"CAMBRIDGE|8|1",2,"Collegevilles",0.937,0.9271
+"CAMBRIDGE|8|2",2,"Collegevilles",0.926,0.9181
+"CAMBRIDGE|8|3",2,"Collegevilles",0.937,0.9153
+"CAMBRIDGE|9|1",2,"Collegevilles",0.796,0.9053
+"CAMBRIDGE|9|2",2,"Collegevilles",0.776,0.8794
+"CAMBRIDGE|9|3",4,"Affluent inner ring",0.613,0.8669
+"CANTON||1",6,"New Englandtown",0.924,0.5793
+"CANTON||2",6,"New Englandtown",0.632,0.5792
+"CANTON||3",6,"New Englandtown",0.676,0.5775
+"CANTON||4",6,"New Englandtown",0.893,0.5208
+"CANTON||5",6,"New Englandtown",0.908,0.5516
+"CANTON||6",6,"New Englandtown",0.601,0.5814
+"CANTON||7",6,"New Englandtown",0.841,0.5795
+"CARLISLE||1",5,"Professional suburbs",0.762,0.683
+"CARVER||1",6,"New Englandtown",0.945,0.4273
+"CARVER||2",6,"New Englandtown",0.945,0.4339
+"CARVER||3",6,"New Englandtown",0.945,0.4559
+"CHARLEMONT||1",5,"Professional suburbs",0.677,0.6701
+"CHARLTON||1",6,"New Englandtown",0.945,0.4334
+"CHARLTON||2",6,"New Englandtown",0.945,0.378
+"CHARLTON||3",6,"New Englandtown",0.945,0.4104
+"CHARLTON||4",6,"New Englandtown",0.945,0.4081
+"CHARLTON||4A",6,"New Englandtown",0.829,0.3272
+"CHATHAM||1",5,"Professional suburbs",0.833,0.5397
+"CHATHAM||2",5,"Professional suburbs",0.832,0.5374
+"CHELMSFORD||1",6,"New Englandtown",0.945,0.5325
+"CHELMSFORD||10",6,"New Englandtown",0.94,0.5223
+"CHELMSFORD||11",6,"New Englandtown",0.725,0.5538
+"CHELMSFORD||2",6,"New Englandtown",0.537,0.5698
+"CHELMSFORD||3",6,"New Englandtown",0.913,0.5302
+"CHELMSFORD||3A",5,"Professional suburbs",0.392,0.591
+"CHELMSFORD||3B",5,"Professional suburbs",0.427,0.6318
+"CHELMSFORD||4",6,"New Englandtown",0.905,0.5577
+"CHELMSFORD||5",6,"New Englandtown",0.787,0.5265
+"CHELMSFORD||5A",6,"New Englandtown",0.828,0.5855
+"CHELMSFORD||5B",6,"New Englandtown",0.66,0.5917
+"CHELMSFORD||6",6,"New Englandtown",0.907,0.5415
+"CHELMSFORD||7",6,"New Englandtown",0.798,0.5538
+"CHELMSFORD||8",6,"New Englandtown",0.508,0.5658
+"CHELMSFORD||9",6,"New Englandtown",0.862,0.5443
+"CHELSEA|1|1",1,"Immigrant urban cores",0.759,0.7911
+"CHELSEA|1|2",1,"Immigrant urban cores",0.866,0.8178
+"CHELSEA|1|3",1,"Immigrant urban cores",0.873,0.8259
+"CHELSEA|1|4",1,"Immigrant urban cores",0.847,0.8591
+"CHELSEA|2|1",5,"Professional suburbs",0.798,0.7428
+"CHELSEA|2|2",1,"Immigrant urban cores",0.835,0.8419
+"CHELSEA|2|3",1,"Immigrant urban cores",0.887,0.8575
+"CHELSEA|2|4",1,"Immigrant urban cores",0.811,0.8297
+"CHELSEA|3|1",1,"Immigrant urban cores",0.835,0.7976
+"CHELSEA|3|2",1,"Immigrant urban cores",0.842,0.8178
+"CHELSEA|3|3",1,"Immigrant urban cores",0.851,0.8008
+"CHELSEA|3|4",1,"Immigrant urban cores",0.803,0.8084
+"CHELSEA|4|1",1,"Immigrant urban cores",0.821,0.7712
+"CHELSEA|4|2",3,"Post-industrial cities",0.79,0.6967
+"CHELSEA|4|3",3,"Post-industrial cities",0.743,0.6988
+"CHELSEA|4|4",3,"Post-industrial cities",0.52,0.749
+"CHESHIRE||1",5,"Professional suburbs",0.83,0.6056
+"CHESTER||1",6,"New Englandtown",0.945,0.4217
+"CHESTERFIELD||1",5,"Professional suburbs",0.818,0.6096
+"CHICOPEE|1|A",6,"New Englandtown",0.926,0.5314
+"CHICOPEE|1|B",6,"New Englandtown",0.945,0.554
+"CHICOPEE|2|A",3,"Post-industrial cities",0.833,0.6645
+"CHICOPEE|2|B",6,"New Englandtown",0.945,0.5368
+"CHICOPEE|3|A",6,"New Englandtown",0.937,0.5542
+"CHICOPEE|3|A1",3,"Post-industrial cities",0.29,0.6436
+"CHICOPEE|3|B",3,"Post-industrial cities",0.769,0.6077
+"CHICOPEE|4|A",6,"New Englandtown",0.79,0.5705
+"CHICOPEE|4|B",3,"Post-industrial cities",0.489,0.6022
+"CHICOPEE|5|A",6,"New Englandtown",0.642,0.5801
+"CHICOPEE|5|B",6,"New Englandtown",0.864,0.5768
+"CHICOPEE|6|A",6,"New Englandtown",0.916,0.5529
+"CHICOPEE|6|AN",6,"New Englandtown",0.832,0.5817
+"CHICOPEE|6|AS",6,"New Englandtown",0.844,0.5265
+"CHICOPEE|6|B",6,"New Englandtown",0.885,0.4583
+"CHICOPEE|6|BE",6,"New Englandtown",0.914,0.4358
+"CHICOPEE|6|BW",6,"New Englandtown",0.809,0.4746
+"CHICOPEE|7|A",3,"Post-industrial cities",0.723,0.6205
+"CHICOPEE|7|B",3,"Post-industrial cities",0.682,0.6265
+"CHICOPEE|8|A",6,"New Englandtown",0.942,0.5453
+"CHICOPEE|8|B",6,"New Englandtown",0.893,0.5372
+"CHICOPEE|9|A",6,"New Englandtown",0.632,0.5649
+"CHICOPEE|9|B",6,"New Englandtown",0.941,0.5339
+"CHILMARK||1",4,"Affluent inner ring",0.862,0.8278
+"CLARKSBURG||1",5,"Professional suburbs",0.847,0.6303
+"CLINTON||1",6,"New Englandtown",0.907,0.5655
+"CLINTON||2",3,"Post-industrial cities",0.808,0.569
+"CLINTON||3",6,"New Englandtown",0.577,0.5481
+"CLINTON||4",6,"New Englandtown",0.67,0.5664
+"COHASSET||1",5,"Professional suburbs",0.85,0.5345
+"COHASSET||2",5,"Professional suburbs",0.817,0.5449
+"COHASSET||3",5,"Professional suburbs",0.85,0.5445
+"COLRAIN||1",5,"Professional suburbs",0.703,0.6615
+"CONCORD||1",4,"Affluent inner ring",0.69,0.748
+"CONCORD||2",4,"Affluent inner ring",0.853,0.7604
+"CONCORD||3",5,"Professional suburbs",0.492,0.7343
+"CONCORD||4",4,"Affluent inner ring",0.742,0.743
+"CONCORD||5",4,"Affluent inner ring",0.7,0.74
+"CONWAY||1",4,"Affluent inner ring",0.871,0.7535
+"CUMMINGTON||1",4,"Affluent inner ring",0.871,0.7127
+"DALTON||1",5,"Professional suburbs",0.847,0.6815
+"DALTON||2",5,"Professional suburbs",0.826,0.6954
+"DANVERS||1",6,"New Englandtown",0.942,0.5737
+"DANVERS||2",6,"New Englandtown",0.945,0.5444
+"DANVERS||3",6,"New Englandtown",0.942,0.5194
+"DANVERS||4",6,"New Englandtown",0.941,0.5319
+"DANVERS||5",6,"New Englandtown",0.945,0.5097
+"DANVERS||6",6,"New Englandtown",0.945,0.4812
+"DANVERS||7",6,"New Englandtown",0.945,0.5237
+"DANVERS||8",6,"New Englandtown",0.945,0.4999
+"DARTMOUTH||1",6,"New Englandtown",0.945,0.4571
+"DARTMOUTH||2",6,"New Englandtown",0.939,0.5375
+"DARTMOUTH||3",5,"Professional suburbs",0.8,0.6323
+"DARTMOUTH||4",5,"Professional suburbs",0.848,0.567
+"DARTMOUTH||5",6,"New Englandtown",0.945,0.5526
+"DARTMOUTH||6",6,"New Englandtown",0.945,0.565
+"DARTMOUTH||7",6,"New Englandtown",0.945,0.5268
+"DARTMOUTH||8",5,"Professional suburbs",0.563,0.604
+"DARTMOUTH||9",5,"Professional suburbs",0.552,0.5727
+"DEDHAM||1",5,"Professional suburbs",0.85,0.67
+"DEDHAM||2",3,"Post-industrial cities",0.385,0.6084
+"DEDHAM||3",3,"Post-industrial cities",0.801,0.6316
+"DEDHAM||4",5,"Professional suburbs",0.394,0.6161
+"DEDHAM||5",6,"New Englandtown",0.822,0.5762
+"DEDHAM||6",3,"Post-industrial cities",0.435,0.6118
+"DEDHAM||7",6,"New Englandtown",0.94,0.5419
+"DEERFIELD||1",5,"Professional suburbs",0.491,0.7068
+"DENNIS||1",6,"New Englandtown",0.858,0.5195
+"DENNIS||2",6,"New Englandtown",0.906,0.5443
+"DENNIS||3",6,"New Englandtown",0.82,0.5563
+"DENNIS||4",6,"New Englandtown",0.941,0.545
+"DENNIS||5",6,"New Englandtown",0.922,0.5535
+"DIGHTON||1",6,"New Englandtown",0.945,0.4331
+"DIGHTON||2",6,"New Englandtown",0.945,0.4309
+"DIGHTON||3",6,"New Englandtown",0.945,0.4357
+"DOUGLAS||1",6,"New Englandtown",0.945,0.3755
+"DOUGLAS||2",6,"New Englandtown",0.945,0.3959
+"DOUGLAS||3",6,"New Englandtown",0.945,0.4027
+"DOVER||1",5,"Professional suburbs",0.85,0.5351
+"DRACUT||1",6,"New Englandtown",0.945,0.485
+"DRACUT||2",6,"New Englandtown",0.945,0.4657
+"DRACUT||3",6,"New Englandtown",0.945,0.4442
+"DRACUT||4",6,"New Englandtown",0.945,0.4119
+"DRACUT||5",6,"New Englandtown",0.495,0.4284
+"DRACUT||6",6,"New Englandtown",0.945,0.4802
+"DRACUT||6A",6,"New Englandtown",0.774,0.541
+"DRACUT||7",6,"New Englandtown",0.937,0.4857
+"DRACUT||8",6,"New Englandtown",0.945,0.4078
+"DRACUT||9",6,"New Englandtown",0.945,0.4528
+"DUDLEY||1",6,"New Englandtown",0.945,0.4409
+"DUDLEY||2",6,"New Englandtown",0.945,0.4338
+"DUDLEY||3",6,"New Englandtown",0.945,0.4293
+"DUDLEY||4",6,"New Englandtown",0.945,0.4335
+"DUNSTABLE||1",6,"New Englandtown",0.942,0.4915
+"DUXBURY||1",5,"Professional suburbs",0.726,0.5097
+"DUXBURY||2",5,"Professional suburbs",0.85,0.4848
+"DUXBURY||3",5,"Professional suburbs",0.575,0.5182
+"DUXBURY||4",6,"New Englandtown",0.676,0.5091
+"DUXBURY||5",6,"New Englandtown",0.938,0.4998
+"DUXBURY||6",6,"New Englandtown",0.858,0.5053
+"EASTBRIDGEWATER||1",6,"New Englandtown",0.945,0.4336
+"EASTBRIDGEWATER||2",6,"New Englandtown",0.945,0.4272
+"EASTBRIDGEWATER||3",6,"New Englandtown",0.945,0.4365
+"EASTBRIDGEWATER||4",6,"New Englandtown",0.945,0.4391
+"EASTBROOKFIELD||1",6,"New Englandtown",0.945,0.3981
+"EASTHAM||1",5,"Professional suburbs",0.85,0.6361
+"EASTHAMPTON||1",4,"Affluent inner ring",0.537,0.7201
+"EASTHAMPTON||2",4,"Affluent inner ring",0.871,0.7622
+"EASTHAMPTON||3",4,"Affluent inner ring",0.868,0.7492
+"EASTHAMPTON||4",4,"Affluent inner ring",0.863,0.7581
+"EASTHAMPTON||5",6,"New Englandtown",0.607,0.5964
+"EASTLONGMEADOW||1",6,"New Englandtown",0.945,0.4904
+"EASTLONGMEADOW||2",6,"New Englandtown",0.927,0.5014
+"EASTLONGMEADOW||2A",6,"New Englandtown",0.767,0.6851
+"EASTLONGMEADOW||3",6,"New Englandtown",0.945,0.4858
+"EASTLONGMEADOW||3A",6,"New Englandtown",0.808,0.4665
+"EASTLONGMEADOW||4",6,"New Englandtown",0.945,0.4356
+"EASTLONGMEADOW||4A",6,"New Englandtown",0.932,0.4479
+"EASTLONGMEADOW||5",6,"New Englandtown",0.945,0.4607
+"EASTON||1",6,"New Englandtown",0.942,0.5012
+"EASTON||2",6,"New Englandtown",0.934,0.5307
+"EASTON||3",6,"New Englandtown",0.945,0.5193
+"EASTON||4",6,"New Englandtown",0.931,0.5191
+"EASTON||4A",6,"New Englandtown",0.871,0.5367
+"EASTON||4B",6,"New Englandtown",0.92,0.5396
+"EASTON||5",6,"New Englandtown",0.942,0.5499
+"EASTON||6",6,"New Englandtown",0.945,0.4903
+"EASTON||7",6,"New Englandtown",0.945,0.5227
+"EDGARTOWN||1",5,"Professional suburbs",0.85,0.6633
+"EGREMONT||1",4,"Affluent inner ring",0.871,0.8011
+"ERVING||1",5,"Professional suburbs",0.611,0.6109
+"ESSEX||1",5,"Professional suburbs",0.85,0.5745
+"EVERETT|1|1",3,"Post-industrial cities",0.824,0.7058
+"EVERETT|1|2",3,"Post-industrial cities",0.829,0.7024
+"EVERETT|1|3",3,"Post-industrial cities",0.741,0.7044
+"EVERETT|1|3A",3,"Post-industrial cities",0.343,0.6513
+"EVERETT|2|1",3,"Post-industrial cities",0.826,0.6986
+"EVERETT|2|2",3,"Post-industrial cities",0.822,0.7109
+"EVERETT|2|2A",3,"Post-industrial cities",0.599,0.679
+"EVERETT|2|3",3,"Post-industrial cities",0.845,0.713
+"EVERETT|3|1",3,"Post-industrial cities",0.841,0.6967
+"EVERETT|3|2",3,"Post-industrial cities",0.822,0.6997
+"EVERETT|3|3",3,"Post-industrial cities",0.824,0.6994
+"EVERETT|4|1",3,"Post-industrial cities",0.804,0.6801
+"EVERETT|4|2",3,"Post-industrial cities",0.841,0.7016
+"EVERETT|4|3",3,"Post-industrial cities",0.823,0.713
+"EVERETT|5|1",3,"Post-industrial cities",0.832,0.6949
+"EVERETT|5|2",3,"Post-industrial cities",0.814,0.7101
+"EVERETT|5|3",3,"Post-industrial cities",0.802,0.7257
+"EVERETT|6|1",3,"Post-industrial cities",0.821,0.7024
+"EVERETT|6|2",3,"Post-industrial cities",0.815,0.7063
+"EVERETT|6|3",3,"Post-industrial cities",0.727,0.7262
+"FAIRHAVEN||1",5,"Professional suburbs",0.785,0.5823
+"FAIRHAVEN||2",6,"New Englandtown",0.921,0.5714
+"FAIRHAVEN||3",6,"New Englandtown",0.945,0.5444
+"FAIRHAVEN||4",6,"New Englandtown",0.922,0.5495
+"FAIRHAVEN||5",6,"New Englandtown",0.945,0.5202
+"FAIRHAVEN||6",6,"New Englandtown",0.945,0.5206
+"FALLRIVER|1|A",6,"New Englandtown",0.916,0.5681
+"FALLRIVER|1|B",3,"Post-industrial cities",0.801,0.6017
+"FALLRIVER|1|C",6,"New Englandtown",0.598,0.5736
+"FALLRIVER|2|A",3,"Post-industrial cities",0.839,0.6593
+"FALLRIVER|2|B",3,"Post-industrial cities",0.831,0.6735
+"FALLRIVER|2|C",3,"Post-industrial cities",0.823,0.6029
+"FALLRIVER|3|A",3,"Post-industrial cities",0.823,0.6092
+"FALLRIVER|3|B",3,"Post-industrial cities",0.797,0.6233
+"FALLRIVER|3|C",3,"Post-industrial cities",0.794,0.5949
+"FALLRIVER|4|A",3,"Post-industrial cities",0.833,0.6591
+"FALLRIVER|4|B",3,"Post-industrial cities",0.815,0.6986
+"FALLRIVER|4|C",3,"Post-industrial cities",0.603,0.7438
+"FALLRIVER|5|A",3,"Post-industrial cities",0.781,0.6849
+"FALLRIVER|5|B",3,"Post-industrial cities",0.674,0.7099
+"FALLRIVER|5|C",3,"Post-industrial cities",0.809,0.6885
+"FALLRIVER|6|A",6,"New Englandtown",0.895,0.5748
+"FALLRIVER|6|B",3,"Post-industrial cities",0.831,0.6701
+"FALLRIVER|6|C",3,"Post-industrial cities",0.805,0.6112
+"FALLRIVER|7|A",3,"Post-industrial cities",0.806,0.6102
+"FALLRIVER|7|B",3,"Post-industrial cities",0.768,0.6486
+"FALLRIVER|7|C",3,"Post-industrial cities",0.834,0.6788
+"FALLRIVER|8|A",3,"Post-industrial cities",0.845,0.6324
+"FALLRIVER|8|B",3,"Post-industrial cities",0.541,0.6043
+"FALLRIVER|8|C",6,"New Englandtown",0.918,0.5932
+"FALLRIVER|9|A",6,"New Englandtown",0.93,0.5687
+"FALLRIVER|9|B",6,"New Englandtown",0.696,0.5965
+"FALLRIVER|9|C",3,"Post-industrial cities",0.765,0.6094
+"FALMOUTH||1",4,"Affluent inner ring",0.73,0.7423
+"FALMOUTH||2",5,"Professional suburbs",0.85,0.6449
+"FALMOUTH||3",6,"New Englandtown",0.913,0.5627
+"FALMOUTH||4",6,"New Englandtown",0.877,0.5504
+"FALMOUTH||5",5,"Professional suburbs",0.843,0.5694
+"FALMOUTH||6",5,"Professional suburbs",0.85,0.5945
+"FALMOUTH||7",6,"New Englandtown",0.903,0.5292
+"FALMOUTH||8",6,"New Englandtown",0.794,0.5281
+"FALMOUTH||9",6,"New Englandtown",0.858,0.5547
+"FITCHBURG|1|A",3,"Post-industrial cities",0.784,0.5965
+"FITCHBURG|1|B",3,"Post-industrial cities",0.734,0.5864
+"FITCHBURG|2|A",3,"Post-industrial cities",0.841,0.6058
+"FITCHBURG|2|B",6,"New Englandtown",0.598,0.5366
+"FITCHBURG|3|A",6,"New Englandtown",0.945,0.5116
+"FITCHBURG|3|B",6,"New Englandtown",0.749,0.5452
+"FITCHBURG|4|A",3,"Post-industrial cities",0.758,0.5976
+"FITCHBURG|4|B",3,"Post-industrial cities",0.831,0.6616
+"FITCHBURG|5|A",6,"New Englandtown",0.944,0.4942
+"FITCHBURG|5|B",3,"Post-industrial cities",0.832,0.6703
+"FITCHBURG|6|A",6,"New Englandtown",0.906,0.5463
+"FITCHBURG|6|B",3,"Post-industrial cities",0.835,0.635
+"FLORIDA||1",5,"Professional suburbs",0.773,0.5373
+"FOXBOROUGH||1",6,"New Englandtown",0.945,0.5368
+"FOXBOROUGH||2",6,"New Englandtown",0.945,0.52
+"FOXBOROUGH||3",6,"New Englandtown",0.945,0.5048
+"FOXBOROUGH||4",6,"New Englandtown",0.945,0.5139
+"FOXBOROUGH||5",6,"New Englandtown",0.945,0.4974
+"FRAMINGHAM||1",1,"Immigrant urban cores",0.592,0.7404
+"FRAMINGHAM||10",5,"Professional suburbs",0.785,0.6781
+"FRAMINGHAM||11",5,"Professional suburbs",0.466,0.7089
+"FRAMINGHAM||12",4,"Affluent inner ring",0.396,0.7334
+"FRAMINGHAM||13",1,"Immigrant urban cores",0.907,0.7634
+"FRAMINGHAM||14",1,"Immigrant urban cores",0.857,0.7518
+"FRAMINGHAM||15",5,"Professional suburbs",0.453,0.714
+"FRAMINGHAM||16",3,"Post-industrial cities",0.48,0.6841
+"FRAMINGHAM||17",5,"Professional suburbs",0.576,0.7246
+"FRAMINGHAM||18",5,"Professional suburbs",0.608,0.6643
+"FRAMINGHAM||19",5,"Professional suburbs",0.818,0.6712
+"FRAMINGHAM||2",1,"Immigrant urban cores",0.91,0.8317
+"FRAMINGHAM||20",5,"Professional suburbs",0.8,0.6937
+"FRAMINGHAM||21",5,"Professional suburbs",0.833,0.6655
+"FRAMINGHAM||21A",5,"Professional suburbs",0.693,0.6995
+"FRAMINGHAM||21B",5,"Professional suburbs",0.73,0.7199
+"FRAMINGHAM||21C",5,"Professional suburbs",0.343,0.6538
+"FRAMINGHAM||22",5,"Professional suburbs",0.85,0.6648
+"FRAMINGHAM||23",5,"Professional suburbs",0.786,0.6623
+"FRAMINGHAM||24",5,"Professional suburbs",0.786,0.6751
+"FRAMINGHAM||25",5,"Professional suburbs",0.762,0.6685
+"FRAMINGHAM||26",5,"Professional suburbs",0.586,0.6821
+"FRAMINGHAM||27",5,"Professional suburbs",0.744,0.698
+"FRAMINGHAM||3",1,"Immigrant urban cores",0.905,0.7745
+"FRAMINGHAM||4",3,"Post-industrial cities",0.797,0.7042
+"FRAMINGHAM||5",3,"Post-industrial cities",0.805,0.7224
+"FRAMINGHAM||6",5,"Professional suburbs",0.626,0.6962
+"FRAMINGHAM||7",5,"Professional suburbs",0.843,0.68
+"FRAMINGHAM||8",5,"Professional suburbs",0.776,0.6987
+"FRAMINGHAM||9",5,"Professional suburbs",0.62,0.6893
+"FRAMINGHAM||9A",5,"Professional suburbs",0.403,0.6967
+"FRAMINGHAM||9B",4,"Affluent inner ring",0.305,0.6991
+"FRANKLIN||1",6,"New Englandtown",0.94,0.5373
+"FRANKLIN||2",6,"New Englandtown",0.93,0.528
+"FRANKLIN||3",6,"New Englandtown",0.945,0.542
+"FRANKLIN||4",6,"New Englandtown",0.945,0.4965
+"FRANKLIN||5",6,"New Englandtown",0.928,0.5374
+"FRANKLIN||6",6,"New Englandtown",0.909,0.5616
+"FRANKLIN||7",6,"New Englandtown",0.94,0.5329
+"FRANKLIN||8",6,"New Englandtown",0.945,0.4873
+"FRANKLIN||9",6,"New Englandtown",0.925,0.5526
+"FREETOWN||1",6,"New Englandtown",0.945,0.4392
+"FREETOWN||2",6,"New Englandtown",0.945,0.4662
+"FREETOWN||3",6,"New Englandtown",0.945,0.4349
+"GARDNER|1|A",6,"New Englandtown",0.891,0.5568
+"GARDNER|1|B",6,"New Englandtown",0.945,0.468
+"GARDNER|2|A",6,"New Englandtown",0.888,0.545
+"GARDNER|2|B",6,"New Englandtown",0.945,0.4844
+"GARDNER|3|A",6,"New Englandtown",0.92,0.5629
+"GARDNER|3|B",6,"New Englandtown",0.866,0.568
+"GARDNER|4|A",6,"New Englandtown",0.772,0.5889
+"GARDNER|4|B",3,"Post-industrial cities",0.635,0.5735
+"GARDNER|5|A",6,"New Englandtown",0.943,0.5414
+"GARDNER|5|B",6,"New Englandtown",0.945,0.5064
+"GEORGETOWN||1",5,"Professional suburbs",0.841,0.4723
+"GEORGETOWN||2",6,"New Englandtown",0.942,0.4748
+"GEORGETOWN||3",6,"New Englandtown",0.945,0.4967
+"GILL||1",5,"Professional suburbs",0.746,0.7034
+"GLOUCESTER|1|1",5,"Professional suburbs",0.85,0.6503
+"GLOUCESTER|1|2",5,"Professional suburbs",0.642,0.6266
+"GLOUCESTER|2|1",3,"Post-industrial cities",0.466,0.6446
+"GLOUCESTER|2|2",5,"Professional suburbs",0.511,0.6859
+"GLOUCESTER|3|1",3,"Post-industrial cities",0.414,0.6364
+"GLOUCESTER|3|2",5,"Professional suburbs",0.85,0.6107
+"GLOUCESTER|4|1",6,"New Englandtown",0.899,0.5914
+"GLOUCESTER|4|2",5,"Professional suburbs",0.784,0.6882
+"GLOUCESTER|5|1",5,"Professional suburbs",0.559,0.5912
+"GLOUCESTER|5|2",5,"Professional suburbs",0.594,0.5776
+"GOSHEN||1",5,"Professional suburbs",0.843,0.6289
+"GOSNOLD||1",5,"Professional suburbs",0.633,0.6199
+"GRAFTON||1",6,"New Englandtown",0.687,0.5288
+"GRAFTON||2",6,"New Englandtown",0.488,0.5412
+"GRAFTON||3",6,"New Englandtown",0.832,0.542
+"GRAFTON||4",6,"New Englandtown",0.833,0.5347
+"GRAFTON||5",6,"New Englandtown",0.897,0.5526
+"GRANBY||1",6,"New Englandtown",0.866,0.5349
+"GRANBY||2",6,"New Englandtown",0.945,0.462
+"GRANBY||2A",6,"New Englandtown",0.576,0.4889
+"GRANVILLE||1",5,"Professional suburbs",0.85,0.3776
+"GREATBARRINGTON||A",4,"Affluent inner ring",0.866,0.8198
+"GREATBARRINGTON||B",4,"Affluent inner ring",0.867,0.803
+"GREATBARRINGTON||C",4,"Affluent inner ring",0.866,0.8592
+"GREATBARRINGTON||D",4,"Affluent inner ring",0.871,0.8144
+"GREENFIELD||1",5,"Professional suburbs",0.834,0.662
+"GREENFIELD||2",5,"Professional suburbs",0.818,0.6857
+"GREENFIELD||3",4,"Affluent inner ring",0.653,0.7268
+"GREENFIELD||4",4,"Affluent inner ring",0.871,0.7456
+"GREENFIELD||5",4,"Affluent inner ring",0.87,0.7984
+"GREENFIELD||6",4,"Affluent inner ring",0.828,0.8155
+"GREENFIELD||7",4,"Affluent inner ring",0.557,0.6971
+"GREENFIELD||8",4,"Affluent inner ring",0.871,0.7867
+"GREENFIELD||9",5,"Professional suburbs",0.801,0.6788
+"GROTON||1",5,"Professional suburbs",0.848,0.6096
+"GROTON||2",5,"Professional suburbs",0.811,0.5697
+"GROTON||3",5,"Professional suburbs",0.85,0.6052
+"GROTON||3A",6,"New Englandtown",0.592,NA
+"GROVELAND||1",6,"New Englandtown",0.945,0.4743
+"GROVELAND||2",6,"New Englandtown",0.945,0.4657
+"HADLEY||1",5,"Professional suburbs",0.59,0.6955
+"HALIFAX||1",6,"New Englandtown",0.945,0.4228
+"HALIFAX||2",6,"New Englandtown",0.945,0.4492
+"HALIFAX||2A",6,"New Englandtown",0.883,0.2818
+"HAMILTON||1",5,"Professional suburbs",0.838,0.5665
+"HAMILTON||2",5,"Professional suburbs",0.849,0.5608
+"HAMPDEN||1",6,"New Englandtown",0.945,0.4264
+"HANCOCK||1",5,"Professional suburbs",0.85,0.5665
+"HANOVER||1",6,"New Englandtown",0.945,0.4204
+"HANOVER||2",6,"New Englandtown",0.945,0.4373
+"HANOVER||3",6,"New Englandtown",0.945,0.4544
+"HANOVER||4",6,"New Englandtown",0.945,0.41
+"HANSON||1",6,"New Englandtown",0.945,0.4216
+"HANSON||2",6,"New Englandtown",0.945,0.4402
+"HANSON||3",6,"New Englandtown",0.945,0.4263
+"HARDWICK||1",6,"New Englandtown",0.937,0.4984
+"HARVARD||1",5,"Professional suburbs",0.747,0.6786
+"HARWICH||1",5,"Professional suburbs",0.6,0.5683
+"HARWICH||2",6,"New Englandtown",0.638,0.5587
+"HARWICH||3",6,"New Englandtown",0.868,0.5521
+"HARWICH||4",6,"New Englandtown",0.683,0.5675
+"HATFIELD||1",5,"Professional suburbs",0.84,0.6607
+"HAVERHILL|1|1",3,"Post-industrial cities",0.777,0.6577
+"HAVERHILL|1|2",3,"Post-industrial cities",0.656,0.6743
+"HAVERHILL|1|2A",5,"Professional suburbs",0.574,0.5166
+"HAVERHILL|1|3",3,"Post-industrial cities",0.808,0.6034
+"HAVERHILL|1|3A",6,"New Englandtown",0.485,0.5471
+"HAVERHILL|2|1",6,"New Englandtown",0.794,0.5638
+"HAVERHILL|2|2",6,"New Englandtown",0.559,0.5673
+"HAVERHILL|2|3",3,"Post-industrial cities",0.841,0.6518
+"HAVERHILL|3|1",3,"Post-industrial cities",0.805,0.7237
+"HAVERHILL|3|2",3,"Post-industrial cities",0.809,0.6649
+"HAVERHILL|3|3",3,"Post-industrial cities",0.839,0.6134
+"HAVERHILL|4|1",6,"New Englandtown",0.782,0.5268
+"HAVERHILL|4|2",6,"New Englandtown",0.945,0.4898
+"HAVERHILL|4|3",6,"New Englandtown",0.945,0.5134
+"HAVERHILL|5|1",6,"New Englandtown",0.922,0.5692
+"HAVERHILL|5|1A",6,"New Englandtown",0.618,0.5495
+"HAVERHILL|5|2",6,"New Englandtown",0.892,0.4916
+"HAVERHILL|5|3",6,"New Englandtown",0.945,0.457
+"HAVERHILL|5|3A",6,"New Englandtown",0.882,0.4944
+"HAVERHILL|6|1",6,"New Englandtown",0.932,0.543
+"HAVERHILL|6|2",6,"New Englandtown",0.905,0.5622
+"HAVERHILL|6|2A",3,"Post-industrial cities",0.512,0.615
+"HAVERHILL|6|3",6,"New Englandtown",0.942,0.5384
+"HAVERHILL|7|1",6,"New Englandtown",0.799,0.5492
+"HAVERHILL|7|2",6,"New Englandtown",0.941,0.5202
+"HAVERHILL|7|2A",3,"Post-industrial cities",0.394,0.5676
+"HAVERHILL|7|3",6,"New Englandtown",0.945,0.4862
+"HAVERHILL|7|3A",6,"New Englandtown",0.335,0.5962
+"HAWLEY||1",5,"Professional suburbs",0.706,0.6308
+"HEATH||1",5,"Professional suburbs",0.654,0.6332
+"HINGHAM||1",5,"Professional suburbs",0.837,0.5778
+"HINGHAM||2",5,"Professional suburbs",0.836,0.5702
+"HINGHAM||3",5,"Professional suburbs",0.85,0.5563
+"HINGHAM||4",5,"Professional suburbs",0.845,0.5633
+"HINGHAM||5",5,"Professional suburbs",0.652,0.5062
+"HINGHAM||6",5,"Professional suburbs",0.827,0.5375
+"HINGHAM||7",5,"Professional suburbs",0.781,0.5427
+"HINGHAM||7A",5,"Professional suburbs",0.807,0.7741
+"HINSDALE||1",5,"Professional suburbs",0.85,0.6396
+"HOLBROOK||1",6,"New Englandtown",0.89,0.59
+"HOLBROOK||2",6,"New Englandtown",0.945,0.5097
+"HOLBROOK||3",6,"New Englandtown",0.945,0.5357
+"HOLBROOK||4",6,"New Englandtown",0.546,0.5686
+"HOLDEN||1",6,"New Englandtown",0.945,0.4849
+"HOLDEN||2",6,"New Englandtown",0.936,0.5099
+"HOLDEN||3",6,"New Englandtown",0.917,0.5233
+"HOLDEN||4",6,"New Englandtown",0.945,0.5029
+"HOLDEN||5",6,"New Englandtown",0.941,0.5044
+"HOLDEN||6",6,"New Englandtown",0.945,0.5108
+"HOLLAND||1",6,"New Englandtown",0.945,0.4238
+"HOLLISTON||1",5,"Professional suburbs",0.829,0.5871
+"HOLLISTON||2",5,"Professional suburbs",0.85,0.6336
+"HOLLISTON||3",5,"Professional suburbs",0.85,0.6376
+"HOLLISTON||4",5,"Professional suburbs",0.833,0.6035
+"HOLYOKE|1|A",1,"Immigrant urban cores",0.91,0.8188
+"HOLYOKE|1|B",1,"Immigrant urban cores",0.906,0.8151
+"HOLYOKE|2|A",3,"Post-industrial cities",0.507,0.7687
+"HOLYOKE|2|B",1,"Immigrant urban cores",0.907,0.7912
+"HOLYOKE|3|A",1,"Immigrant urban cores",0.726,0.7372
+"HOLYOKE|3|B",3,"Post-industrial cities",0.695,0.6333
+"HOLYOKE|4|A",1,"Immigrant urban cores",0.91,0.791
+"HOLYOKE|4|B",1,"Immigrant urban cores",0.907,0.7814
+"HOLYOKE|5|A",6,"New Englandtown",0.933,0.5421
+"HOLYOKE|5|B",3,"Post-industrial cities",0.663,0.655
+"HOLYOKE|6|A",1,"Immigrant urban cores",0.537,0.7347
+"HOLYOKE|6|B",3,"Post-industrial cities",0.477,0.7147
+"HOLYOKE|7|A",5,"Professional suburbs",0.827,0.63
+"HOLYOKE|7|B",4,"Affluent inner ring",0.526,0.7256
+"HOPEDALE||1",6,"New Englandtown",0.945,0.5321
+"HOPKINTON||1",5,"Professional suburbs",0.85,0.5804
+"HOPKINTON||2",5,"Professional suburbs",0.754,0.5526
+"HOPKINTON||3",5,"Professional suburbs",0.793,0.5461
+"HOPKINTON||4",5,"Professional suburbs",0.85,0.5617
+"HOPKINTON||5",5,"Professional suburbs",0.825,0.5704
+"HUBBARDSTON||1",6,"New Englandtown",0.945,0.4325
+"HUDSON||1",6,"New Englandtown",0.578,0.5921
+"HUDSON||2",6,"New Englandtown",0.581,0.5848
+"HUDSON||3",6,"New Englandtown",0.904,0.5524
+"HUDSON||4",6,"New Englandtown",0.804,0.5652
+"HUDSON||5",6,"New Englandtown",0.608,0.5954
+"HUDSON||6",3,"Post-industrial cities",0.46,0.6053
+"HULL||1",5,"Professional suburbs",0.837,0.6282
+"HULL||2",6,"New Englandtown",0.804,0.5694
+"HULL||3",5,"Professional suburbs",0.543,0.5824
+"HUNTINGTON||1",6,"New Englandtown",0.837,0.4682
+"IPSWICH||1",5,"Professional suburbs",0.849,0.6563
+"IPSWICH||2",5,"Professional suburbs",0.85,0.6069
+"IPSWICH||3",6,"New Englandtown",0.939,0.5076
+"IPSWICH||4",6,"New Englandtown",0.643,0.5715
+"KINGSTON||1",6,"New Englandtown",0.945,0.4871
+"KINGSTON||2",6,"New Englandtown",0.945,0.446
+"KINGSTON||3",6,"New Englandtown",0.945,0.4377
+"KINGSTON||4",6,"New Englandtown",0.945,0.4885
+"LAKEVILLE||1",6,"New Englandtown",0.945,0.4128
+"LAKEVILLE||2",6,"New Englandtown",0.945,0.3963
+"LAKEVILLE||3",6,"New Englandtown",0.945,0.4144
+"LANCASTER||1",6,"New Englandtown",0.892,0.4866
+"LANCASTER||2",6,"New Englandtown",0.942,0.5044
+"LANESBOROUGH||1",5,"Professional suburbs",0.8,0.6629
+"LAWRENCE|A|1",1,"Immigrant urban cores",0.875,0.7548
+"LAWRENCE|A|2",1,"Immigrant urban cores",0.91,0.812
+"LAWRENCE|A|2A",1,"Immigrant urban cores",0.549,0.6598
+"LAWRENCE|A|3",3,"Post-industrial cities",0.558,0.7038
+"LAWRENCE|A|4",1,"Immigrant urban cores",0.9,0.779
+"LAWRENCE|B|1",1,"Immigrant urban cores",0.91,0.8289
+"LAWRENCE|B|2",1,"Immigrant urban cores",0.91,0.8409
+"LAWRENCE|B|3",1,"Immigrant urban cores",0.91,0.8152
+"LAWRENCE|B|4",1,"Immigrant urban cores",0.91,0.8633
+"LAWRENCE|C|1",1,"Immigrant urban cores",0.91,0.8225
+"LAWRENCE|C|2",1,"Immigrant urban cores",0.91,0.7343
+"LAWRENCE|C|3",1,"Immigrant urban cores",0.91,0.8651
+"LAWRENCE|C|4",1,"Immigrant urban cores",0.91,0.8395
+"LAWRENCE|D|1",1,"Immigrant urban cores",0.869,0.7605
+"LAWRENCE|D|2",1,"Immigrant urban cores",0.91,0.8474
+"LAWRENCE|D|3",1,"Immigrant urban cores",0.91,0.84
+"LAWRENCE|D|4",1,"Immigrant urban cores",0.91,0.8471
+"LAWRENCE|E|1",3,"Post-industrial cities",0.839,0.6189
+"LAWRENCE|E|1A",5,"Professional suburbs",0.299,0.5208
+"LAWRENCE|E|2",3,"Post-industrial cities",0.838,0.6249
+"LAWRENCE|E|3",3,"Post-industrial cities",0.748,0.7213
+"LAWRENCE|E|4",1,"Immigrant urban cores",0.91,0.7559
+"LAWRENCE|F|1",3,"Post-industrial cities",0.811,0.6487
+"LAWRENCE|F|2",1,"Immigrant urban cores",0.91,0.8206
+"LAWRENCE|F|3",1,"Immigrant urban cores",0.91,0.8064
+"LAWRENCE|F|4",1,"Immigrant urban cores",0.764,0.7634
+"LEE||1",5,"Professional suburbs",0.809,0.7084
+"LEICESTER||1",6,"New Englandtown",0.945,0.4381
+"LEICESTER||2",6,"New Englandtown",0.945,0.4822
+"LEICESTER||3",6,"New Englandtown",0.945,0.4382
+"LEICESTER||4",6,"New Englandtown",0.945,0.465
+"LENOX||1",4,"Affluent inner ring",0.853,0.7824
+"LEOMINSTER|1|A",6,"New Englandtown",0.945,0.4937
+"LEOMINSTER|1|B",6,"New Englandtown",0.945,0.5241
+"LEOMINSTER|1|C",6,"New Englandtown",0.594,0.5528
+"LEOMINSTER|2|A",3,"Post-industrial cities",0.839,0.6097
+"LEOMINSTER|2|B",6,"New Englandtown",0.921,0.5373
+"LEOMINSTER|2|C",3,"Post-industrial cities",0.544,0.5519
+"LEOMINSTER|3|A",6,"New Englandtown",0.925,0.5572
+"LEOMINSTER|3|B",6,"New Englandtown",0.945,0.515
+"LEOMINSTER|3|C",6,"New Englandtown",0.945,0.4942
+"LEOMINSTER|4|A",6,"New Englandtown",0.945,0.481
+"LEOMINSTER|4|B",6,"New Englandtown",0.937,0.4627
+"LEOMINSTER|4|C",6,"New Englandtown",0.565,0.5401
+"LEOMINSTER|5|A",6,"New Englandtown",0.489,0.5499
+"LEOMINSTER|5|B",6,"New Englandtown",0.921,0.5357
+"LEOMINSTER|5|C",3,"Post-industrial cities",0.495,0.5742
+"LEVERETT||1",2,"Collegevilles",0.919,0.8604
+"LEXINGTON||1",4,"Affluent inner ring",0.723,0.7612
+"LEXINGTON||2",4,"Affluent inner ring",0.856,0.8103
+"LEXINGTON||3",4,"Affluent inner ring",0.842,0.796
+"LEXINGTON||4",4,"Affluent inner ring",0.766,0.774
+"LEXINGTON||5",5,"Professional suburbs",0.719,0.7346
+"LEXINGTON||6",5,"Professional suburbs",0.611,0.7455
+"LEXINGTON||7",5,"Professional suburbs",0.598,0.7477
+"LEXINGTON||8",5,"Professional suburbs",0.512,0.76
+"LEXINGTON||9",5,"Professional suburbs",0.601,0.7503
+"LEYDEN||1",5,"Professional suburbs",0.577,0.6857
+"LINCOLN||1",4,"Affluent inner ring",0.871,0.795
+"LINCOLN||2",4,"Affluent inner ring",0.816,0.7368
+"LITTLETON||1",5,"Professional suburbs",0.828,0.5964
+"LITTLETON||2",5,"Professional suburbs",0.793,0.594
+"LITTLETON||3",5,"Professional suburbs",0.825,0.6113
+"LONGMEADOW||A",5,"Professional suburbs",0.848,0.5962
+"LONGMEADOW||B",5,"Professional suburbs",0.85,0.5892
+"LONGMEADOW||C",5,"Professional suburbs",0.85,0.5455
+"LONGMEADOW||D",5,"Professional suburbs",0.701,0.5268
+"LONGMEADOW||E",5,"Professional suburbs",0.85,0.5843
+"LOWELL|1|1",3,"Post-industrial cities",0.834,0.6123
+"LOWELL|1|2",5,"Professional suburbs",0.74,0.5739
+"LOWELL|1|3",3,"Post-industrial cities",0.672,0.5998
+"LOWELL|1|4",3,"Post-industrial cities",0.794,0.5856
+"LOWELL|2|1",3,"Post-industrial cities",0.774,0.6563
+"LOWELL|2|2",3,"Post-industrial cities",0.779,0.6248
+"LOWELL|2|3",3,"Post-industrial cities",0.843,0.6329
+"LOWELL|2|4",3,"Post-industrial cities",0.657,0.6228
+"LOWELL|3|1",3,"Post-industrial cities",0.81,0.7164
+"LOWELL|3|2",6,"New Englandtown",0.944,0.549
+"LOWELL|3|3",6,"New Englandtown",0.47,0.5944
+"LOWELL|3|4",3,"Post-industrial cities",0.81,0.625
+"LOWELL|4|1",1,"Immigrant urban cores",0.794,0.7794
+"LOWELL|4|2",4,"Affluent inner ring",0.709,0.7898
+"LOWELL|4|3",1,"Immigrant urban cores",0.838,0.8199
+"LOWELL|4|3A",2,"Collegevilles",0.691,0.8379
+"LOWELL|4|4",3,"Post-industrial cities",0.837,0.6361
+"LOWELL|4|4A",1,"Immigrant urban cores",0.294,1
+"LOWELL|5|1",3,"Post-industrial cities",0.811,0.6728
+"LOWELL|5|1A",4,"Affluent inner ring",0.426,0.7391
+"LOWELL|5|2",3,"Post-industrial cities",0.844,0.6668
+"LOWELL|5|3",1,"Immigrant urban cores",0.614,0.7275
+"LOWELL|5|4",3,"Post-industrial cities",0.84,0.5897
+"LOWELL|6|1",3,"Post-industrial cities",0.671,0.6899
+"LOWELL|6|2",1,"Immigrant urban cores",0.83,0.7126
+"LOWELL|6|3",1,"Immigrant urban cores",0.882,0.7366
+"LOWELL|6|3A",1,"Immigrant urban cores",0.403,0.5626
+"LOWELL|6|4",3,"Post-industrial cities",0.789,0.6961
+"LOWELL|6|4A",4,"Affluent inner ring",0.288,0.6666
+"LOWELL|7|1",1,"Immigrant urban cores",0.731,0.723
+"LOWELL|7|2",1,"Immigrant urban cores",0.902,0.8002
+"LOWELL|7|3",1,"Immigrant urban cores",0.91,0.7943
+"LOWELL|7|4",1,"Immigrant urban cores",0.827,0.7191
+"LOWELL|8|1",3,"Post-industrial cities",0.82,0.6615
+"LOWELL|8|2",3,"Post-industrial cities",0.693,0.6945
+"LOWELL|8|3",3,"Post-industrial cities",0.804,0.6242
+"LOWELL|8|4",3,"Post-industrial cities",0.824,0.621
+"LOWELL|8|4A",1,"Immigrant urban cores",0.376,0.7639
+"LUDLOW||1",6,"New Englandtown",0.945,0.5015
+"LUDLOW||2",6,"New Englandtown",0.924,0.5365
+"LUDLOW||3",6,"New Englandtown",0.945,0.4105
+"LUDLOW||4",6,"New Englandtown",0.945,0.5237
+"LUDLOW||5",6,"New Englandtown",0.945,0.4694
+"LUDLOW||6",6,"New Englandtown",0.945,0.4671
+"LUNENBURG||A",6,"New Englandtown",0.945,0.4854
+"LUNENBURG||B",6,"New Englandtown",0.867,0.5178
+"LUNENBURG||B1",6,"New Englandtown",0.744,0.519
+"LUNENBURG||C",6,"New Englandtown",0.945,0.467
+"LUNENBURG||C1",3,"Post-industrial cities",0.249,0.6538
+"LUNENBURG||D",6,"New Englandtown",0.945,0.4943
+"LYNN|1|1",6,"New Englandtown",0.944,0.533
+"LYNN|1|2",6,"New Englandtown",0.941,0.5634
+"LYNN|1|2A",6,"New Englandtown",0.721,0.5942
+"LYNN|1|3",6,"New Englandtown",0.459,0.6197
+"LYNN|1|4",3,"Post-industrial cities",0.832,0.647
+"LYNN|2|1",5,"Professional suburbs",0.849,0.6103
+"LYNN|2|2",3,"Post-industrial cities",0.845,0.7217
+"LYNN|2|3",1,"Immigrant urban cores",0.864,0.7965
+"LYNN|2|4",5,"Professional suburbs",0.582,0.7686
+"LYNN|3|1",3,"Post-industrial cities",0.828,0.6779
+"LYNN|3|2",3,"Post-industrial cities",0.547,0.7368
+"LYNN|3|3",3,"Post-industrial cities",0.818,0.7186
+"LYNN|3|4",5,"Professional suburbs",0.818,0.7503
+"LYNN|4|1",1,"Immigrant urban cores",0.91,0.8117
+"LYNN|4|2",1,"Immigrant urban cores",0.91,0.8219
+"LYNN|4|3",1,"Immigrant urban cores",0.899,0.7661
+"LYNN|4|3A",3,"Post-industrial cities",0.263,0.6951
+"LYNN|4|4",3,"Post-industrial cities",0.389,0.728
+"LYNN|5|1",3,"Post-industrial cities",0.839,0.6925
+"LYNN|5|2",1,"Immigrant urban cores",0.908,0.8013
+"LYNN|5|3",1,"Immigrant urban cores",0.91,0.8124
+"LYNN|5|4",1,"Immigrant urban cores",0.867,0.7521
+"LYNN|6|1",3,"Post-industrial cities",0.757,0.7412
+"LYNN|6|2",1,"Immigrant urban cores",0.885,0.7576
+"LYNN|6|3",1,"Immigrant urban cores",0.91,0.7674
+"LYNN|6|4",1,"Immigrant urban cores",0.718,0.7452
+"LYNN|7|1",3,"Post-industrial cities",0.806,0.6674
+"LYNN|7|2",3,"Post-industrial cities",0.839,0.6786
+"LYNN|7|3",3,"Post-industrial cities",0.843,0.6881
+"LYNN|7|4",3,"Post-industrial cities",0.845,0.6798
+"LYNNFIELD||1",6,"New Englandtown",0.942,0.4431
+"LYNNFIELD||2",6,"New Englandtown",0.945,0.4625
+"LYNNFIELD||3",6,"New Englandtown",0.945,0.4446
+"LYNNFIELD||4",6,"New Englandtown",0.94,0.3889
+"MALDEN|1|1",1,"Immigrant urban cores",0.745,0.7939
+"MALDEN|1|2",3,"Post-industrial cities",0.519,0.7384
+"MALDEN|1|3",1,"Immigrant urban cores",0.533,0.7463
+"MALDEN|2|1",1,"Immigrant urban cores",0.474,0.7469
+"MALDEN|2|2",3,"Post-industrial cities",0.81,0.6841
+"MALDEN|2|3",3,"Post-industrial cities",0.785,0.6967
+"MALDEN|3|1",5,"Professional suburbs",0.507,0.7272
+"MALDEN|3|1A",5,"Professional suburbs",0.367,0.6831
+"MALDEN|3|2",4,"Affluent inner ring",0.741,0.7503
+"MALDEN|3|3",5,"Professional suburbs",0.444,0.7242
+"MALDEN|4|1",1,"Immigrant urban cores",0.457,0.7686
+"MALDEN|4|2",4,"Affluent inner ring",0.619,0.7895
+"MALDEN|4|3",4,"Affluent inner ring",0.775,0.7932
+"MALDEN|5|1",1,"Immigrant urban cores",0.451,0.7527
+"MALDEN|5|2",3,"Post-industrial cities",0.626,0.6977
+"MALDEN|5|3",3,"Post-industrial cities",0.594,0.7392
+"MALDEN|5|3A",4,"Affluent inner ring",0.528,0.7386
+"MALDEN|6|1",3,"Post-industrial cities",0.755,0.7103
+"MALDEN|6|2",3,"Post-industrial cities",0.806,0.7126
+"MALDEN|6|3",3,"Post-industrial cities",0.745,0.7004
+"MALDEN|7|1",1,"Immigrant urban cores",0.744,0.8103
+"MALDEN|7|2",3,"Post-industrial cities",0.819,0.7444
+"MALDEN|7|3",3,"Post-industrial cities",0.758,0.7616
+"MALDEN|7|3A",1,"Immigrant urban cores",0.507,0.7331
+"MALDEN|8|1",3,"Post-industrial cities",0.821,0.69
+"MALDEN|8|2",3,"Post-industrial cities",0.768,0.7018
+"MALDEN|8|3",3,"Post-industrial cities",0.816,0.7059
+"MANCHESTER||1",5,"Professional suburbs",0.85,0.6147
+"MANSFIELD||1",6,"New Englandtown",0.945,0.4828
+"MANSFIELD||2",6,"New Englandtown",0.939,0.5371
+"MANSFIELD||2A",6,"New Englandtown",0.87,0.5733
+"MANSFIELD||3",6,"New Englandtown",0.945,0.5071
+"MANSFIELD||4",6,"New Englandtown",0.925,0.5164
+"MANSFIELD||5",6,"New Englandtown",0.531,0.5769
+"MANSFIELD||6",6,"New Englandtown",0.616,0.5757
+"MANSFIELD||6A",6,"New Englandtown",0.778,0.5576
+"MANSFIELD||7",6,"New Englandtown",0.925,0.5565
+"MARBLEHEAD||1",5,"Professional suburbs",0.85,0.637
+"MARBLEHEAD||2",5,"Professional suburbs",0.85,0.6446
+"MARBLEHEAD||3",5,"Professional suburbs",0.85,0.6306
+"MARBLEHEAD||4",5,"Professional suburbs",0.85,0.5896
+"MARBLEHEAD||5",5,"Professional suburbs",0.847,0.6178
+"MARBLEHEAD||6",5,"Professional suburbs",0.85,0.6112
+"MARION||1",5,"Professional suburbs",0.557,0.5634
+"MARLBOROUGH|1|1",5,"Professional suburbs",0.566,0.6272
+"MARLBOROUGH|1|1A",5,"Professional suburbs",0.307,0.7667
+"MARLBOROUGH|1|2",5,"Professional suburbs",0.506,0.5808
+"MARLBOROUGH|2|1",6,"New Englandtown",0.886,0.5737
+"MARLBOROUGH|2|2",3,"Post-industrial cities",0.54,0.6188
+"MARLBOROUGH|2|2A",6,"New Englandtown",0.601,0.3068
+"MARLBOROUGH|3|1",3,"Post-industrial cities",0.726,0.6252
+"MARLBOROUGH|3|2",5,"Professional suburbs",0.51,0.6019
+"MARLBOROUGH|4|1",3,"Post-industrial cities",0.75,0.5938
+"MARLBOROUGH|4|2",6,"New Englandtown",0.68,0.5731
+"MARLBOROUGH|5|1",3,"Post-industrial cities",0.826,0.6532
+"MARLBOROUGH|5|2",3,"Post-industrial cities",0.642,0.6016
+"MARLBOROUGH|6|1",3,"Post-industrial cities",0.798,0.6176
+"MARLBOROUGH|6|2",6,"New Englandtown",0.824,0.5657
+"MARLBOROUGH|7|1",6,"New Englandtown",0.426,0.6102
+"MARLBOROUGH|7|2",6,"New Englandtown",0.721,0.5668
+"MARLBOROUGH|7|2A",6,"New Englandtown",0.374,0.652
+"MARSHFIELD||1",6,"New Englandtown",0.945,0.4853
+"MARSHFIELD||2",6,"New Englandtown",0.945,0.4724
+"MARSHFIELD||2A",6,"New Englandtown",0.58,0.6036
+"MARSHFIELD||3",6,"New Englandtown",0.945,0.502
+"MARSHFIELD||4",6,"New Englandtown",0.945,0.4899
+"MARSHFIELD||5",6,"New Englandtown",0.945,0.4815
+"MARSHFIELD||6",6,"New Englandtown",0.94,0.4715
+"MARSHFIELD||7",6,"New Englandtown",0.945,0.4585
+"MASHPEE||1",6,"New Englandtown",0.751,0.5641
+"MASHPEE||2",6,"New Englandtown",0.934,0.5016
+"MASHPEE||3",6,"New Englandtown",0.943,0.5115
+"MASHPEE||4",6,"New Englandtown",0.879,0.5617
+"MASHPEE||5",6,"New Englandtown",0.869,0.4737
+"MATTAPOISETT||1",6,"New Englandtown",0.923,0.5263
+"MATTAPOISETT||2",6,"New Englandtown",0.882,0.5311
+"MAYNARD||1",5,"Professional suburbs",0.768,0.6565
+"MAYNARD||2",5,"Professional suburbs",0.465,0.6944
+"MAYNARD||3",5,"Professional suburbs",0.768,0.6691
+"MAYNARD||4",5,"Professional suburbs",0.764,0.6698
+"MEDFIELD||1",5,"Professional suburbs",0.828,0.5748
+"MEDFIELD||2",5,"Professional suburbs",0.795,0.5567
+"MEDFIELD||3",5,"Professional suburbs",0.727,0.5463
+"MEDFIELD||4",5,"Professional suburbs",0.836,0.5399
+"MEDFORD|1|1",5,"Professional suburbs",0.45,0.6982
+"MEDFORD|1|2",5,"Professional suburbs",0.64,0.7006
+"MEDFORD|2|1",3,"Post-industrial cities",0.467,0.6642
+"MEDFORD|2|2",5,"Professional suburbs",0.751,0.6342
+"MEDFORD|3|1",5,"Professional suburbs",0.736,0.6557
+"MEDFORD|3|2",5,"Professional suburbs",0.849,0.6378
+"MEDFORD|4|1",4,"Affluent inner ring",0.618,0.8197
+"MEDFORD|4|2",4,"Affluent inner ring",0.856,0.7592
+"MEDFORD|5|1",4,"Affluent inner ring",0.871,0.7754
+"MEDFORD|5|2",4,"Affluent inner ring",0.868,0.8093
+"MEDFORD|6|1",4,"Affluent inner ring",0.871,0.8155
+"MEDFORD|6|2",5,"Professional suburbs",0.782,0.7145
+"MEDFORD|6|2A",5,"Professional suburbs",0.44,0.6569
+"MEDFORD|7|1",5,"Professional suburbs",0.47,0.7631
+"MEDFORD|7|2",5,"Professional suburbs",0.682,0.7147
+"MEDFORD|7|2A",4,"Affluent inner ring",0.417,0.87
+"MEDFORD|8|1",5,"Professional suburbs",0.715,0.7103
+"MEDFORD|8|2",5,"Professional suburbs",0.451,0.719
+"MEDWAY||1",6,"New Englandtown",0.931,0.505
+"MEDWAY||2",6,"New Englandtown",0.889,0.5469
+"MEDWAY||3",6,"New Englandtown",0.939,0.5487
+"MEDWAY||4",6,"New Englandtown",0.933,0.5288
+"MELROSE|1|1",5,"Professional suburbs",0.817,0.7015
+"MELROSE|1|2",5,"Professional suburbs",0.795,0.7039
+"MELROSE|2|1",5,"Professional suburbs",0.778,0.6173
+"MELROSE|2|2",5,"Professional suburbs",0.82,0.6627
+"MELROSE|3|1",5,"Professional suburbs",0.811,0.7009
+"MELROSE|3|2",5,"Professional suburbs",0.81,0.6846
+"MELROSE|4|1",5,"Professional suburbs",0.829,0.6805
+"MELROSE|4|2",6,"New Englandtown",0.576,0.544
+"MELROSE|5|1",5,"Professional suburbs",0.766,0.7102
+"MELROSE|5|2",5,"Professional suburbs",0.592,0.7051
+"MELROSE|6|1",5,"Professional suburbs",0.802,0.6941
+"MELROSE|6|2",5,"Professional suburbs",0.711,0.6137
+"MELROSE|7|1",5,"Professional suburbs",0.842,0.6669
+"MELROSE|7|2",5,"Professional suburbs",0.837,0.6371
+"MENDON||1",6,"New Englandtown",0.945,0.4575
+"MENDON||2",6,"New Englandtown",0.945,0.4588
+"MERRIMAC||1",5,"Professional suburbs",0.838,0.5392
+"MERRIMAC||2",6,"New Englandtown",0.943,0.517
+"METHUEN||1",3,"Post-industrial cities",0.777,0.7081
+"METHUEN||10",6,"New Englandtown",0.945,0.5091
+"METHUEN||11",6,"New Englandtown",0.945,0.4382
+"METHUEN||12",6,"New Englandtown",0.945,0.4586
+"METHUEN||13",6,"New Englandtown",0.94,0.5092
+"METHUEN||13A",6,"New Englandtown",0.362,0.5309
+"METHUEN||14",3,"Post-industrial cities",0.703,0.5547
+"METHUEN||15",3,"Post-industrial cities",0.838,0.5892
+"METHUEN||2",3,"Post-industrial cities",0.845,0.6485
+"METHUEN||3",6,"New Englandtown",0.886,0.5355
+"METHUEN||4",3,"Post-industrial cities",0.749,0.5626
+"METHUEN||5",6,"New Englandtown",0.638,0.5418
+"METHUEN||6",6,"New Englandtown",0.945,0.5195
+"METHUEN||6A",3,"Post-industrial cities",0.422,0.5455
+"METHUEN||7",6,"New Englandtown",0.945,0.5024
+"METHUEN||8",6,"New Englandtown",0.945,0.4388
+"METHUEN||9",6,"New Englandtown",0.945,0.4341
+"MIDDLEBOROUGH||1",6,"New Englandtown",0.945,0.4382
+"MIDDLEBOROUGH||2",6,"New Englandtown",0.945,0.4774
+"MIDDLEBOROUGH||3",6,"New Englandtown",0.945,0.4037
+"MIDDLEBOROUGH||4",6,"New Englandtown",0.931,0.4603
+"MIDDLEBOROUGH||5",6,"New Englandtown",0.945,0.4076
+"MIDDLEBOROUGH||5A",6,"New Englandtown",0.91,0.3476
+"MIDDLEBOROUGH||6",6,"New Englandtown",0.945,0.4127
+"MIDDLEBOROUGH||7",6,"New Englandtown",0.945,0.423
+"MIDDLEBOROUGH||7A",6,"New Englandtown",0.914,0.3262
+"MIDDLEFIELD||1",5,"Professional suburbs",0.799,0.6274
+"MIDDLETON||1",6,"New Englandtown",0.945,0.4341
+"MIDDLETON||2",6,"New Englandtown",0.924,0.4288
+"MIDDLETON||3",6,"New Englandtown",0.945,0.4247
+"MILFORD||1",6,"New Englandtown",0.619,0.5787
+"MILFORD||2",6,"New Englandtown",0.927,0.5695
+"MILFORD||3",6,"New Englandtown",0.945,0.5196
+"MILFORD||4",6,"New Englandtown",0.481,0.5895
+"MILFORD||5",6,"New Englandtown",0.945,0.5261
+"MILFORD||6",6,"New Englandtown",0.938,0.5646
+"MILFORD||7",6,"New Englandtown",0.914,0.5247
+"MILFORD||8",6,"New Englandtown",0.89,0.5659
+"MILLBURY||1",6,"New Englandtown",0.945,0.4748
+"MILLBURY||2",6,"New Englandtown",0.945,0.4484
+"MILLBURY||3",6,"New Englandtown",0.945,0.4807
+"MILLBURY||4",6,"New Englandtown",0.943,0.5034
+"MILLIS||1",6,"New Englandtown",0.878,0.5491
+"MILLIS||2",6,"New Englandtown",0.93,0.5267
+"MILLIS||3",6,"New Englandtown",0.878,0.5442
+"MILLVILLE||1",6,"New Englandtown",0.945,0.4121
+"MILTON||1",5,"Professional suburbs",0.509,0.826
+"MILTON||10",5,"Professional suburbs",0.703,0.7951
+"MILTON||2",4,"Affluent inner ring",0.544,0.7853
+"MILTON||3",5,"Professional suburbs",0.85,0.6499
+"MILTON||4",5,"Professional suburbs",0.655,0.7159
+"MILTON||4A",4,"Affluent inner ring",0.344,0.8
+"MILTON||5",5,"Professional suburbs",0.85,0.6606
+"MILTON||6",6,"New Englandtown",0.704,0.5489
+"MILTON||7",6,"New Englandtown",0.841,0.5689
+"MILTON||8",6,"New Englandtown",0.889,0.5604
+"MILTON||9",5,"Professional suburbs",0.465,0.5097
+"MONROE||1",6,"New Englandtown",0.764,0.4667
+"MONSON||A",6,"New Englandtown",0.944,0.461
+"MONSON||B",6,"New Englandtown",0.939,0.4521
+"MONSON||C",6,"New Englandtown",0.944,0.4722
+"MONTAGUE||1",4,"Affluent inner ring",0.811,0.8045
+"MONTAGUE||2",5,"Professional suburbs",0.784,0.6818
+"MONTAGUE||3",5,"Professional suburbs",0.605,0.6823
+"MONTAGUE||4",5,"Professional suburbs",0.778,0.7006
+"MONTAGUE||5",4,"Affluent inner ring",0.832,0.8175
+"MONTAGUE||6",5,"Professional suburbs",0.674,0.6957
+"MONTEREY||1",4,"Affluent inner ring",0.871,0.8135
+"MONTGOMERY||1",6,"New Englandtown",0.936,0.4047
+"MOUNTWASHINGTON||1",4,"Affluent inner ring",0.87,0.7882
+"NAHANT||1",5,"Professional suburbs",0.76,0.6055
+"NANTUCKET||1",5,"Professional suburbs",0.846,0.6509
+"NATICK||1",5,"Professional suburbs",0.704,0.7196
+"NATICK||10",5,"Professional suburbs",0.85,0.6601
+"NATICK||2",5,"Professional suburbs",0.82,0.6698
+"NATICK||3",5,"Professional suburbs",0.815,0.6628
+"NATICK||4",5,"Professional suburbs",0.785,0.6947
+"NATICK||5",5,"Professional suburbs",0.797,0.6382
+"NATICK||6",5,"Professional suburbs",0.846,0.6569
+"NATICK||7",5,"Professional suburbs",0.824,0.7076
+"NATICK||8",5,"Professional suburbs",0.843,0.6902
+"NATICK||9",5,"Professional suburbs",0.842,0.695
+"NEEDHAM||A",5,"Professional suburbs",0.85,0.6688
+"NEEDHAM||B",5,"Professional suburbs",0.85,0.6689
+"NEEDHAM||C",5,"Professional suburbs",0.85,0.6687
+"NEEDHAM||D",5,"Professional suburbs",0.842,0.6858
+"NEEDHAM||E",5,"Professional suburbs",0.85,0.6716
+"NEEDHAM||F",5,"Professional suburbs",0.834,0.7118
+"NEEDHAM||G",5,"Professional suburbs",0.834,0.6896
+"NEEDHAM||H",5,"Professional suburbs",0.85,0.6643
+"NEEDHAM||I",5,"Professional suburbs",0.832,0.7247
+"NEEDHAM||J",5,"Professional suburbs",0.85,0.6986
+"NEWASHFORD||1",5,"Professional suburbs",0.839,0.6762
+"NEWBEDFORD|1|A",6,"New Englandtown",0.818,0.5767
+"NEWBEDFORD|1|A1",6,"New Englandtown",0.459,0.5714
+"NEWBEDFORD|1|B",6,"New Englandtown",0.945,0.5825
+"NEWBEDFORD|1|B1",6,"New Englandtown",0.546,0.5813
+"NEWBEDFORD|1|C",6,"New Englandtown",0.616,0.5797
+"NEWBEDFORD|1|C1",3,"Post-industrial cities",0.484,0.5181
+"NEWBEDFORD|1|D",6,"New Englandtown",0.921,0.5492
+"NEWBEDFORD|1|E",6,"New Englandtown",0.73,0.6119
+"NEWBEDFORD|1|F",6,"New Englandtown",0.929,0.5419
+"NEWBEDFORD|2|A",1,"Immigrant urban cores",0.852,0.6997
+"NEWBEDFORD|2|B",3,"Post-industrial cities",0.814,0.6582
+"NEWBEDFORD|2|C",3,"Post-industrial cities",0.845,0.6493
+"NEWBEDFORD|2|D",3,"Post-industrial cities",0.844,0.6306
+"NEWBEDFORD|2|E",3,"Post-industrial cities",0.546,0.6037
+"NEWBEDFORD|2|F",3,"Post-industrial cities",0.836,0.6235
+"NEWBEDFORD|3|A",1,"Immigrant urban cores",0.75,0.7227
+"NEWBEDFORD|3|B",1,"Immigrant urban cores",0.705,0.7363
+"NEWBEDFORD|3|C",3,"Post-industrial cities",0.84,0.6895
+"NEWBEDFORD|3|D",3,"Post-industrial cities",0.833,0.6854
+"NEWBEDFORD|3|E",3,"Post-industrial cities",0.835,0.6453
+"NEWBEDFORD|3|F",3,"Post-industrial cities",0.785,0.6658
+"NEWBEDFORD|3|F1",6,"New Englandtown",0.499,0.5608
+"NEWBEDFORD|4|A",1,"Immigrant urban cores",0.909,0.8101
+"NEWBEDFORD|4|A1",1,"Immigrant urban cores",0.55,0.6914
+"NEWBEDFORD|4|B",1,"Immigrant urban cores",0.495,0.7649
+"NEWBEDFORD|4|C",1,"Immigrant urban cores",0.825,0.786
+"NEWBEDFORD|4|D",1,"Immigrant urban cores",0.608,0.7318
+"NEWBEDFORD|4|E",3,"Post-industrial cities",0.828,0.6781
+"NEWBEDFORD|4|F",3,"Post-industrial cities",0.675,0.7677
+"NEWBEDFORD|5|A",3,"Post-industrial cities",0.832,0.7201
+"NEWBEDFORD|5|B",3,"Post-industrial cities",0.486,0.7338
+"NEWBEDFORD|5|C",3,"Post-industrial cities",0.815,0.6572
+"NEWBEDFORD|5|D",3,"Post-industrial cities",0.817,0.7108
+"NEWBEDFORD|5|E",3,"Post-industrial cities",0.782,0.644
+"NEWBEDFORD|5|F",3,"Post-industrial cities",0.813,0.6652
+"NEWBEDFORD|6|A",6,"New Englandtown",0.526,0.6158
+"NEWBEDFORD|6|B",3,"Post-industrial cities",0.839,0.6424
+"NEWBEDFORD|6|C",3,"Post-industrial cities",0.507,0.7314
+"NEWBEDFORD|6|D",1,"Immigrant urban cores",0.535,0.7111
+"NEWBEDFORD|6|E",3,"Post-industrial cities",0.795,0.7058
+"NEWBEDFORD|6|F",3,"Post-industrial cities",0.813,0.6901
+"NEWBRAINTREE||1",6,"New Englandtown",0.945,0.4614
+"NEWBURY||1",5,"Professional suburbs",0.83,0.588
+"NEWBURY||2",6,"New Englandtown",0.887,0.5272
+"NEWBURYPORT|1|1",5,"Professional suburbs",0.838,0.7105
+"NEWBURYPORT|1|P",6,"New Englandtown",0.799,0.5641
+"NEWBURYPORT|2|1",5,"Professional suburbs",0.502,0.7381
+"NEWBURYPORT|3|1",5,"Professional suburbs",0.803,0.6932
+"NEWBURYPORT|4|1",5,"Professional suburbs",0.848,0.6693
+"NEWBURYPORT|5|1",6,"New Englandtown",0.898,0.567
+"NEWBURYPORT|6|1",6,"New Englandtown",0.658,0.5902
+"NEWMARLBOROUGH||1",4,"Affluent inner ring",0.724,0.7055
+"NEWSALEM||1",5,"Professional suburbs",0.829,0.6217
+"NEWTON|1|1",5,"Professional suburbs",0.774,0.6827
+"NEWTON|1|2",4,"Affluent inner ring",0.871,0.806
+"NEWTON|1|2A",4,"Affluent inner ring",0.314,0.7841
+"NEWTON|1|3",4,"Affluent inner ring",0.871,0.8248
+"NEWTON|1|4",5,"Professional suburbs",0.832,0.6595
+"NEWTON|2|1",4,"Affluent inner ring",0.854,0.7647
+"NEWTON|2|2",4,"Affluent inner ring",0.869,0.7999
+"NEWTON|2|3",4,"Affluent inner ring",0.87,0.8134
+"NEWTON|2|4",4,"Affluent inner ring",0.864,0.8116
+"NEWTON|3|1",4,"Affluent inner ring",0.816,0.7619
+"NEWTON|3|2",4,"Affluent inner ring",0.485,0.7961
+"NEWTON|3|3",5,"Professional suburbs",0.538,0.7173
+"NEWTON|3|4",5,"Professional suburbs",0.732,0.7224
+"NEWTON|4|1",4,"Affluent inner ring",0.78,0.7565
+"NEWTON|4|2",4,"Affluent inner ring",0.871,0.8294
+"NEWTON|4|3",4,"Affluent inner ring",0.826,0.7859
+"NEWTON|4|4",4,"Affluent inner ring",0.505,0.7402
+"NEWTON|5|1",4,"Affluent inner ring",0.783,0.7647
+"NEWTON|5|2",4,"Affluent inner ring",0.861,0.8286
+"NEWTON|5|3",4,"Affluent inner ring",0.846,0.815
+"NEWTON|5|4",4,"Affluent inner ring",0.838,0.8138
+"NEWTON|6|1",5,"Professional suburbs",0.484,0.7524
+"NEWTON|6|2",4,"Affluent inner ring",0.871,0.8314
+"NEWTON|6|3",4,"Affluent inner ring",0.857,0.8651
+"NEWTON|6|4",4,"Affluent inner ring",0.871,0.8298
+"NEWTON|7|1",5,"Professional suburbs",0.848,0.7257
+"NEWTON|7|2",4,"Affluent inner ring",0.823,0.7858
+"NEWTON|7|3",4,"Affluent inner ring",0.848,0.7885
+"NEWTON|7|4",5,"Professional suburbs",0.81,0.7297
+"NEWTON|8|1",5,"Professional suburbs",0.85,0.6715
+"NEWTON|8|2",5,"Professional suburbs",0.85,0.6623
+"NEWTON|8|3",5,"Professional suburbs",0.773,0.7135
+"NEWTON|8|4",5,"Professional suburbs",0.839,0.7015
+"NORFOLK||1",6,"New Englandtown",0.893,0.4751
+"NORFOLK||2",6,"New Englandtown",0.932,0.4904
+"NORFOLK||3",6,"New Englandtown",0.936,0.4727
+"NORFOLK||4",6,"New Englandtown",0.927,0.4946
+"NORTHADAMS|1|1",5,"Professional suburbs",0.737,0.7161
+"NORTHADAMS|2|2",4,"Affluent inner ring",0.588,0.7361
+"NORTHADAMS|3|3",4,"Affluent inner ring",0.869,0.7762
+"NORTHADAMS|4|4",5,"Professional suburbs",0.662,0.7032
+"NORTHADAMS|5|5",5,"Professional suburbs",0.453,0.7469
+"NORTHAMPTON|1|A",2,"Collegevilles",0.876,0.8644
+"NORTHAMPTON|1|B",2,"Collegevilles",0.937,0.9077
+"NORTHAMPTON|2|A",2,"Collegevilles",0.937,0.9359
+"NORTHAMPTON|2|B",2,"Collegevilles",0.937,0.9325
+"NORTHAMPTON|3|A",2,"Collegevilles",0.937,0.8954
+"NORTHAMPTON|3|B",2,"Collegevilles",0.937,0.8972
+"NORTHAMPTON|4|A",2,"Collegevilles",0.937,0.9236
+"NORTHAMPTON|4|B",2,"Collegevilles",0.937,0.9001
+"NORTHAMPTON|5|A",2,"Collegevilles",0.89,0.8616
+"NORTHAMPTON|5|B",2,"Collegevilles",0.937,0.8844
+"NORTHAMPTON|6|A",4,"Affluent inner ring",0.855,0.764
+"NORTHAMPTON|6|B",4,"Affluent inner ring",0.871,0.7941
+"NORTHAMPTON|7|A",4,"Affluent inner ring",0.581,0.8421
+"NORTHAMPTON|7|B",4,"Affluent inner ring",0.835,0.814
+"NORTHANDOVER||1",6,"New Englandtown",0.806,0.5597
+"NORTHANDOVER||2",6,"New Englandtown",0.94,0.5353
+"NORTHANDOVER||3",6,"New Englandtown",0.94,0.5549
+"NORTHANDOVER||4",5,"Professional suburbs",0.626,0.5411
+"NORTHANDOVER||5",6,"New Englandtown",0.859,0.5337
+"NORTHANDOVER||6",6,"New Englandtown",0.926,0.4693
+"NORTHANDOVER||7",6,"New Englandtown",0.74,0.5422
+"NORTHANDOVER||8",6,"New Englandtown",0.932,0.4745
+"NORTHATTLEBOROUGH||1",3,"Post-industrial cities",0.806,0.5479
+"NORTHATTLEBOROUGH||2",6,"New Englandtown",0.939,0.498
+"NORTHATTLEBOROUGH||3",6,"New Englandtown",0.944,0.4343
+"NORTHATTLEBOROUGH||4",6,"New Englandtown",0.455,0.5587
+"NORTHATTLEBOROUGH||5",6,"New Englandtown",0.933,0.5029
+"NORTHATTLEBOROUGH||6",6,"New Englandtown",0.945,0.4935
+"NORTHATTLEBOROUGH||7",6,"New Englandtown",0.945,0.4783
+"NORTHATTLEBOROUGH||8",6,"New Englandtown",0.945,0.4748
+"NORTHATTLEBOROUGH||9",6,"New Englandtown",0.945,0.4791
+"NORTHBOROUGH||1",5,"Professional suburbs",0.645,0.5813
+"NORTHBOROUGH||2",5,"Professional suburbs",0.54,0.5829
+"NORTHBOROUGH||3",6,"New Englandtown",0.438,0.5874
+"NORTHBOROUGH||4",5,"Professional suburbs",0.455,0.5558
+"NORTHBRIDGE||1",6,"New Englandtown",0.945,0.4563
+"NORTHBRIDGE||2",6,"New Englandtown",0.945,0.4631
+"NORTHBRIDGE||3",6,"New Englandtown",0.945,0.4473
+"NORTHBRIDGE||4",6,"New Englandtown",0.945,0.4082
+"NORTHBRIDGE||5",6,"New Englandtown",0.945,0.4497
+"NORTHBROOKFIELD||1",6,"New Englandtown",0.945,0.4071
+"NORTHFIELD||1",5,"Professional suburbs",0.807,0.6481
+"NORTHREADING||1",6,"New Englandtown",0.945,0.4707
+"NORTHREADING||2",6,"New Englandtown",0.945,0.5106
+"NORTHREADING||3",6,"New Englandtown",0.945,0.4833
+"NORTHREADING||4",6,"New Englandtown",0.945,0.5008
+"NORTON||1",6,"New Englandtown",0.945,0.4813
+"NORTON||2",6,"New Englandtown",0.945,0.4779
+"NORTON||3",6,"New Englandtown",0.945,0.526
+"NORTON||4",6,"New Englandtown",0.945,0.4924
+"NORTON||5",6,"New Englandtown",0.941,0.4699
+"NORWELL||1",6,"New Englandtown",0.945,0.485
+"NORWELL||2",6,"New Englandtown",0.901,0.466
+"NORWELL||3",6,"New Englandtown",0.86,0.4864
+"NORWOOD||1",6,"New Englandtown",0.862,0.5835
+"NORWOOD||2",6,"New Englandtown",0.81,0.5849
+"NORWOOD||3",6,"New Englandtown",0.518,0.5911
+"NORWOOD||4",6,"New Englandtown",0.945,0.5584
+"NORWOOD||5",3,"Post-industrial cities",0.714,0.6544
+"NORWOOD||6",6,"New Englandtown",0.79,0.5703
+"NORWOOD||7",6,"New Englandtown",0.929,0.5638
+"NORWOOD||8",6,"New Englandtown",0.806,0.6007
+"NORWOOD||9",6,"New Englandtown",0.945,0.5191
+"OAKBLUFFS||1",5,"Professional suburbs",0.775,0.7154
+"OAKHAM||1",6,"New Englandtown",0.945,0.4039
+"ORANGE||1",6,"New Englandtown",0.878,0.4875
+"ORANGE||2",6,"New Englandtown",0.583,0.5289
+"ORLEANS||1",5,"Professional suburbs",0.85,0.6171
+"ORLEANS||2",5,"Professional suburbs",0.85,0.6019
+"OTIS||1",5,"Professional suburbs",0.834,0.5552
+"OXFORD||1",6,"New Englandtown",0.945,0.4371
+"OXFORD||2",6,"New Englandtown",0.945,0.4432
+"OXFORD||3",6,"New Englandtown",0.945,0.4516
+"OXFORD||4",6,"New Englandtown",0.945,0.434
+"OXFORD||4A",6,"New Englandtown",0.892,0.294
+"PALMER||1",6,"New Englandtown",0.945,0.4764
+"PALMER||2",6,"New Englandtown",0.944,0.439
+"PALMER||3",6,"New Englandtown",0.859,0.5324
+"PALMER||4",6,"New Englandtown",0.945,0.4674
+"PAXTON||1",6,"New Englandtown",0.945,0.4765
+"PEABODY|1|1",6,"New Englandtown",0.945,0.5539
+"PEABODY|1|2",6,"New Englandtown",0.945,0.4972
+"PEABODY|1|3",6,"New Englandtown",0.945,0.5123
+"PEABODY|2|1",3,"Post-industrial cities",0.829,0.6714
+"PEABODY|2|2",3,"Post-industrial cities",0.812,0.6337
+"PEABODY|2|3",6,"New Englandtown",0.945,0.5364
+"PEABODY|3|1",3,"Post-industrial cities",0.562,0.6652
+"PEABODY|3|2",6,"New Englandtown",0.913,0.6123
+"PEABODY|3|3",6,"New Englandtown",0.937,0.5617
+"PEABODY|4|1",6,"New Englandtown",0.938,0.5497
+"PEABODY|4|2",6,"New Englandtown",0.929,0.5363
+"PEABODY|4|3",6,"New Englandtown",0.918,0.5866
+"PEABODY|4|3A",5,"Professional suburbs",0.826,0.7415
+"PEABODY|5|1",6,"New Englandtown",0.945,0.5109
+"PEABODY|5|2",6,"New Englandtown",0.945,0.5016
+"PEABODY|5|3",6,"New Englandtown",0.945,0.513
+"PEABODY|6|1",6,"New Englandtown",0.945,0.4584
+"PEABODY|6|2",6,"New Englandtown",0.945,0.4544
+"PEABODY|6|3",6,"New Englandtown",0.945,0.4502
+"PELHAM||1",2,"Collegevilles",0.929,0.871
+"PEMBROKE||1",6,"New Englandtown",0.945,0.4697
+"PEMBROKE||2",6,"New Englandtown",0.945,0.4597
+"PEMBROKE||3",6,"New Englandtown",0.945,0.4671
+"PEMBROKE||3A",6,"New Englandtown",0.376,0.75
+"PEMBROKE||4",6,"New Englandtown",0.945,0.4554
+"PEMBROKE||5",6,"New Englandtown",0.945,0.4546
+"PEPPERELL||1",6,"New Englandtown",0.945,0.4591
+"PEPPERELL||2",6,"New Englandtown",0.939,0.4893
+"PEPPERELL||3",6,"New Englandtown",0.945,0.4701
+"PEPPERELL||4",6,"New Englandtown",0.941,0.4778
+"PERU||1",5,"Professional suburbs",0.85,0.5914
+"PETERSHAM||1",5,"Professional suburbs",0.842,0.5658
+"PHILLIPSTON||1",6,"New Englandtown",0.945,0.4197
+"PITTSFIELD|1|A",5,"Professional suburbs",0.45,0.7425
+"PITTSFIELD|1|B",5,"Professional suburbs",0.806,0.7325
+"PITTSFIELD|2|A",4,"Affluent inner ring",0.76,0.8001
+"PITTSFIELD|2|B",5,"Professional suburbs",0.664,0.7575
+"PITTSFIELD|3|A",4,"Affluent inner ring",0.701,0.7755
+"PITTSFIELD|3|B",5,"Professional suburbs",0.774,0.7536
+"PITTSFIELD|4|A",4,"Affluent inner ring",0.654,0.7493
+"PITTSFIELD|4|B",5,"Professional suburbs",0.831,0.7059
+"PITTSFIELD|5|A",4,"Affluent inner ring",0.868,0.7823
+"PITTSFIELD|5|B",5,"Professional suburbs",0.705,0.7302
+"PITTSFIELD|6|A",5,"Professional suburbs",0.716,0.7718
+"PITTSFIELD|6|B",5,"Professional suburbs",0.456,0.7505
+"PITTSFIELD|7|A",5,"Professional suburbs",0.391,0.7365
+"PITTSFIELD|7|B",5,"Professional suburbs",0.747,0.7397
+"PLAINFIELD||1",4,"Affluent inner ring",0.857,0.7291
+"PLAINVILLE||1",6,"New Englandtown",0.945,0.4866
+"PLAINVILLE||2",6,"New Englandtown",0.945,0.4831
+"PLAINVILLE||3",6,"New Englandtown",0.945,0.4554
+"PLYMOUTH||1",6,"New Englandtown",0.895,0.5627
+"PLYMOUTH||10",6,"New Englandtown",0.945,0.4883
+"PLYMOUTH||11",6,"New Englandtown",0.945,0.4796
+"PLYMOUTH||12",6,"New Englandtown",0.945,0.4552
+"PLYMOUTH||13",6,"New Englandtown",0.945,0.5032
+"PLYMOUTH||14",6,"New Englandtown",0.945,0.4812
+"PLYMOUTH||15",6,"New Englandtown",0.789,0.5349
+"PLYMOUTH||16",6,"New Englandtown",0.937,0.507
+"PLYMOUTH||17",6,"New Englandtown",0.945,0.4783
+"PLYMOUTH||18",6,"New Englandtown",0.945,0.4953
+"PLYMOUTH||2",6,"New Englandtown",0.9,0.5491
+"PLYMOUTH||3",6,"New Englandtown",0.689,0.5764
+"PLYMOUTH||4",6,"New Englandtown",0.909,0.547
+"PLYMOUTH||5",6,"New Englandtown",0.911,0.5388
+"PLYMOUTH||6",6,"New Englandtown",0.936,0.5311
+"PLYMOUTH||7",6,"New Englandtown",0.944,0.5171
+"PLYMOUTH||8",6,"New Englandtown",0.945,0.4717
+"PLYMOUTH||9",6,"New Englandtown",0.945,0.4622
+"PLYMPTON||1",6,"New Englandtown",0.945,0.4466
+"PRINCETON||1",5,"Professional suburbs",0.554,0.5247
+"PROVINCETOWN||1",4,"Affluent inner ring",0.866,0.9082
+"QUINCY|1|1",3,"Post-industrial cities",0.704,0.6282
+"QUINCY|1|2",3,"Post-industrial cities",0.843,0.6369
+"QUINCY|1|3",5,"Professional suburbs",0.622,0.6728
+"QUINCY|1|4",6,"New Englandtown",0.939,0.5411
+"QUINCY|1|5",6,"New Englandtown",0.929,0.54
+"QUINCY|2|1",3,"Post-industrial cities",0.809,0.6266
+"QUINCY|2|2",3,"Post-industrial cities",0.826,0.6572
+"QUINCY|2|3",3,"Post-industrial cities",0.805,0.6664
+"QUINCY|2|4",3,"Post-industrial cities",0.829,0.6353
+"QUINCY|2|5",3,"Post-industrial cities",0.706,0.634
+"QUINCY|3|1",3,"Post-industrial cities",0.649,0.6444
+"QUINCY|3|2",5,"Professional suburbs",0.732,0.6514
+"QUINCY|3|3",5,"Professional suburbs",0.663,0.6315
+"QUINCY|3|4",6,"New Englandtown",0.824,0.5679
+"QUINCY|3|5",5,"Professional suburbs",0.639,0.6944
+"QUINCY|4|1",3,"Post-industrial cities",0.596,0.6322
+"QUINCY|4|2",6,"New Englandtown",0.744,0.5905
+"QUINCY|4|3",6,"New Englandtown",0.937,0.5518
+"QUINCY|4|4",3,"Post-industrial cities",0.677,0.6935
+"QUINCY|4|5",3,"Post-industrial cities",0.816,0.641
+"QUINCY|5|1",3,"Post-industrial cities",0.588,0.6794
+"QUINCY|5|1A",3,"Post-industrial cities",0.51,0.6375
+"QUINCY|5|2",5,"Professional suburbs",0.622,0.6875
+"QUINCY|5|3",5,"Professional suburbs",0.67,0.658
+"QUINCY|5|4",5,"Professional suburbs",0.569,0.6091
+"QUINCY|5|5",5,"Professional suburbs",0.723,0.6099
+"QUINCY|6|1",5,"Professional suburbs",0.556,0.6388
+"QUINCY|6|2",5,"Professional suburbs",0.616,0.6642
+"QUINCY|6|3",6,"New Englandtown",0.755,0.5939
+"QUINCY|6|4",3,"Post-industrial cities",0.557,0.6676
+"QUINCY|6|5",6,"New Englandtown",0.945,0.5266
+"RANDOLPH||1",3,"Post-industrial cities",0.839,0.773
+"RANDOLPH||10",3,"Post-industrial cities",0.826,0.7401
+"RANDOLPH||11",3,"Post-industrial cities",0.819,0.7253
+"RANDOLPH||12",3,"Post-industrial cities",0.83,0.716
+"RANDOLPH||2",3,"Post-industrial cities",0.799,0.7682
+"RANDOLPH||3",3,"Post-industrial cities",0.564,0.7883
+"RANDOLPH||4",3,"Post-industrial cities",0.811,0.7839
+"RANDOLPH||5",3,"Post-industrial cities",0.738,0.7929
+"RANDOLPH||6",1,"Immigrant urban cores",0.62,0.8013
+"RANDOLPH||7",3,"Post-industrial cities",0.807,0.7364
+"RANDOLPH||8",3,"Post-industrial cities",0.845,0.7553
+"RANDOLPH||9",3,"Post-industrial cities",0.748,0.7926
+"RAYNHAM||1",6,"New Englandtown",0.945,0.4624
+"RAYNHAM||2",6,"New Englandtown",0.945,0.4382
+"RAYNHAM||2A",6,"New Englandtown",0.942,0.4167
+"RAYNHAM||3",6,"New Englandtown",0.945,0.4558
+"RAYNHAM||4",6,"New Englandtown",0.945,0.4623
+"RAYNHAM||4A",6,"New Englandtown",0.827,0.2725
+"READING||1",6,"New Englandtown",0.775,0.5475
+"READING||2",6,"New Englandtown",0.797,0.5899
+"READING||3",6,"New Englandtown",0.916,0.5623
+"READING||4",5,"Professional suburbs",0.683,0.5889
+"READING||5",5,"Professional suburbs",0.826,0.6311
+"READING||6",5,"Professional suburbs",0.591,0.5849
+"READING||7",5,"Professional suburbs",0.85,0.589
+"READING||8",6,"New Englandtown",0.817,0.5466
+"REHOBOTH||1",6,"New Englandtown",0.945,0.4206
+"REHOBOTH||2",6,"New Englandtown",0.945,0.4437
+"REHOBOTH||3",6,"New Englandtown",0.945,0.444
+"REHOBOTH||4",6,"New Englandtown",0.941,0.4439
+"REVERE|1|1",3,"Post-industrial cities",0.678,0.6682
+"REVERE|1|2",3,"Post-industrial cities",0.656,0.6763
+"REVERE|1|3",3,"Post-industrial cities",0.668,0.6775
+"REVERE|2|1",5,"Professional suburbs",0.461,0.7315
+"REVERE|2|2",1,"Immigrant urban cores",0.438,0.7369
+"REVERE|2|3",1,"Immigrant urban cores",0.805,0.7825
+"REVERE|2|3A",4,"Affluent inner ring",0.298,0.7105
+"REVERE|3|1",3,"Post-industrial cities",0.515,0.609
+"REVERE|3|2",3,"Post-industrial cities",0.601,0.6501
+"REVERE|3|3",3,"Post-industrial cities",0.414,0.6297
+"REVERE|4|1",6,"New Englandtown",0.795,0.6151
+"REVERE|4|2",3,"Post-industrial cities",0.553,0.6322
+"REVERE|4|3",6,"New Englandtown",0.843,0.6083
+"REVERE|5|1",6,"New Englandtown",0.801,0.5749
+"REVERE|5|1A",6,"New Englandtown",0.468,0.5856
+"REVERE|5|2",3,"Post-industrial cities",0.588,0.6323
+"REVERE|5|3",3,"Post-industrial cities",0.736,0.6461
+"REVERE|6|1",6,"New Englandtown",0.927,0.5297
+"REVERE|6|2",6,"New Englandtown",0.945,0.5347
+"REVERE|6|3",3,"Post-industrial cities",0.651,0.6388
+"RICHMOND||1",4,"Affluent inner ring",0.812,0.7684
+"ROCHESTER||1",6,"New Englandtown",0.943,0.4196
+"ROCKLAND||1",6,"New Englandtown",0.945,0.5152
+"ROCKLAND||2",6,"New Englandtown",0.945,0.5127
+"ROCKLAND||3",6,"New Englandtown",0.945,0.5243
+"ROCKLAND||4",6,"New Englandtown",0.945,0.519
+"ROCKLAND||5",6,"New Englandtown",0.945,0.4683
+"ROCKLAND||6",5,"Professional suburbs",0.85,0.4672
+"ROCKPORT||1",5,"Professional suburbs",0.836,0.6749
+"ROCKPORT||2",5,"Professional suburbs",0.848,0.6725
+"ROCKPORT||3",5,"Professional suburbs",0.85,0.6568
+"ROWE||1",5,"Professional suburbs",0.842,0.5652
+"ROWLEY||1",6,"New Englandtown",0.945,0.4641
+"ROYALSTON||1",6,"New Englandtown",0.886,0.5247
+"RUSSELL||1",6,"New Englandtown",0.945,0.4021
+"RUTLAND||1",6,"New Englandtown",0.945,0.4322
+"RUTLAND||2",6,"New Englandtown",0.945,0.4283
+"RUTLAND||3",6,"New Englandtown",0.945,0.4771
+"SALEM|1|1",4,"Affluent inner ring",0.657,0.7222
+"SALEM|1|2",1,"Immigrant urban cores",0.899,0.8628
+"SALEM|2|1",4,"Affluent inner ring",0.864,0.7698
+"SALEM|2|2",4,"Affluent inner ring",0.871,0.7969
+"SALEM|3|1",3,"Post-industrial cities",0.481,0.7232
+"SALEM|3|2",5,"Professional suburbs",0.593,0.6518
+"SALEM|4|1",3,"Post-industrial cities",0.549,0.6352
+"SALEM|4|2",6,"New Englandtown",0.746,0.5899
+"SALEM|5|1",4,"Affluent inner ring",0.774,0.7295
+"SALEM|5|2",4,"Affluent inner ring",0.851,0.7739
+"SALEM|6|1",5,"Professional suburbs",0.673,0.6894
+"SALEM|6|2",5,"Professional suburbs",0.469,0.6988
+"SALEM|7|1",5,"Professional suburbs",0.789,0.7061
+"SALEM|7|2",5,"Professional suburbs",0.475,0.6728
+"SALISBURY||1",6,"New Englandtown",0.902,0.5353
+"SALISBURY||2",6,"New Englandtown",0.945,0.5028
+"SALISBURY||3",6,"New Englandtown",0.945,0.4631
+"SANDISFIELD||1",5,"Professional suburbs",0.751,0.6202
+"SANDWICH||1",6,"New Englandtown",0.744,0.544
+"SANDWICH||2",6,"New Englandtown",0.763,0.5102
+"SANDWICH||3",6,"New Englandtown",0.939,0.481
+"SANDWICH||4",6,"New Englandtown",0.945,0.4677
+"SANDWICH||5",6,"New Englandtown",0.945,0.4621
+"SANDWICH||6",6,"New Englandtown",0.945,0.4267
+"SAUGUS||1",6,"New Englandtown",0.945,0.5216
+"SAUGUS||10",6,"New Englandtown",0.945,0.5147
+"SAUGUS||2",6,"New Englandtown",0.945,0.5221
+"SAUGUS||3",6,"New Englandtown",0.945,0.5039
+"SAUGUS||4",6,"New Englandtown",0.945,0.4685
+"SAUGUS||5",6,"New Englandtown",0.945,0.4437
+"SAUGUS||6",6,"New Englandtown",0.927,0.5155
+"SAUGUS||7",6,"New Englandtown",0.945,0.4347
+"SAUGUS||8",6,"New Englandtown",0.945,0.5052
+"SAUGUS||9",6,"New Englandtown",0.945,0.4606
+"SAVOY||1",5,"Professional suburbs",0.819,0.5887
+"SCITUATE||1",6,"New Englandtown",0.828,0.5147
+"SCITUATE||2",6,"New Englandtown",0.84,0.5189
+"SCITUATE||3",5,"Professional suburbs",0.77,0.5615
+"SCITUATE||4",6,"New Englandtown",0.845,0.5143
+"SCITUATE||5",5,"Professional suburbs",0.46,0.5704
+"SCITUATE||6",6,"New Englandtown",0.866,0.5593
+"SEEKONK||1",6,"New Englandtown",0.922,0.4834
+"SEEKONK||2",6,"New Englandtown",0.853,0.5137
+"SEEKONK||3",6,"New Englandtown",0.658,0.5189
+"SEEKONK||4",6,"New Englandtown",0.94,0.5099
+"SHARON||1",4,"Affluent inner ring",0.586,0.7164
+"SHARON||2",5,"Professional suburbs",0.85,0.6821
+"SHARON||3",5,"Professional suburbs",0.843,0.6867
+"SHARON||4",5,"Professional suburbs",0.788,0.7203
+"SHARON||5",5,"Professional suburbs",0.833,0.6652
+"SHEFFIELD||1",5,"Professional suburbs",0.558,0.7095
+"SHELBURNE||1",4,"Affluent inner ring",0.87,0.7739
+"SHERBORN||1",5,"Professional suburbs",0.844,0.6454
+"SHIRLEY||1",6,"New Englandtown",0.936,0.5188
+"SHREWSBURY||1",6,"New Englandtown",0.916,0.5362
+"SHREWSBURY||10",6,"New Englandtown",0.433,0.578
+"SHREWSBURY||2",6,"New Englandtown",0.879,0.5793
+"SHREWSBURY||3",6,"New Englandtown",0.654,0.5688
+"SHREWSBURY||4",6,"New Englandtown",0.875,0.553
+"SHREWSBURY||5",6,"New Englandtown",0.431,0.5899
+"SHREWSBURY||6",6,"New Englandtown",0.582,0.5851
+"SHREWSBURY||7",6,"New Englandtown",0.752,0.5252
+"SHREWSBURY||8",6,"New Englandtown",0.705,0.5452
+"SHREWSBURY||9",5,"Professional suburbs",0.714,0.5966
+"SHUTESBURY||1",2,"Collegevilles",0.937,0.8651
+"SOMERSET||1",6,"New Englandtown",0.945,0.5363
+"SOMERSET||2",6,"New Englandtown",0.945,0.5342
+"SOMERSET||3",6,"New Englandtown",0.945,0.5564
+"SOMERSET||4",6,"New Englandtown",0.945,0.5476
+"SOMERSET||5",6,"New Englandtown",0.94,0.5277
+"SOMERVILLE|1|1",4,"Affluent inner ring",0.871,0.8227
+"SOMERVILLE|1|2",4,"Affluent inner ring",0.86,0.7985
+"SOMERVILLE|1|3",4,"Affluent inner ring",0.871,0.7976
+"SOMERVILLE|1|4",4,"Affluent inner ring",0.865,0.8216
+"SOMERVILLE|1|4A",4,"Affluent inner ring",0.489,0.7974
+"SOMERVILLE|2|1",2,"Collegevilles",0.937,0.9075
+"SOMERVILLE|2|1A",2,"Collegevilles",0.82,0.9266
+"SOMERVILLE|2|2",2,"Collegevilles",0.937,0.9061
+"SOMERVILLE|2|3",2,"Collegevilles",0.937,0.9033
+"SOMERVILLE|2|4",2,"Collegevilles",0.937,0.8904
+"SOMERVILLE|3|1",2,"Collegevilles",0.937,0.8961
+"SOMERVILLE|3|2",2,"Collegevilles",0.91,0.871
+"SOMERVILLE|3|3",2,"Collegevilles",0.937,0.8767
+"SOMERVILLE|3|4",2,"Collegevilles",0.937,0.8797
+"SOMERVILLE|4|1",4,"Affluent inner ring",0.854,0.7939
+"SOMERVILLE|4|2",4,"Affluent inner ring",0.802,0.8491
+"SOMERVILLE|4|2A",2,"Collegevilles",0.772,0.8377
+"SOMERVILLE|4|3",4,"Affluent inner ring",0.701,0.8385
+"SOMERVILLE|4|4",4,"Affluent inner ring",0.87,0.807
+"SOMERVILLE|5|1",2,"Collegevilles",0.673,0.8476
+"SOMERVILLE|5|2",2,"Collegevilles",0.936,0.8713
+"SOMERVILLE|5|3",2,"Collegevilles",0.937,0.8785
+"SOMERVILLE|5|4",2,"Collegevilles",0.937,0.8899
+"SOMERVILLE|6|1",2,"Collegevilles",0.937,0.8996
+"SOMERVILLE|6|2",2,"Collegevilles",0.937,0.8948
+"SOMERVILLE|6|3",2,"Collegevilles",0.937,0.8798
+"SOMERVILLE|6|3A",4,"Affluent inner ring",0.561,0.8278
+"SOMERVILLE|6|4",2,"Collegevilles",0.937,0.8963
+"SOMERVILLE|7|1",2,"Collegevilles",0.937,0.8854
+"SOMERVILLE|7|2",2,"Collegevilles",0.607,0.8779
+"SOMERVILLE|7|3",4,"Affluent inner ring",0.842,0.8113
+"SOMERVILLE|7|4",2,"Collegevilles",0.823,0.864
+"SOUTHAMPTON||1",6,"New Englandtown",0.851,0.5122
+"SOUTHAMPTON||2",6,"New Englandtown",0.886,0.5079
+"SOUTHBOROUGH||1",5,"Professional suburbs",0.839,0.5904
+"SOUTHBOROUGH||2",5,"Professional suburbs",0.846,0.5732
+"SOUTHBOROUGH||3",5,"Professional suburbs",0.844,0.5838
+"SOUTHBRIDGE||1",3,"Post-industrial cities",0.756,0.5845
+"SOUTHBRIDGE||2",3,"Post-industrial cities",0.677,0.5919
+"SOUTHBRIDGE||3",6,"New Englandtown",0.922,0.5294
+"SOUTHBRIDGE||4",6,"New Englandtown",0.944,0.5317
+"SOUTHBRIDGE||5",3,"Post-industrial cities",0.833,0.6571
+"SOUTHHADLEY||A",5,"Professional suburbs",0.514,0.6389
+"SOUTHHADLEY||B",5,"Professional suburbs",0.849,0.6244
+"SOUTHHADLEY||C",6,"New Englandtown",0.474,0.5668
+"SOUTHHADLEY||D",5,"Professional suburbs",0.494,0.6909
+"SOUTHHADLEY||E",5,"Professional suburbs",0.634,0.5915
+"SOUTHWICK||1",6,"New Englandtown",0.945,0.3551
+"SOUTHWICK||2",6,"New Englandtown",0.945,0.4005
+"SOUTHWICK||3",6,"New Englandtown",0.945,0.4089
+"SPENCER||1",6,"New Englandtown",0.945,0.4457
+"SPENCER||2",6,"New Englandtown",0.945,0.454
+"SPENCER||3",6,"New Englandtown",0.945,0.4034
+"SPENCER||4",6,"New Englandtown",0.945,0.4586
+"SPRINGFIELD|1|A",1,"Immigrant urban cores",0.91,0.8562
+"SPRINGFIELD|1|B",1,"Immigrant urban cores",0.909,0.8523
+"SPRINGFIELD|1|C",1,"Immigrant urban cores",0.903,0.8226
+"SPRINGFIELD|1|C1",1,"Immigrant urban cores",0.385,0.7967
+"SPRINGFIELD|1|D",1,"Immigrant urban cores",0.91,0.8562
+"SPRINGFIELD|1|D1",1,"Immigrant urban cores",0.701,0.7607
+"SPRINGFIELD|1|E",1,"Immigrant urban cores",0.909,0.8426
+"SPRINGFIELD|1|F",1,"Immigrant urban cores",0.91,0.8569
+"SPRINGFIELD|1|G",1,"Immigrant urban cores",0.91,0.8317
+"SPRINGFIELD|1|H",1,"Immigrant urban cores",0.902,0.8584
+"SPRINGFIELD|2|A",3,"Post-industrial cities",0.503,0.7916
+"SPRINGFIELD|2|B",3,"Post-industrial cities",0.82,0.7318
+"SPRINGFIELD|2|C",3,"Post-industrial cities",0.796,0.7464
+"SPRINGFIELD|2|D",3,"Post-industrial cities",0.835,0.7298
+"SPRINGFIELD|2|E",3,"Post-industrial cities",0.802,0.6844
+"SPRINGFIELD|2|F",3,"Post-industrial cities",0.61,0.7408
+"SPRINGFIELD|2|G",3,"Post-industrial cities",0.816,0.6715
+"SPRINGFIELD|2|H",3,"Post-industrial cities",0.837,0.7084
+"SPRINGFIELD|3|A",1,"Immigrant urban cores",0.91,0.8399
+"SPRINGFIELD|3|B",1,"Immigrant urban cores",0.91,0.8367
+"SPRINGFIELD|3|C",1,"Immigrant urban cores",0.91,0.8329
+"SPRINGFIELD|3|D",1,"Immigrant urban cores",0.91,0.861
+"SPRINGFIELD|3|E",1,"Immigrant urban cores",0.905,0.849
+"SPRINGFIELD|3|F",1,"Immigrant urban cores",0.91,0.7878
+"SPRINGFIELD|3|G",1,"Immigrant urban cores",0.91,0.8143
+"SPRINGFIELD|3|H",1,"Immigrant urban cores",0.9,0.7821
+"SPRINGFIELD|4|A",1,"Immigrant urban cores",0.896,0.8822
+"SPRINGFIELD|4|B",1,"Immigrant urban cores",0.91,0.8894
+"SPRINGFIELD|4|C",1,"Immigrant urban cores",0.91,0.9086
+"SPRINGFIELD|4|D",1,"Immigrant urban cores",0.91,0.9072
+"SPRINGFIELD|4|E",1,"Immigrant urban cores",0.91,0.9093
+"SPRINGFIELD|4|F",1,"Immigrant urban cores",0.91,0.8928
+"SPRINGFIELD|4|G",1,"Immigrant urban cores",0.91,0.8941
+"SPRINGFIELD|4|H",1,"Immigrant urban cores",0.91,0.9294
+"SPRINGFIELD|5|A",1,"Immigrant urban cores",0.887,0.8533
+"SPRINGFIELD|5|B",3,"Post-industrial cities",0.485,0.793
+"SPRINGFIELD|5|C",3,"Post-industrial cities",0.832,0.7048
+"SPRINGFIELD|5|C1",6,"New Englandtown",0.397,0.4686
+"SPRINGFIELD|5|D",3,"Post-industrial cities",0.733,0.6326
+"SPRINGFIELD|5|E",1,"Immigrant urban cores",0.626,0.8056
+"SPRINGFIELD|5|F",3,"Post-industrial cities",0.788,0.7431
+"SPRINGFIELD|5|G",3,"Post-industrial cities",0.457,0.6011
+"SPRINGFIELD|5|H",3,"Post-industrial cities",0.798,0.6602
+"SPRINGFIELD|6|A",1,"Immigrant urban cores",0.827,0.7666
+"SPRINGFIELD|6|B",5,"Professional suburbs",0.55,0.726
+"SPRINGFIELD|6|C",3,"Post-industrial cities",0.749,0.675
+"SPRINGFIELD|6|D",5,"Professional suburbs",0.711,0.62
+"SPRINGFIELD|6|D1",5,"Professional suburbs",0.435,0.6744
+"SPRINGFIELD|6|E",1,"Immigrant urban cores",0.894,0.7638
+"SPRINGFIELD|6|F",1,"Immigrant urban cores",0.887,0.7934
+"SPRINGFIELD|6|G",3,"Post-industrial cities",0.779,0.7143
+"SPRINGFIELD|6|H",3,"Post-industrial cities",0.83,0.6457
+"SPRINGFIELD|7|A",3,"Post-industrial cities",0.801,0.6499
+"SPRINGFIELD|7|A1",1,"Immigrant urban cores",0.342,0.8448
+"SPRINGFIELD|7|B",3,"Post-industrial cities",0.705,0.6229
+"SPRINGFIELD|7|B1",5,"Professional suburbs",0.284,0.6429
+"SPRINGFIELD|7|C",6,"New Englandtown",0.481,0.6136
+"SPRINGFIELD|7|D",6,"New Englandtown",0.517,0.5993
+"SPRINGFIELD|7|E",3,"Post-industrial cities",0.843,0.7179
+"SPRINGFIELD|7|F",3,"Post-industrial cities",0.631,0.6161
+"SPRINGFIELD|7|G",6,"New Englandtown",0.674,0.577
+"SPRINGFIELD|7|H",3,"Post-industrial cities",0.454,0.6417
+"SPRINGFIELD|7|H1",6,"New Englandtown",0.857,0.5243
+"SPRINGFIELD|8|A",3,"Post-industrial cities",0.841,0.6694
+"SPRINGFIELD|8|B",3,"Post-industrial cities",0.713,0.7317
+"SPRINGFIELD|8|B1",6,"New Englandtown",0.47,0.4333
+"SPRINGFIELD|8|C",3,"Post-industrial cities",0.712,0.7904
+"SPRINGFIELD|8|D",1,"Immigrant urban cores",0.682,0.7466
+"SPRINGFIELD|8|E",3,"Post-industrial cities",0.79,0.7173
+"SPRINGFIELD|8|F",3,"Post-industrial cities",0.763,0.6852
+"SPRINGFIELD|8|G",3,"Post-industrial cities",0.84,0.6804
+"SPRINGFIELD|8|G1",3,"Post-industrial cities",0.324,0.4451
+"SPRINGFIELD|8|H",3,"Post-industrial cities",0.648,0.7749
+"STERLING||1",6,"New Englandtown",0.944,0.4578
+"STERLING||2",6,"New Englandtown",0.942,0.4435
+"STOCKBRIDGE||1",4,"Affluent inner ring",0.861,0.8028
+"STONEHAM||1",6,"New Englandtown",0.887,0.5993
+"STONEHAM||2",6,"New Englandtown",0.72,0.6017
+"STONEHAM||3",6,"New Englandtown",0.943,0.5505
+"STONEHAM||4",5,"Professional suburbs",0.727,0.5394
+"STONEHAM||5",6,"New Englandtown",0.945,0.5224
+"STONEHAM||6",6,"New Englandtown",0.873,0.5613
+"STONEHAM||7",6,"New Englandtown",0.926,0.5689
+"STOUGHTON||1",6,"New Englandtown",0.911,0.6222
+"STOUGHTON||2",6,"New Englandtown",0.614,0.6087
+"STOUGHTON||2A",6,"New Englandtown",0.405,0.6659
+"STOUGHTON||3",6,"New Englandtown",0.699,0.6065
+"STOUGHTON||4",6,"New Englandtown",0.945,0.5386
+"STOUGHTON||4A",6,"New Englandtown",0.497,0.6484
+"STOUGHTON||5",6,"New Englandtown",0.928,0.5939
+"STOUGHTON||5A",6,"New Englandtown",0.771,0.5629
+"STOUGHTON||6",6,"New Englandtown",0.88,0.6192
+"STOUGHTON||7",3,"Post-industrial cities",0.754,0.6284
+"STOUGHTON||7A",5,"Professional suburbs",0.348,0.6685
+"STOUGHTON||8",3,"Post-industrial cities",0.666,0.6381
+"STOUGHTON||8A",6,"New Englandtown",0.808,0.5407
+"STOW||1",5,"Professional suburbs",0.85,0.6239
+"STOW||2",5,"Professional suburbs",0.85,0.6548
+"STURBRIDGE||1",5,"Professional suburbs",0.85,0.5117
+"STURBRIDGE||2",6,"New Englandtown",0.945,0.4746
+"STURBRIDGE||3",6,"New Englandtown",0.945,0.4857
+"SUDBURY||1",5,"Professional suburbs",0.85,0.6523
+"SUDBURY||2",5,"Professional suburbs",0.845,0.681
+"SUDBURY||3",5,"Professional suburbs",0.85,0.6595
+"SUDBURY||4",5,"Professional suburbs",0.848,0.6909
+"SUDBURY||5",5,"Professional suburbs",0.85,0.657
+"SUDBURY||6",5,"Professional suburbs",0.85,0.6572
+"SUNDERLAND||1",4,"Affluent inner ring",0.866,0.7616
+"SUTTON||1",6,"New Englandtown",0.945,0.4111
+"SUTTON||2",6,"New Englandtown",0.945,0.3979
+"SUTTON||3",6,"New Englandtown",0.945,0.441
+"SWAMPSCOTT||1",3,"Post-industrial cities",0.408,0.6325
+"SWAMPSCOTT||2",5,"Professional suburbs",0.79,0.6427
+"SWAMPSCOTT||3",5,"Professional suburbs",0.817,0.6798
+"SWAMPSCOTT||4",5,"Professional suburbs",0.846,0.6697
+"SWAMPSCOTT||5",5,"Professional suburbs",0.85,0.6278
+"SWAMPSCOTT||6",5,"Professional suburbs",0.85,0.6348
+"SWANSEA||1",6,"New Englandtown",0.945,0.46
+"SWANSEA||2",6,"New Englandtown",0.929,0.5386
+"SWANSEA||3",6,"New Englandtown",0.944,0.5231
+"SWANSEA||4",6,"New Englandtown",0.945,0.4741
+"SWANSEA||5",6,"New Englandtown",0.945,0.4597
+"TAUNTON|1|A",3,"Post-industrial cities",0.835,0.6056
+"TAUNTON|1|A1",4,"Affluent inner ring",0.296,0.6777
+"TAUNTON|1|B",6,"New Englandtown",0.945,0.496
+"TAUNTON|2|A",3,"Post-industrial cities",0.823,0.6807
+"TAUNTON|2|B",3,"Post-industrial cities",0.804,0.6208
+"TAUNTON|3|A",6,"New Englandtown",0.904,0.5948
+"TAUNTON|3|B",6,"New Englandtown",0.944,0.5395
+"TAUNTON|4|A",6,"New Englandtown",0.945,0.4745
+"TAUNTON|4|B",6,"New Englandtown",0.94,0.5403
+"TAUNTON|4|B1",6,"New Englandtown",0.91,0.381
+"TAUNTON|5|A",3,"Post-industrial cities",0.668,0.5952
+"TAUNTON|5|B",3,"Post-industrial cities",0.843,0.6377
+"TAUNTON|6|A",6,"New Englandtown",0.655,0.5975
+"TAUNTON|6|B",6,"New Englandtown",0.489,0.5944
+"TAUNTON|7|A",6,"New Englandtown",0.945,0.5429
+"TAUNTON|7|B",6,"New Englandtown",0.945,0.4646
+"TAUNTON|8|A",6,"New Englandtown",0.945,0.5091
+"TAUNTON|8|B",6,"New Englandtown",0.945,0.509
+"TEMPLETON||A",6,"New Englandtown",0.945,0.4275
+"TEMPLETON||B",6,"New Englandtown",0.945,0.4377
+"TEMPLETON||C",6,"New Englandtown",0.945,0.462
+"TEWKSBURY||1",6,"New Englandtown",0.945,0.4801
+"TEWKSBURY||2",6,"New Englandtown",0.945,0.4879
+"TEWKSBURY||3",6,"New Englandtown",0.945,0.4646
+"TEWKSBURY||4",5,"Professional suburbs",0.834,0.4824
+"TEWKSBURY||5",6,"New Englandtown",0.945,0.4653
+"TEWKSBURY||5A",5,"Professional suburbs",0.416,0.5877
+"TEWKSBURY||6",6,"New Englandtown",0.945,0.4576
+"TEWKSBURY||7",6,"New Englandtown",0.945,0.471
+"TEWKSBURY||8",6,"New Englandtown",0.945,0.487
+"TISBURY||1",4,"Affluent inner ring",0.817,0.7622
+"TOLLAND||1",6,"New Englandtown",0.917,0.3845
+"TOPSFIELD||1",6,"New Englandtown",0.741,0.5084
+"TOPSFIELD||2",6,"New Englandtown",0.741,0.5111
+"TOWNSEND||1",6,"New Englandtown",0.945,0.417
+"TOWNSEND||2",6,"New Englandtown",0.945,0.4477
+"TOWNSEND||3",6,"New Englandtown",0.945,0.4438
+"TRURO||1",4,"Affluent inner ring",0.603,0.7494
+"TYNGSBOROUGH||1",6,"New Englandtown",0.945,0.4675
+"TYNGSBOROUGH||2",6,"New Englandtown",0.945,0.4644
+"TYNGSBOROUGH||3",6,"New Englandtown",0.943,0.4929
+"TYNGSBOROUGH||4",6,"New Englandtown",0.945,0.4676
+"TYRINGHAM||1",4,"Affluent inner ring",0.655,0.7241
+"UPTON||1",6,"New Englandtown",0.85,0.5325
+"UPTON||2",6,"New Englandtown",0.914,0.4953
+"UPTON||3",6,"New Englandtown",0.937,0.4996
+"UXBRIDGE||1",6,"New Englandtown",0.945,0.4296
+"UXBRIDGE||1A",6,"New Englandtown",0.825,0.6016
+"UXBRIDGE||2",6,"New Englandtown",0.945,0.4949
+"UXBRIDGE||3",6,"New Englandtown",0.945,0.4224
+"UXBRIDGE||4",6,"New Englandtown",0.945,0.4563
+"WAKEFIELD||1",6,"New Englandtown",0.945,0.5052
+"WAKEFIELD||2",6,"New Englandtown",0.898,0.5532
+"WAKEFIELD||3",6,"New Englandtown",0.937,0.5496
+"WAKEFIELD||4",6,"New Englandtown",0.921,0.5662
+"WAKEFIELD||5",6,"New Englandtown",0.809,0.5749
+"WAKEFIELD||6",6,"New Englandtown",0.798,0.5917
+"WAKEFIELD||7",6,"New Englandtown",0.945,0.5384
+"WALES||1",6,"New Englandtown",0.935,0.4274
+"WALPOLE||1",6,"New Englandtown",0.851,0.5376
+"WALPOLE||2",6,"New Englandtown",0.943,0.4863
+"WALPOLE||2A",6,"New Englandtown",0.877,0.415
+"WALPOLE||3",6,"New Englandtown",0.945,0.5183
+"WALPOLE||4",6,"New Englandtown",0.923,0.5421
+"WALPOLE||5",6,"New Englandtown",0.945,0.478
+"WALPOLE||5A",6,"New Englandtown",0.746,0.5169
+"WALPOLE||6",6,"New Englandtown",0.943,0.504
+"WALPOLE||7",6,"New Englandtown",0.945,0.4766
+"WALPOLE||8",6,"New Englandtown",0.92,0.4598
+"WALTHAM|1|1",5,"Professional suburbs",0.775,0.6306
+"WALTHAM|1|2",5,"Professional suburbs",0.707,0.5998
+"WALTHAM|1|2A",6,"New Englandtown",0.71,0.3208
+"WALTHAM|2|1",5,"Professional suburbs",0.609,0.6489
+"WALTHAM|2|2",5,"Professional suburbs",0.423,0.7235
+"WALTHAM|3|1",6,"New Englandtown",0.945,0.5444
+"WALTHAM|3|2",3,"Post-industrial cities",0.443,0.6216
+"WALTHAM|3|2A",6,"New Englandtown",0.516,0.5496
+"WALTHAM|4|1",5,"Professional suburbs",0.47,0.5962
+"WALTHAM|4|1A",5,"Professional suburbs",0.365,0.782
+"WALTHAM|4|2",5,"Professional suburbs",0.75,0.6577
+"WALTHAM|5|1",5,"Professional suburbs",0.502,0.6602
+"WALTHAM|5|2",4,"Affluent inner ring",0.545,0.7425
+"WALTHAM|5|2A",4,"Affluent inner ring",0.519,0.8272
+"WALTHAM|6|1",4,"Affluent inner ring",0.574,0.7273
+"WALTHAM|6|2",5,"Professional suburbs",0.686,0.7102
+"WALTHAM|6|2A",4,"Affluent inner ring",0.404,0.676
+"WALTHAM|7|1",5,"Professional suburbs",0.612,0.6549
+"WALTHAM|7|2",4,"Affluent inner ring",0.868,0.7787
+"WALTHAM|8|1",4,"Affluent inner ring",0.799,0.7734
+"WALTHAM|8|2",4,"Affluent inner ring",0.827,0.7213
+"WALTHAM|8|2A",4,"Affluent inner ring",0.342,0.8493
+"WALTHAM|9|1",4,"Affluent inner ring",0.857,0.7628
+"WALTHAM|9|2",4,"Affluent inner ring",0.716,0.7534
+"WARE||A",6,"New Englandtown",0.657,0.5625
+"WARE||B",6,"New Englandtown",0.945,0.4525
+"WARE||C",6,"New Englandtown",0.945,0.4579
+"WAREHAM||1",6,"New Englandtown",0.945,0.534
+"WAREHAM||2",6,"New Englandtown",0.945,0.5482
+"WAREHAM||3",6,"New Englandtown",0.945,0.5304
+"WAREHAM||4",6,"New Englandtown",0.945,0.5113
+"WAREHAM||5",6,"New Englandtown",0.943,0.4916
+"WAREHAM||6",6,"New Englandtown",0.943,0.4856
+"WARREN||1",6,"New Englandtown",0.942,0.4476
+"WARREN||A",6,"New Englandtown",0.925,0.4085
+"WARREN||B",6,"New Englandtown",0.884,0.404
+"WARWICK||1",5,"Professional suburbs",0.752,0.6709
+"WASHINGTON||1",5,"Professional suburbs",0.813,0.6896
+"WATERTOWN||1",4,"Affluent inner ring",0.816,0.7433
+"WATERTOWN||10",5,"Professional suburbs",0.804,0.6967
+"WATERTOWN||11",5,"Professional suburbs",0.699,0.6858
+"WATERTOWN||12",5,"Professional suburbs",0.781,0.7164
+"WATERTOWN||2",4,"Affluent inner ring",0.871,0.7778
+"WATERTOWN||3",4,"Affluent inner ring",0.86,0.8007
+"WATERTOWN||4",4,"Affluent inner ring",0.871,0.8113
+"WATERTOWN||5",4,"Affluent inner ring",0.871,0.7918
+"WATERTOWN||6",4,"Affluent inner ring",0.868,0.7709
+"WATERTOWN||7",4,"Affluent inner ring",0.59,0.7324
+"WATERTOWN||8",4,"Affluent inner ring",0.815,0.7478
+"WATERTOWN||9",4,"Affluent inner ring",0.827,0.7466
+"WAYLAND||1",5,"Professional suburbs",0.728,0.7169
+"WAYLAND||2",5,"Professional suburbs",0.73,0.7185
+"WAYLAND||3",5,"Professional suburbs",0.76,0.719
+"WAYLAND||4",5,"Professional suburbs",0.85,0.6754
+"WEBSTER||1",6,"New Englandtown",0.883,0.5015
+"WEBSTER||1A",6,"New Englandtown",0.437,0.4553
+"WEBSTER||2",3,"Post-industrial cities",0.84,0.5469
+"WEBSTER||3",6,"New Englandtown",0.945,0.4714
+"WEBSTER||4",6,"New Englandtown",0.945,0.4088
+"WEBSTER||5",6,"New Englandtown",0.945,0.4848
+"WELLESLEY||A",5,"Professional suburbs",0.85,0.6685
+"WELLESLEY||B",5,"Professional suburbs",0.849,0.6913
+"WELLESLEY||C",5,"Professional suburbs",0.85,0.5401
+"WELLESLEY||D",5,"Professional suburbs",0.85,0.7001
+"WELLESLEY||E",5,"Professional suburbs",0.85,0.6697
+"WELLESLEY||F",5,"Professional suburbs",0.848,0.6482
+"WELLESLEY||G",4,"Affluent inner ring",0.689,0.7709
+"WELLESLEY||H",5,"Professional suburbs",0.843,0.6376
+"WELLFLEET||1",4,"Affluent inner ring",0.826,0.7407
+"WENDELL||1",2,"Collegevilles",0.723,0.8156
+"WENHAM||1",5,"Professional suburbs",0.838,0.5514
+"WENHAM||1A",5,"Professional suburbs",0.419,0.6463
+"WESTBOROUGH||1",5,"Professional suburbs",0.848,0.6552
+"WESTBOROUGH||2",5,"Professional suburbs",0.85,0.6291
+"WESTBOROUGH||3",5,"Professional suburbs",0.84,0.6347
+"WESTBOROUGH||4",5,"Professional suburbs",0.85,0.6066
+"WESTBOROUGH||5",5,"Professional suburbs",0.85,0.5912
+"WESTBOROUGH||6",5,"Professional suburbs",0.85,0.6187
+"WESTBOYLSTON||1",6,"New Englandtown",0.945,0.5144
+"WESTBOYLSTON||2",6,"New Englandtown",0.945,0.5039
+"WESTBRIDGEWATER||1",6,"New Englandtown",0.945,0.4279
+"WESTBRIDGEWATER||2",6,"New Englandtown",0.945,0.4311
+"WESTBROOKFIELD||1",6,"New Englandtown",0.945,0.4722
+"WESTFIELD|1|A",6,"New Englandtown",0.945,0.4614
+"WESTFIELD|1|B",6,"New Englandtown",0.945,0.4622
+"WESTFIELD|2|A",3,"Post-industrial cities",0.818,0.6004
+"WESTFIELD|2|A1",6,"New Englandtown",0.539,0.5827
+"WESTFIELD|2|B",6,"New Englandtown",0.879,0.5287
+"WESTFIELD|3|A",3,"Post-industrial cities",0.782,0.5612
+"WESTFIELD|3|B",6,"New Englandtown",0.937,0.515
+"WESTFIELD|4|A",6,"New Englandtown",0.945,0.4738
+"WESTFIELD|4|B",6,"New Englandtown",0.921,0.4615
+"WESTFIELD|5|A",6,"New Englandtown",0.945,0.4477
+"WESTFIELD|5|B",6,"New Englandtown",0.945,0.413
+"WESTFIELD|6|A",6,"New Englandtown",0.945,0.4299
+"WESTFIELD|6|B",6,"New Englandtown",0.945,0.4578
+"WESTFIELD|6|B1",6,"New Englandtown",0.883,0.3206
+"WESTFORD||1",5,"Professional suburbs",0.745,0.5606
+"WESTFORD||2",5,"Professional suburbs",0.626,0.5655
+"WESTFORD||3",5,"Professional suburbs",0.537,0.5577
+"WESTFORD||4",5,"Professional suburbs",0.758,0.5747
+"WESTFORD||5",5,"Professional suburbs",0.72,0.5754
+"WESTFORD||6",6,"New Englandtown",0.779,0.5582
+"WESTFORD||7",5,"Professional suburbs",0.85,0.6063
+"WESTHAMPTON||1",5,"Professional suburbs",0.846,0.607
+"WESTMINSTER||1",6,"New Englandtown",0.945,0.4573
+"WESTMINSTER||2",6,"New Englandtown",0.945,0.4476
+"WESTMINSTER||2A",6,"New Englandtown",0.9,0.4542
+"WESTMINSTER||3",6,"New Englandtown",0.945,0.4642
+"WESTNEWBURY||1",5,"Professional suburbs",0.801,0.5624
+"WESTON||1",5,"Professional suburbs",0.85,0.6466
+"WESTON||2",5,"Professional suburbs",0.85,0.6168
+"WESTON||3",5,"Professional suburbs",0.85,0.5988
+"WESTON||4",5,"Professional suburbs",0.85,0.5904
+"WESTPORT||A",6,"New Englandtown",0.945,0.5168
+"WESTPORT||B",6,"New Englandtown",0.648,0.5245
+"WESTPORT||C",6,"New Englandtown",0.945,0.5062
+"WESTPORT||D",6,"New Englandtown",0.941,0.5276
+"WESTPORT||E",6,"New Englandtown",0.596,0.5332
+"WESTSPRINGFIELD||1",3,"Post-industrial cities",0.725,0.6143
+"WESTSPRINGFIELD||2",3,"Post-industrial cities",0.784,0.5825
+"WESTSPRINGFIELD||3",6,"New Englandtown",0.909,0.5288
+"WESTSPRINGFIELD||4",6,"New Englandtown",0.818,0.5444
+"WESTSPRINGFIELD||5",6,"New Englandtown",0.945,0.4682
+"WESTSPRINGFIELD||6",6,"New Englandtown",0.945,0.4662
+"WESTSPRINGFIELD||7",6,"New Englandtown",0.945,0.4369
+"WESTSPRINGFIELD||8",6,"New Englandtown",0.892,0.5264
+"WESTSTOCKBRIDGE||1",4,"Affluent inner ring",0.862,0.8083
+"WESTTISBURY||1",4,"Affluent inner ring",0.859,0.8097
+"WESTWOOD||1",5,"Professional suburbs",0.841,0.5698
+"WESTWOOD||2",5,"Professional suburbs",0.776,0.5621
+"WESTWOOD||3",5,"Professional suburbs",0.824,0.5569
+"WESTWOOD||4",6,"New Englandtown",0.707,0.4969
+"WESTWOOD||5",5,"Professional suburbs",0.845,0.566
+"WEYMOUTH||1",6,"New Englandtown",0.937,0.5467
+"WEYMOUTH||10",6,"New Englandtown",0.912,0.566
+"WEYMOUTH||11",6,"New Englandtown",0.889,0.5499
+"WEYMOUTH||12",6,"New Englandtown",0.941,0.5203
+"WEYMOUTH||13",6,"New Englandtown",0.761,0.5913
+"WEYMOUTH||14",6,"New Englandtown",0.943,0.5432
+"WEYMOUTH||15",6,"New Englandtown",0.945,0.5152
+"WEYMOUTH||16",6,"New Englandtown",0.945,0.51
+"WEYMOUTH||17",6,"New Englandtown",0.943,0.5614
+"WEYMOUTH||18",6,"New Englandtown",0.916,0.5394
+"WEYMOUTH||2",6,"New Englandtown",0.945,0.534
+"WEYMOUTH||3",6,"New Englandtown",0.945,0.5053
+"WEYMOUTH||4",6,"New Englandtown",0.944,0.5328
+"WEYMOUTH||5",3,"Post-industrial cities",0.497,0.5924
+"WEYMOUTH||6",6,"New Englandtown",0.945,0.555
+"WEYMOUTH||7",6,"New Englandtown",0.902,0.5387
+"WEYMOUTH||8",6,"New Englandtown",0.931,0.562
+"WEYMOUTH||9",6,"New Englandtown",0.945,0.5371
+"WEYMOUTH||9A",6,"New Englandtown",0.834,0.5015
+"WHATELY||1",5,"Professional suburbs",0.827,0.6555
+"WHITMAN||1",6,"New Englandtown",0.945,0.4892
+"WHITMAN||2",6,"New Englandtown",0.945,0.4515
+"WHITMAN||3",6,"New Englandtown",0.945,0.4666
+"WHITMAN||4",6,"New Englandtown",0.945,0.4782
+"WILBRAHAM||A",6,"New Englandtown",0.931,0.494
+"WILBRAHAM||B",6,"New Englandtown",0.939,0.4828
+"WILBRAHAM||C",6,"New Englandtown",0.943,0.45
+"WILBRAHAM||D",6,"New Englandtown",0.945,0.4629
+"WILLIAMSBURG||1",4,"Affluent inner ring",0.866,0.7801
+"WILLIAMSTOWN||1",4,"Affluent inner ring",0.871,0.8181
+"WILLIAMSTOWN||2",2,"Collegevilles",0.935,0.8951
+"WILLIAMSTOWN||3",4,"Affluent inner ring",0.871,0.8345
+"WILMINGTON||1",6,"New Englandtown",0.945,0.5005
+"WILMINGTON||2",6,"New Englandtown",0.945,0.4832
+"WILMINGTON||3",6,"New Englandtown",0.945,0.4754
+"WILMINGTON||4",6,"New Englandtown",0.945,0.4774
+"WILMINGTON||5",6,"New Englandtown",0.945,0.5077
+"WILMINGTON||6",6,"New Englandtown",0.985,0.489
+"WINCHENDON||1",6,"New Englandtown",0.945,0.4433
+"WINCHENDON||2",6,"New Englandtown",0.912,0.4559
+"WINCHENDON||3",6,"New Englandtown",0.945,0.4547
+"WINCHESTER||1",5,"Professional suburbs",0.849,0.665
+"WINCHESTER||2",5,"Professional suburbs",0.835,0.6571
+"WINCHESTER||3",5,"Professional suburbs",0.798,0.711
+"WINCHESTER||4",5,"Professional suburbs",0.85,0.6243
+"WINCHESTER||5",5,"Professional suburbs",0.849,0.5599
+"WINCHESTER||6",5,"Professional suburbs",0.85,0.5634
+"WINCHESTER||7",5,"Professional suburbs",0.85,0.6112
+"WINCHESTER||8",5,"Professional suburbs",0.824,0.6198
+"WINDSOR||1",5,"Professional suburbs",0.76,0.6663
+"WINTHROP||1",6,"New Englandtown",0.912,0.5576
+"WINTHROP||2",6,"New Englandtown",0.943,0.5372
+"WINTHROP||3",5,"Professional suburbs",0.656,0.6253
+"WINTHROP||4",6,"New Englandtown",0.927,0.6036
+"WINTHROP||5",5,"Professional suburbs",0.508,0.5743
+"WINTHROP||6",5,"Professional suburbs",0.643,0.6267
+"WOBURN|1|1",6,"New Englandtown",0.927,0.6081
+"WOBURN|1|2",6,"New Englandtown",0.641,0.5866
+"WOBURN|1|2A",6,"New Englandtown",0.378,0.6729
+"WOBURN|2|1",6,"New Englandtown",0.693,0.5653
+"WOBURN|2|2",3,"Post-industrial cities",0.737,0.6313
+"WOBURN|3|1",6,"New Englandtown",0.94,0.5511
+"WOBURN|3|2",6,"New Englandtown",0.945,0.5095
+"WOBURN|4|1",6,"New Englandtown",0.945,0.5213
+"WOBURN|4|2",6,"New Englandtown",0.87,0.5807
+"WOBURN|5|1",3,"Post-industrial cities",0.698,0.6133
+"WOBURN|5|2",6,"New Englandtown",0.945,0.5507
+"WOBURN|6|1",3,"Post-industrial cities",0.505,0.6098
+"WOBURN|6|2",6,"New Englandtown",0.945,0.5275
+"WOBURN|7|1",6,"New Englandtown",0.945,0.5006
+"WOBURN|7|2",6,"New Englandtown",0.945,0.513
+"WORCESTER|1|1",5,"Professional suburbs",0.612,0.6662
+"WORCESTER|1|2",6,"New Englandtown",0.81,0.5921
+"WORCESTER|1|3",5,"Professional suburbs",0.789,0.5922
+"WORCESTER|1|4",5,"Professional suburbs",0.801,0.6794
+"WORCESTER|1|5",3,"Post-industrial cities",0.795,0.6087
+"WORCESTER|1|6",3,"Post-industrial cities",0.5,0.6028
+"WORCESTER|10|1",1,"Immigrant urban cores",0.746,0.7574
+"WORCESTER|10|2",4,"Affluent inner ring",0.811,0.8024
+"WORCESTER|10|3",1,"Immigrant urban cores",0.91,0.8278
+"WORCESTER|10|4",1,"Immigrant urban cores",0.91,0.7772
+"WORCESTER|10|5",1,"Immigrant urban cores",0.91,0.7866
+"WORCESTER|10|6",1,"Immigrant urban cores",0.905,0.8009
+"WORCESTER|2|1",3,"Post-industrial cities",0.804,0.6239
+"WORCESTER|2|2",3,"Post-industrial cities",0.729,0.6264
+"WORCESTER|2|3",3,"Post-industrial cities",0.783,0.6373
+"WORCESTER|2|4",1,"Immigrant urban cores",0.833,0.7666
+"WORCESTER|2|5",1,"Immigrant urban cores",0.675,0.7611
+"WORCESTER|2|6",3,"Post-industrial cities",0.831,0.6629
+"WORCESTER|3|1",1,"Immigrant urban cores",0.687,0.7298
+"WORCESTER|3|2",1,"Immigrant urban cores",0.845,0.7405
+"WORCESTER|3|3",3,"Post-industrial cities",0.817,0.6502
+"WORCESTER|3|4",1,"Immigrant urban cores",0.902,0.7385
+"WORCESTER|3|5",3,"Post-industrial cities",0.76,0.7177
+"WORCESTER|3|6",3,"Post-industrial cities",0.801,0.6826
+"WORCESTER|4|1",1,"Immigrant urban cores",0.789,0.7455
+"WORCESTER|4|2",3,"Post-industrial cities",0.815,0.6768
+"WORCESTER|4|2A",3,"Post-industrial cities",0.448,0.6708
+"WORCESTER|4|3",1,"Immigrant urban cores",0.91,0.8144
+"WORCESTER|4|4",3,"Post-industrial cities",0.839,0.6877
+"WORCESTER|4|5",3,"Post-industrial cities",0.82,0.6546
+"WORCESTER|4|6",3,"Post-industrial cities",0.821,0.6325
+"WORCESTER|5|1",3,"Post-industrial cities",0.618,0.7146
+"WORCESTER|5|2",3,"Post-industrial cities",0.829,0.6261
+"WORCESTER|5|3",3,"Post-industrial cities",0.513,0.571
+"WORCESTER|5|4",3,"Post-industrial cities",0.74,0.6116
+"WORCESTER|5|5",3,"Post-industrial cities",0.748,0.6041
+"WORCESTER|5|6",3,"Post-industrial cities",0.842,0.6574
+"WORCESTER|6|1",1,"Immigrant urban cores",0.804,0.7746
+"WORCESTER|6|2",3,"Post-industrial cities",0.607,0.7223
+"WORCESTER|6|3",3,"Post-industrial cities",0.712,0.6955
+"WORCESTER|6|4",3,"Post-industrial cities",0.734,0.6637
+"WORCESTER|6|5",3,"Post-industrial cities",0.805,0.6739
+"WORCESTER|6|6",3,"Post-industrial cities",0.844,0.6337
+"WORCESTER|7|1",3,"Post-industrial cities",0.741,0.6885
+"WORCESTER|7|2",3,"Post-industrial cities",0.839,0.6656
+"WORCESTER|7|3",3,"Post-industrial cities",0.711,0.6847
+"WORCESTER|7|4",3,"Post-industrial cities",0.843,0.6576
+"WORCESTER|7|5",3,"Post-industrial cities",0.627,0.6119
+"WORCESTER|7|5A",3,"Post-industrial cities",0.509,0.6419
+"WORCESTER|7|6",3,"Post-industrial cities",0.843,0.6212
+"WORCESTER|8|1",1,"Immigrant urban cores",0.806,0.725
+"WORCESTER|8|2",1,"Immigrant urban cores",0.62,0.7449
+"WORCESTER|8|3",4,"Affluent inner ring",0.737,0.8529
+"WORCESTER|8|4",1,"Immigrant urban cores",0.907,0.7748
+"WORCESTER|8|5",3,"Post-industrial cities",0.797,0.6857
+"WORCESTER|8|6",1,"Immigrant urban cores",0.897,0.7289
+"WORCESTER|9|1",3,"Post-industrial cities",0.449,0.7095
+"WORCESTER|9|2",5,"Professional suburbs",0.58,0.7045
+"WORCESTER|9|3",3,"Post-industrial cities",0.725,0.6453
+"WORCESTER|9|4",3,"Post-industrial cities",0.814,0.6303
+"WORCESTER|9|5",5,"Professional suburbs",0.503,0.6403
+"WORCESTER|9|6",3,"Post-industrial cities",0.546,0.6493
+"WORTHINGTON||1",5,"Professional suburbs",0.498,0.6547
+"WRENTHAM||1",6,"New Englandtown",0.945,0.4485
+"WRENTHAM||2",6,"New Englandtown",0.945,0.4413
+"WRENTHAM||3",6,"New Englandtown",0.945,0.4813
+"WRENTHAM||4",6,"New Englandtown",0.945,0.4483
+"YARMOUTH||1",6,"New Englandtown",0.556,0.5561
+"YARMOUTH||2",6,"New Englandtown",0.884,0.5331
+"YARMOUTH||3",6,"New Englandtown",0.945,0.5284
+"YARMOUTH||4",6,"New Englandtown",0.936,0.5333
+"YARMOUTH||5",6,"New Englandtown",0.945,0.5111
+"YARMOUTH||6",6,"New Englandtown",0.66,0.5456
+"YARMOUTH||7",5,"Professional suburbs",0.61,0.5249
+"YARMOUTH||8",6,"New Englandtown",0.93,0.5488
+"YARMOUTH||8A",6,"New Englandtown",0.542,0.501
