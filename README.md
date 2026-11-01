@@ -67,7 +67,7 @@ This repository makes the data behind that work public, in a form ready for the 
 | [New York City](data/nyc/) | 4,152 election districts | 2014–24 | 30 | 9 | 38.1 | 9 | 16 of the 30 are city proposals; 2021 and 2025 primaries |
 | [Philadelphia](data/philadelphia/) | 1,703 divisions | 2014–24 | 56 | 11 | 14.0 | 8 | 48 of the 56 are city questions |
 | [Phoenix and Tucson (Maricopa and Pima)](data/phoenix_tucson/) | 1,177 precincts | 2012–24 | 44 | 10 | 82.3 | 11 |  |
-| [Portland (Multnomah County)](data/portland/) | 107 precincts | 2012–24 | 41 | 8 | 14.7 | 5 | 179 local measures |
+| [Portland (Multnomah County)](data/portland/) | 107 precincts | 2012–24 | 41 | 8 | 14.7 | 5 | 179 local measures; [worked example](examples/portland/) |
 | [San Francisco](data/sf/) | 510 precincts | 2012–22 | 64 | 9 | 22.4 | 9 | Candidate contests, 2018–24; [worked example](examples/san_francisco/) |
 | [Salt Lake County](data/slc/) | 803 precincts | 2011–24 | 55 | 4 | 12.7 | 8 | 30 of the 55 are county, city or district questions |
 | [South Florida](data/south_florida/) | 1,908 precincts | 2012–24 | 45 | 9 | 93.5 | 7 |  |
@@ -135,25 +135,44 @@ Each example is a self-contained walkthrough in [`examples/`](examples/), run fr
 | Example | Units | What it shows | Model route | Runtime |
 |---|---|---|---|---|
 | [San Francisco](examples/san_francisco/) | 510 precincts, 64 propositions | Blocs inside a uniformly Democratic city; class splits that partisanship cannot see; who lives in each bloc | Tempered EM from scratch | about 5 minutes |
-| [Portland](examples/portland/) | 107 precincts, 41 measures | The standard account: blocs ordered along one partisan axis | Stepping-stone posterior on *K* | see the example |
+| [Portland](examples/portland/) | 107 precincts, 41 measures | The standard account: blocs ordered along one partisan axis; why stepping-stone runs need replicates | Stepping-stone posterior on *K* (4 runs per *K*, cached), one map by k-medoids | about 1 minute (40 to rerun the sampler) |
 | [Massachusetts](examples/massachusetts/) | 2,392 precincts, 25 questions | The alternative account: partisan-matched pairs, characteristic ballots, and out-of-sample tests on a primary and on local questions | Stepping-stone posterior on *K* (cluster runs supplied), one map from the particles by k-medoids | about 15 seconds |
 
 ### San Francisco
 
-[`examples/san_francisco/`](examples/san_francisco/) fits the model to San Francisco's 64 California propositions of 2012–2022 in 510 precincts. Every precinct in the city is Democratic by national standards: the least Democratic bloc gives Democrats 77% of the two-party vote. Even so, the blocs find a structure that partisanship misses.
+64 California propositions (2012–22) in 510 precincts, fit by tempered EM. Every precinct is Democratic (the least Democratic bloc gives Democrats 77%), so partisanship has little room to separate neighborhoods.
 
-<p align="center"><img src="examples/san_francisco/output/bloc_map.png" width="70%" alt="Map of San Francisco's nine voting blocs"></p>
+<p align="center"><img src="examples/san_francisco/output/bloc_map.png" width="60%" alt="Map of San Francisco's nine voting blocs"></p>
 
-- **Nine blocs**, by the rule that every bloc holds at least 5% of precincts, as in the paper. They are spatially coherent although the model never sees a map.
-- **Partisanship explains little.** It explains a median 54% of the variance in a proposition, and under 25% for 12 of the 64.
-- **The blocs explain more on 61 of the 64.** The median adjusted R² is 0.78 for the blocs against 0.58 for nine bins of the normal vote.
-- **The gains come on class.** The largest are on the 2016 tax on high earners (0.63) and three dialysis-clinic initiatives. Two blocs half a point apart in partisanship split by 11–12 points on rent control.
+- **Nine blocs** (every bloc ≥ 5% of precincts), spatially coherent although the model never sees a map.
+- **The blocs explain more than partisanship on 61 of 64 propositions** (median adjusted R² 0.78 against 0.58).
+- **The gains come on class:** the 2016 tax on high earners and three dialysis-clinic initiatives. Two blocs half a point apart in partisanship split by 11–12 points on rent control.
 
-The walkthrough runs in about five minutes: [`examples/san_francisco/README.md`](examples/san_francisco/README.md).
+[Walkthrough](examples/san_francisco/README.md) · about 5 minutes.
 
-<!-- portland: local-political-data-b9 -->
+### Portland
 
-<!-- massachusetts: local-political-data-b9 -->
+41 Oregon measures (2012–24) in 107 precincts, using the full stepping-stone posterior at ζ = 0.8. The example shows that one stepping-stone run per *K* can crown the wrong *K*. With four replicates the posterior moves from the paper's five blocs to seven (p = 0.73, six 0.27).
+
+<p align="center"><img src="examples/portland/output/bloc_map.png" width="60%" alt="Map of Portland's seven voting blocs and each precinct's certainty"></p>
+
+- **One partisan axis:** it carries 86% of the variation between precincts, and the median measure has r² = 0.89 with the normal vote.
+- **The extra blocs split the West Hills from the east side.** Two blocs five points apart in partisanship differ by 19 points on the right to health care and 16 on a corporate tax.
+- **With seven blocs,** four measures clear the bar for a characteristic ballot (none did with five), led by lottery funds for veterans (gain 0.59).
+
+[Walkthrough](examples/portland/README.md) · about 1 minute with the cached runs.
+
+### Massachusetts
+
+25 statewide questions (2012–24) in 2,392 precincts, from the paper's stepping-stone runs at ζ = 0.25. The posterior puts 0.98 on eight occupied blocs; k-medoids on the posterior co-occupancy gives one map, and folding two incoherent blocs into their neighbor leaves six.
+
+<p align="center"><img src="examples/massachusetts/output/bloc_map.png" width="60%" alt="Map of Massachusetts's six voting blocs, with a Greater Boston inset"></p>
+
+- **Partisanship leaves most of the typical question unexplained:** 8 of 25 have r² < 0.25. The six blocs beat six bins of the normal vote on 21 of 25 (median adjusted R² 0.64 against 0.40).
+- **Matched pairs split:** Immigrant urban cores and the Affluent inner ring, four points apart in partisanship, differ by 27 points on Death with Dignity.
+- **Out of sample:** in the 2022 Democratic primary for governor, the blocs explain 44% of the variance against 10% for partisanship.
+
+[Walkthrough](examples/massachusetts/README.md) · about 15 seconds.
 
 ## Repository layout
 
@@ -179,4 +198,4 @@ For the model itself or the MCMC scheme: John D. O'Brien. 2026. "A Bayesian Mixt
 - BIC, or a project choice, for some;
 - a 1% rule for a few.
 
-We are now rerunning every place on a computing cluster with one consistent scheme: the stepping-stone sampler in Elections.BBMM, giving the posterior on the number of occupied blocs. Massachusetts and Portland already use it; their worked examples show how. The *K* values here, and any bloc assignments derived from them, will be replaced when those runs finish. The data in `data/` do not depend on the fits.
+We are now rerunning every place on a computing cluster with one consistent scheme: the stepping-stone sampler in Elections.BBMM, giving the posterior on the number of occupied blocs. Massachusetts and Portland already use it; their worked examples show how. For Portland, replicated runs favor seven blocs rather than the five listed here. The *K* values here, and any bloc assignments derived from them, will be replaced when those runs finish. The data in `data/` do not depend on the fits.
