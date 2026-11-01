@@ -154,9 +154,9 @@ scripts/                 how the files in data/ were written from the project's 
 
 ## Citation
 
-Aaron R. Kaufman and John D. O'Brien. "The Structure of Local Politics." Working paper.
+For the data, local politics analysis, or worked examples: Aaron R. Kaufman and John D. O'Brien. "The Structure of Local Politics." Working paper.
 
-John D. O'Brien. 2026. "A Bayesian Mixture Model Captures Temporal and Spatial Structure of Voting Blocs within Longitudinal Referendum Data." *Political Science Research and Methods*, 1–22. https://doi.org/10.1017/psrm.2025.10050
+For the model itself or the MCMC scheme: John D. O'Brien. 2026. "A Bayesian Mixture Model Captures Temporal and Spatial Structure of Voting Blocs within Longitudinal Referendum Data." *Political Science Research and Methods*, 1–22. https://doi.org/10.1017/psrm.2025.10050
 
 ## A note on the number of blocs
 
