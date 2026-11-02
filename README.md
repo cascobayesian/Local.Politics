@@ -28,7 +28,7 @@ To this we apply the **beta-binomial mixture model (BBMM)**, inspired by similar
    - Education predicts it best elsewhere.
    - The urban–rural divide that organizes national politics is conspicuously absent.
 
-This repository makes the data behind that work public, in a form ready for the model, with a record of how each place's data were made. The model itself is in the R package [**Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). [Worked examples](#worked-examples) reproduce parts of the analysis for San Francisco, Portland and Massachusetts.
+This repository makes the data behind that work public, in a form ready for the model, with a record of how each place's data were made. The model itself is in the R package [**Elections.BBMM**](https://github.com/cascobayesian/Elections.BBMM). [Worked examples](#worked-examples) reproduce parts of the analysis for San Francisco, Portland and Massachusetts, and walk through how South Florida's precincts were aligned across elections.
 
 ## The places
 
@@ -70,7 +70,7 @@ This repository makes the data behind that work public, in a form ready for the 
 | [Portland (Multnomah County)](data/portland/) | 107 precincts | 2012–24 | 41 | 8 | 14.7 | 5 | 179 local measures; [worked example](examples/portland/) |
 | [San Francisco](data/sf/) | 510 precincts | 2012–22 | 64 | 9 | 22.4 | 9 | Candidate contests, 2018–24; [worked example](examples/san_francisco/) |
 | [Salt Lake County](data/slc/) | 803 precincts | 2011–24 | 55 | 4 | 12.7 | 8 | 30 of the 55 are county, city or district questions |
-| [South Florida](data/south_florida/) | 1,908 precincts | 2012–24 | 45 | 9 | 93.5 | 7 |  |
+| [South Florida](data/south_florida/) | 1,908 precincts | 2012–24 | 45 | 9 | 93.5 | 7 | [alignment walkthrough](examples/south_florida/) |
 
 **Metro cut-outs of the statewide data** (the parent's precincts in the metro area; [details](data/README.md#metro-cut-outs))
 
@@ -137,6 +137,7 @@ Each example is a self-contained walkthrough in [`examples/`](examples/), run fr
 | [San Francisco](examples/san_francisco/) | 510 precincts, 64 propositions | Blocs inside a uniformly Democratic city; class splits that partisanship cannot see; who lives in each bloc | Tempered EM from scratch | about 5 minutes |
 | [Portland](examples/portland/) | 107 precincts, 41 measures | The standard account: blocs ordered along one partisan axis; why stepping-stone runs need replicates | Stepping-stone posterior on *K* (4 runs per *K*, cached), one map by k-medoids | about 1 minute (40 to rerun the sampler) |
 | [Massachusetts](examples/massachusetts/) | 2,392 precincts, 25 questions | The alternative account: partisan-matched pairs, characteristic ballots, and out-of-sample tests on a primary and on local questions | Stepping-stone posterior on *K* (cluster runs supplied), one map from the particles by k-medoids | about 15 seconds |
+| [South Florida](examples/south_florida/) | 1,914 precincts, 45 amendments, 7 elections | How returns are moved onto one precinct map: id placement, reporting groups, the 2020-block crosswalk, validation; block-population against areal weighting | Alignment, then tempered EM on both panels | about 1 minute (10 more for the fits) |
 
 ### San Francisco
 
@@ -173,6 +174,18 @@ Each example is a self-contained walkthrough in [`examples/`](examples/), run fr
 - **Out of sample:** in the 2022 Democratic primary for governor, the blocs explain 44% of the variance against 10% for partisanship.
 
 [Walkthrough](examples/massachusetts/README.md) · about 15 seconds.
+
+### South Florida: the alignment procedure
+
+Precinct lines move between elections, so every year's returns must be moved onto one map before the model sees them. This example aligns seven elections (2012–24) in Broward, Miami-Dade and Palm Beach onto the 1,914 precincts of the 2024 map. Each 2020 census block is assigned whole to one precinct in every map, and votes move in proportion to population.
+
+<p align="center"><img src="examples/south_florida/output/block_vs_areal.png" width="80%" alt="Where block-population and areal weighting disagree, and ballots per precinct under each"></p>
+
+- **Ids are never trusted alone:** unit placements are checked against the votes VEST attached to each polygon. Broward and Palm Beach match to the vote.
+- **Every vote is conserved,** and 2024 passes through the crosswalk unchanged.
+- **Against areal weighting:** yes shares barely move (median 0.04 points), but 12–15% of precincts get ballot counts more than 25% apart, and 28 precincts with almost no residents and no 2024 voters lose 53,000 ballots that areal weighting gave them. The six blocs survive (ARI 0.91).
+
+[Walkthrough](examples/south_florida/README.md) · about 1 minute, plus 10 for the model fits.
 
 ## Repository layout
 
