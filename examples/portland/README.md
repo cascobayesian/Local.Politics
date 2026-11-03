@@ -1,6 +1,6 @@
 # Worked example: Portland (Multnomah County)
 
-Portland is the paper's case of the *standard account*: local voting that follows national partisanship. Its 107 precincts run from about 53% to 91% Democratic, and most Oregon statewide measures split them along that axis. The example uses the fully Bayesian route through [Elections.BBMM](https://github.com/cascobayesian/Elections.BBMM), with no shortcuts:
+Portland is the paper's example of the *standard account*: the default understanding of local voting following national partisanship. And it indeed happens: Portland's 107 precincts run from about 53% to 91% Democratic, and the Oregon statewide ballot measures all fall along that axis. The example uses the fully Bayesian route through [Elections.BBMM](https://github.com/cascobayesian/Elections.BBMM), with no shortcuts:
 - the stepping-stone posterior on the number of blocs;
 - a single representative map drawn from the posterior sample;
 - the paper's comparisons with partisanship, recomputed from that map.
