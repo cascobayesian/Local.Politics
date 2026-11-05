@@ -1,6 +1,6 @@
 # The structure of American local politics
 
-Data, documentation and a worked example for **"The Structure of Local Politics"** (Aaron R. Kaufman and John D. O'Brien, working paper).
+Data, documentation and worked examples for **"The Structure of Local Politics"** (Aaron R. Kaufman and John D. O'Brien, working paper).
 
 ## The paper in brief
 
